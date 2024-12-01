@@ -6,12 +6,11 @@
 
 |             | Bilabial | Alveolar | Postalveolar | Palatal | Velar |
 |-------------|----------|----------|--------------|---------|-------|
-| Nasal       | m        | n        |              |         | ŋ     |
+| Nasal       | m        | n        |              |         |       |
 | Plosive     | p b      | t d      |              |         | k g   |
 | Fricative   | ɸ\~f β\~v| s z      | ʃ ʒ          |         | x\~h  |
 | Affricate   |          | ts\~tʃ   |              |         |       |
-| Approximant |          | l        |              | j       | w     |
-| Trill       |          | r        |              |         |       |
+| Approximant |          | l\~r     |              | j       | w     |
 
 ### Vowels
 
