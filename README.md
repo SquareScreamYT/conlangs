@@ -46,3 +46,13 @@ Example of Invalid Syllables:
 * flevz
 * tjujn
 * jwiw
+
+### Orthography
+
+All letters are written as their IPA, except:
+* [j] is written as "y"
+* [ʒ] is written as "j"
+* [ʃ] is written as "x"
+* [ts] is written as "c"
+* [ɸ] and [β] are written as "f" and "v"
+* &#x200b;[x] is written as "h"
