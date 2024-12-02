@@ -41,9 +41,8 @@ Example of Invalid Syllables:
 ### Orthography
 
 All letters are written as their IPA, except:
-* [j] is written as "y"
-* [ʒ] is written as "j"
-* [ʃ] is written as "x"
+* [ʒ] is written as "zh"
+* [ʃ] is written as "sh"
 * [ts] is written as "c"
 * [ɸ] and [β] are written as "f" and "v"
 * &#x200b;[x] is written as "h"
