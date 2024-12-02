@@ -22,14 +22,27 @@
 
 ### Phonotactics
 
-This conlang follows a (C)(C)V(C) syllable structure, where:
+This conlang follows a (C)(S)V(S)(n) syllable structure, where:
 
-* The second consonant (if present) must be a liquid or a trill (i.e., [l], [r]).
-* \[ŋ\] cannot occur as an onset consonant.
-* \[&#x200b;x\] cannot occur as a coda consonant.
+* C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
+* S (the semivowel) is optional and can only be [j] or [w], but only one semivowel is allowed per syllable.
+* If there is a semivowel after the first consonant, the consonant cannot be a semivowel.
+* If the vowel is [i] or [u], the semivowel cannot be [j] or [u].
+* V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
+* n (the nasal) is optional and can appear only at the end (coda) of a syllable.
+* A syllable must contain at least one vowel.
 
-### Allophones
+Example of Valid Syllables:
 
-* [sj] turns into [ʃ] (as in [sj] → [ʃ])
-* [zj] turns into [ʒ] (as in [zj] → [ʒ]).
-* [tj] turns into [tʃ] (as in [tj] → [tʃ]).
+* po
+* tan
+* liw
+* fju
+* swun
+
+Example of Invalid Syllables:
+
+* zak
+* flevz
+* tjujn
+* jwiw
