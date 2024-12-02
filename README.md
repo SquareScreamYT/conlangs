@@ -22,30 +22,21 @@
 
 ### Phonotactics
 
-This conlang follows a (C)(S)V(S)(n) syllable structure, where:
+This conlang follows a (C)V(n) syllable structure, where:
 
 * C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
-* S (the semivowel) is optional and can only be [j] or [w], but only one semivowel is allowed per syllable.
-* If there is a semivowel after the first consonant, the consonant cannot be a semivowel.
-* If the vowel is [i] or [u], the semivowel cannot be [j] or [u].
 * V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
-* A syllable must contain at least one vowel.
 
 Example of Valid Syllables:
 
 * po
 * tan
-* liw
-* fju
-* swun
 
 Example of Invalid Syllables:
 
 * zak
 * flevz
-* tjujn
-* jwiw
 
 ### Orthography
 
