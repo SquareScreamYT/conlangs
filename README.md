@@ -46,3 +46,12 @@ All letters are written as their IPA, except:
 * [ts] is written as "c"
 * [ɸ] and [β] are written as "f" and "v"
 * &#x200b;[x] is written as "h"
+
+## Important Words
+
+### Pronouns
+
+|          | First Person | Second Person | Third Person |
+|----------|--------------|---------------|--------------|
+| Singular | mi           | si            | fi           |
+| Plural   | vi           | zi            | ri           |
