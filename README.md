@@ -49,9 +49,10 @@ All letters are written as their IPA, except:
 
 ## Important Words
 
-### Pronouns
-
 |          | First Person | Second Person | Third Person |
 |----------|--------------|---------------|--------------|
 | Singular | mi           | si            | fi           |
 | Plural   | vi           | zi            | ri           |
+
+this - ni  
+that - na  
