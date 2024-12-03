@@ -35,7 +35,7 @@ Example of Valid Syllables:
 
 Example of Invalid Syllables:
 
-* zak
+* zik
 * flevz
 
 ### Orthography
