@@ -55,3 +55,17 @@ All letters are written as their IPA, except:
 * The letter "o" is written as "o", but when in the first syllable of a word and the final syllable is "e", it is pronounced as [ø].
 * The letter "n" is written as "n", but when before [k] or [g], it is pronounced but not written as [ŋ].
 * The letter "n" is written as "n", but when before [p] or [b], it is pronounced and written as [m].
+
+## Vocabulary
+
+### Pronouns
+
+| Number/Person | First | Second | Third |
+|---------------|-------|--------|-------|
+| Singular      | mi    | si     | zi    |
+| Plural        | vi    | di     | pi    |
+
+| Number/Distance | Near | Far |
+|-----------------|------|-----|
+| Singular        | ni   | na  |
+| Plural          | ti   | ta  |
