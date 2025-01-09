@@ -8,7 +8,7 @@
 |-------------|----------|----------|--------------|---------|-------|
 | Nasal       | m        | n        |              |         | (ŋ)   |
 | Plosive     | p b      | t d      |              |         | k g   |
-| Fricative   | ɸ\~f β\~v| s z      | ʃ ʒ          |         | x\~h  |
+| Fricative   | f v      | s z      | ʃ ʒ          |         | h     |
 | Affricate   |          | ts\~tʃ   |              |         |       |
 | Approximant |          | l r      |              | j       | w     |
 
@@ -51,8 +51,6 @@ All letters are written as their IPA, except:
 * [ʃ] is written as "x"
 * [j] is written as "y"
 * [ts] is written as "c"
-* [ɸ] and [β] are written as "f" and "v"
-* &#x200b;[x] is written as "h"
 
 Compound words are separated by dashes ("-").
 
