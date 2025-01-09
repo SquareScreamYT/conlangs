@@ -56,8 +56,8 @@ Compound words are separated by dashes ("-").
 
 ### Allophones
 
-* The letter "e" is written as "e", but when in the final syllable of a word, it is pronounced as a schwa [ə].
-* The letter "o" is written as "o", but when in the first syllable of a word and the final syllable is "e", it is pronounced as [ø].
+* The letter "e" is written as "e", but when in the final syllable of a word, it is pronounced as a schwa [ə]. This does not apply to proper nouns.
+* The letter "o" is written as "o", but when in the middle syllable of a word and the final syllable is "e", it is pronounced as [ø]. This does not apply to proper nouns.
 * The letter "n" is written as "n", but when before [k] or [g], it is pronounced but not written as [ŋ].
 * The letter "n" is written as "n", but when before [p] or [b], it is pronounced and written as [m].
 
