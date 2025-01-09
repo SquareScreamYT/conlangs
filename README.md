@@ -27,18 +27,22 @@ This conlang follows a (C)V(n) syllable structure, where:
 * C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
 * V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
-* Each word may only have 2 syllables.
-* [n] may not occur before [n] or [m].
+* Each word may only have 3 syllables, except for proper nouns such as names.
+* final [n] may not occur before [n] or any vowel.
 
-Example of Valid Syllables:
+Examples of Valid Words:
 
 * po
 * tan
+* luna
+* gunme
 
-Example of Invalid Syllables:
+Examples of Invalid Words:
 
 * zik
 * flevz
+* tunna
+* hahihuheho
 
 ### Orthography
 
