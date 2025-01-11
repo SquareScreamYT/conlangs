@@ -9,7 +9,7 @@
 | Nasal       | m        | n        |              |         | (ŋ)   |
 | Plosive     | p b      | t d      |              |         | k g   |
 | Fricative   | f v      | s z      | ʃ ʒ          |         | h     |
-| Affricate   |          | ts\~tʃ   |              |         |       |
+| Affricate   |          | ts       | tʃ           |         |       |
 | Approximant |          | l r      |              | j       | w     |
 
 ### Vowels
@@ -51,6 +51,7 @@ All letters are written as their IPA, except:
 * [ʃ] is written as "x"
 * [j] is written as "y"
 * [ts] is written as "c"
+* [tʃ] is written as "q"
 
 Compound words are separated by dashes ("-").
 
