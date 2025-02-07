@@ -46,6 +46,10 @@ Examples of Invalid Words:
 
 ### Orthography
 
+Nimine has 2 different orthographies: ASCII-compatible and standard. This document will be written in the standard version.
+
+ASCII-compatible Orthography:
+
 All letters are written as their IPA, except:
 * [ʒ] is written as "j"
 * [ʃ] is written as "x"
@@ -53,9 +57,17 @@ All letters are written as their IPA, except:
 * [ts] is written as "c"
 * [tʃ] is written as "q"
 
+Standard Orthography:
+
+All letters are written as their IPA, except:
+* [ʒ] is written as "ź"
+* [ʃ] is written as "ś"
+* [ts] is written as "c"
+* [tʃ] is written as "ć"
+
 ### Allophones
 
 * The letter "e" is written as "e", but when in the final syllable of a word, it is pronounced as a schwa [ə]. This does not apply to proper nouns.
 * The letter "o" is written as "o", but when in the middle syllable of a word and the final syllable is "e", it is pronounced as [ø]. This does not apply to proper nouns.
-* The letter "n" is written as "n", but when before [k] or [g], it is pronounced but not written as [ŋ].
-* The letter "n" is written as "n", but when before [p] or [b], it is pronounced and written as [m].
+* The letter "n" is written as "ń" in standard orthography or "n" in ASCII-compatible orthography before [k] or [g] and is pronounced as [ŋ].
+* The letter "n" is written as "m" in both standard orthography and ASCII-compatible orthography before [p] or [b] and is pronounced as [m].
