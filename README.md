@@ -1,4 +1,4 @@
-# Nimine
+# Katoero-Nimine
  
 ## Phonology
 
@@ -27,7 +27,7 @@ This conlang follows a (C)V(n) syllable structure, where:
 * C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
 * V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
-* Each word can only have 2 syllables, except for proper nouns, which have any odd number of syllables.
+* Each word can only have 2 syllables, except for proper nouns, which have any odd number of syllables and must be separated by dashes "-".
 * final [n] may not occur before [n] or any vowel.
 
 Examples of Valid Words (including proper nouns):
