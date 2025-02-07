@@ -67,7 +67,5 @@ All letters are written as their IPA, except:
 
 ### Allophones
 
-* The letter "e" is written as "e", but when in the final syllable of a word, it is pronounced as a schwa [ə]. This does not apply to proper nouns.
-* The letter "o" is written as "o", but when in the middle syllable of a word and the final syllable is "e", it is pronounced as [ø]. This does not apply to proper nouns.
 * The letter "n" is written as "ń" in standard orthography or "n" in ASCII-compatible orthography before [k] or [g] and is pronounced as [ŋ].
 * The letter "n" is written as "m" in both standard orthography and ASCII-compatible orthography before [p] or [b] and is pronounced as [m].
