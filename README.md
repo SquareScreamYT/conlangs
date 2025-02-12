@@ -14,11 +14,12 @@
 
 ### Vowels
 
-|       | Front | Central | Back |
-|-------|-------|---------|------|
-| Close | i     |         | u    |
-| Mid   | e (ø) | (ə)     | o    |
-| Open  |       | a       |      |
+|           | Front | Central | Back |
+|-----------|-------|---------|------|
+| Close     | i     |         | u    |
+| Mid | e     |         | o    |
+<!-- | Open-Mid  | ɛ     |         | ɔ    | -->
+| Open      |       | a       |      |
 
 ### Phonotactics
 
