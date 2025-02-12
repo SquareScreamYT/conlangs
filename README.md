@@ -17,9 +17,9 @@
 |           | Front | Central | Back |
 |-----------|-------|---------|------|
 | Close     | i     |         | u    |
-| Mid | e     |         | o    |
-<!-- | Open-Mid  | ɛ     |         | ɔ    | -->
+| Mid       | e     |         | o    |
 | Open      |       | a       |      |
+<!-- | Open-Mid  | ɛ     |         | ɔ    | -->
 
 ### Phonotactics
 
