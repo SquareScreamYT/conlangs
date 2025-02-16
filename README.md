@@ -30,6 +30,7 @@ This conlang follows a (C)V(n) syllable structure, where:
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
 * Each word can only have 2 syllables, except for proper nouns, which have any odd number of syllables and must be separated by dashes "-".
 * final [n] may not occur before [n] or any vowel.
+* [wu] and [ji] are invalid syllables.
 
 Examples of Valid Words (including proper nouns):
 
@@ -73,7 +74,9 @@ Cyrillic Orthography:
 * В в /v/
 * Г г /g/
 * Д д /d/
-* Е е /e/
+* Е е /je/
+* Ё ё /jo/
+* Э э /e/
 * Ж ж /ʒ/
 * З з /z/
 * И и /i/
@@ -94,6 +97,8 @@ Cyrillic Orthography:
 * Ц ц /ts/
 * Ч ч /tʃ/
 * Ш ш /ʃ/
+* Ю ю /ju/
+* Я я /ja/
 
 ### Allophones
 
