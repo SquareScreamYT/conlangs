@@ -1,4 +1,4 @@
-# Katoero-Nimine
+# Goban-Nimine
  
 ## Phonology
 
@@ -47,7 +47,7 @@ Examples of Invalid Words:
 
 ### Orthography
 
-Nimine has 2 different orthographies: ASCII-compatible and standard. This document will be written in the standard version.
+Nimine has 3 different orthographies: ASCII-compatible, Standard and Cyrillic. This document will be written in the standard version.
 
 ASCII-compatible Orthography:
 
@@ -65,6 +65,35 @@ All letters are written as their IPA, except:
 * [ʃ] is written as "ś"
 * [ts] is written as "c"
 * [tʃ] is written as "ć"
+
+Cyrillic Orthography:
+
+* А а /a/
+* Б б /b/
+* В в /v/
+* Г г /g/
+* Д д /d/
+* Е е /e/
+* Ж ж /ʒ/
+* З з /z/
+* И и /i/
+* Й й /j/
+* К к /k/
+* Л л /l/
+* М м /m/
+* Н н /n/
+* О о /o/
+* П п /p/
+* Р р /r/
+* С с /s/
+* Т т /t/
+* У у /u/
+* Ў ў /w/
+* Ф ф /f/
+* Х х /h/
+* Ц ц /ts/
+* Ч ч /tʃ/
+* Ш ш /ʃ/
 
 ### Allophones
 
