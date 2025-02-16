@@ -28,11 +28,11 @@ This conlang follows a (C)V(n) syllable structure, where:
 * C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
 * V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
-* Each word can only have 2 syllables, except for proper nouns, which have any odd number of syllables and must be separated by dashes "-".
+* Each word can only have 1, 2 or 3 syllables, except for proper nouns which can have any amount of syllables as needed.
 * final [n] may not occur before [n] or any vowel.
 * [wu] and [ji] are invalid syllables.
 
-Examples of Valid Words (including proper nouns):
+Examples of Valid Words (excluding proper nouns):
 
 * po
 * tan
@@ -100,6 +100,10 @@ Cyrillic Orthography:
 * Ш ш /ʃ/
 * Ю ю /ju/
 * Я я /ja/
+
+#### Capitalisation
+
+Start of sentences and proper nouns are capitalised.
 
 ### Allophones
 
