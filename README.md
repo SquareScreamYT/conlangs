@@ -85,6 +85,7 @@ Cyrillic Orthography:
 * Л л /l/
 * М м /m/
 * Н н /n/
+* Ӈ ӈ /ŋ/
 * О о /o/
 * П п /p/
 * Р р /r/
