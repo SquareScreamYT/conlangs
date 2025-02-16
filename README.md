@@ -97,5 +97,5 @@ Cyrillic Orthography:
 
 ### Allophones
 
-* The letter "n" is written as "ń" in standard orthography or "n" in ASCII-compatible orthography before [k] or [g] and is pronounced as [ŋ].
-* The letter "n" is written as "m" in both standard orthography and ASCII-compatible orthography before [p] or [b] and is pronounced as [m].
+* The letter "n" is written as "ń" in standard orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
+* The letter "n" is written as "m" in standard orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
