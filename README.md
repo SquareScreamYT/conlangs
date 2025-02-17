@@ -48,7 +48,7 @@ Examples of Invalid Words:
 
 ### Orthography
 
-Nimine has 3 different orthographies: ASCII-compatible, Standard and Cyrillic. This document will be written in the standard version.
+Nimine has 3 different orthographies: ASCII-compatible, Latin and Cyrillic. This document will be written in the Latin version.
 
 ASCII-compatible Orthography:
 
@@ -107,5 +107,5 @@ Start of sentences and proper nouns are capitalised.
 
 ### Allophones
 
-* The letter "n" is written as "ń" in standard orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
-* The letter "n" is written as "m" in standard orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
+* The letter "n" is written as "ń" in Latin orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
+* The letter "n" is written as "m" in Latin orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
