@@ -108,4 +108,4 @@ Start of sentences and proper nouns are capitalised.
 ### Allophones
 
 * The letter "n" is written as "ń" in Latin orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
-* The letter "n" is written as "m" in Latin orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
+* The letter "n" is written as "m" in Latin orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m]. 
