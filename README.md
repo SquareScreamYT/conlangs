@@ -181,7 +181,7 @@ see.FUT
 
 Un sehema hujin  
 1SG see.PRS.NEG dog  
-I am not seeing a dog
+I am not seeing a dog  
 \* Negation is special as it changes the e in suffixes to an a, if there is no suffix it adds -ne
 
 Un sehemege hujin  
