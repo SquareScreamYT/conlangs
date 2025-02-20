@@ -139,10 +139,10 @@ Start of sentences and proper nouns are capitalised.
 
 **Nimine uses V2 word order. Example:**
 
-Un sehede hujinsi  
+Un sehede hujinra  
 1SG see.PST dog.PL
 
-Zoten sehede un hujinsi  
+Zoten sehede un hujinra  
 yesterday see.PST 1SG dog.PL
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
@@ -152,3 +152,14 @@ big dog
 
 śeko hujin  
 fast dog
+
+**Nimine uses suffixes to mark plurality of nouns. Example:**
+
+hujin   
+dog.SG
+
+hujinro  
+dog.DU
+
+hujinra  
+dog.PL
