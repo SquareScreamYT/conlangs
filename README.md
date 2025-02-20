@@ -28,7 +28,7 @@ This conlang follows a (C)V(n) syllable structure, where:
 * C (the initial consonant) can be any consonant from the provided chart, including stops, fricatives, or approximants (e.g., [p], [t], [n], [s], [f], [w]).
 * V (the vowel) can be any of the five vowels in the system: [a], [i], [u], [e], [o].
 * n (the nasal) is optional and can appear only at the end (coda) of a syllable.
-* Each word can only have 1, 2 or 3 syllables, except for proper nouns which can have any amount of syllables as needed.
+* Each word can only have 1 to 4 syllables, except for proper nouns which can have any amount of syllables as needed.
 * final [n] may not occur before [n] or any vowel.
 * [wu] and [ji] are invalid syllables.
 
@@ -114,7 +114,7 @@ Start of sentences and proper nouns are capitalised.
 
 #### Notes
 
-* Each noun, adjective, adverb or verb base can only have 2 syllables. 1 syllable words are limited to conjuctions, pronouns and interjections. 3 syllables are for the final conjugated form of nouns and verbs.
+* Each noun, adjective, adverb or verb base can only have 2 syllables. 1 syllable words are limited to conjuctions, pronouns and interjections. 3 to 4 syllables are for the final conjugated form of nouns and verbs.
 
 #### Deriving Words
 
@@ -140,10 +140,12 @@ Start of sentences and proper nouns are capitalised.
 **Nimine uses V2 word order. Example:**
 
 Un sehede hujinra  
-1SG see.PST dog.PL
+1SG see.PST dog.PL  
+I saw dogs
 
 Zoten sehede un hujinra  
-yesterday see.PST 1SG dog.PL
+yesterday see.PST 1SG dog.PL  
+Yesterday I saw dogs
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
@@ -174,3 +176,18 @@ see.PRS
 
 sehere  
 see.FUT
+
+**Nimine also uses suffixes for helping verbs. Example:**
+
+Un sehema hujin  
+1SG see.PRS.NEG dog  
+I am not seeing a dog
+\* Negation is special as it changes the e in suffixes to an a, if there is no suffix it adds -ne
+
+Un sehemege hujin  
+1SG see.PRS.MOD dog  
+I might be seeing a dog
+
+Un sehemeke hujin  
+1SG see.PRS.ABIL dog  
+I can see a dog
