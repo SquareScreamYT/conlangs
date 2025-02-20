@@ -147,8 +147,8 @@ yesterday see.PST 1SG dog.PL
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
-rośi hujin
+rośi hujin  
 big dog
 
-śeko hujin
+śeko hujin  
 fast dog
