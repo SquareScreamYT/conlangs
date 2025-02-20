@@ -134,3 +134,21 @@ Start of sentences and proper nouns are capitalised.
 6. Take the first consonant of a cluster and use it. Remove any extra syllables from the end of a word. If the word ends with a consoannt and it is still under 2 syllables, add an "e". We now have "toke".
 7. Change "ia" or "ua" to "ija" and "uwa". Do this for every diphthong that starts with i or u.
 8. Congratulations! You made a word.
+
+## Grammar
+
+**Nimine uses V2 word order. Example:**
+
+Un sehede hujinsi  
+1SG see.PST dog.PL
+
+Zoten sehede un hujinsi  
+yesterday see.PST 1SG dog.PL
+
+**Adjectives and adverbs come before nouns and verbs. Example:**
+
+rośi hujin
+big dog
+
+śeko hujin
+fast dog
