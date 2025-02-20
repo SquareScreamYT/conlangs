@@ -163,3 +163,14 @@ dog.DU
 
 hujinra  
 dog.PL
+
+**Nimine uses suffixes to mark the tense of verbs. Example:**
+
+sehede  
+see.PST
+
+seheme  
+see.PRS
+
+sehere  
+see.FUT
