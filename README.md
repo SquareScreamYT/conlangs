@@ -155,6 +155,9 @@ big dog
 śeko hujin  
 fast dog
 
+biśa ronen  
+quickly run
+
 **Nimine uses suffixes to mark plurality of nouns. Example:**
 
 hujin   
