@@ -109,3 +109,28 @@ Start of sentences and proper nouns are capitalised.
 
 * The letter "n" is written as "ń" in Latin orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
 * The letter "n" is written as "m" in Latin orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
+
+### Word Coining
+
+#### Notes
+
+* Each noun, adjective, adverb or verb base can only have 2 syllables. 1 syllable words are limited to conjuctions, pronouns and interjections. 3 syllables are for the final conjugated form of nouns and verbs.
+
+#### Deriving Words
+
+1. Start by obtaining a word (typically from a Germanic or Slavic language). For this example we will use the root word for "to duck" in German: "tauch".
+2. The word "schwimm" can be written in Nimine's orthography as "tauk". However, it does not fit the phonotactics.
+3. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
+   * ai -> e
+   * au -> o
+   * oi -> e
+   * ə, ɛ -> e
+   * ɔ, ø -> o
+   * ɨ, y -> i
+   * ʌ, ɐ -> a
+   * ɯ, ʉ -> u
+4. Secondly, do the same for consonants.
+5. Then, you take any final nasal and turn it into "n", unless the base word is one letter, then you would do nasal + "e".
+6. Take the first consonant of a cluster and use it. Remove any extra syllables from the end of a word. If the word ends with a consoannt and it is still under 2 syllables, add an "e". We now have "toke".
+7. Change "ia" or "ua" to "ija" and "uwa". Do this for every diphthong that starts with i or u.
+8. Congratulations! You made a word.
