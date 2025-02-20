@@ -188,7 +188,7 @@ I am not seeing a dog
 \* Negation is special as it changes the e in suffixes to an a, if there is no suffix it adds -ne
 
 Un sehemege hujin  
-1SG see.PRS.MOD dog  
+1SG see.PRS.POSB dog  
 I might be seeing a dog
 
 Un sehemeke hujin  
