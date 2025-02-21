@@ -177,7 +177,7 @@ see.PST
 seheme  
 see.PRS
 
-sehere  
+sehege  
 see.FUT
 
 **Nimine also uses suffixes for helping verbs. Example:**
@@ -185,12 +185,14 @@ see.FUT
 Un sehema hujin  
 1SG see.PRS.NEG dog  
 I am not seeing a dog  
-\* Negation is special as it changes the e in suffixes to an a, if there is no suffix it adds -ne
+\* it changes the e in suffixes to an a, if there is no suffix it adds -ja
 
-Un sehemege hujin  
+Un sehemi hujin  
 1SG see.PRS.POSB dog  
 I might be seeing a dog
+\* it changes the e in suffixes to an i, if there is no suffix it adds -wi
 
-Un sehemeke hujin  
+Un sehemo hujin  
 1SG see.PRS.ABIL dog  
 I can see a dog
+\* it changes the e in suffixes to an o, if there is no suffix it adds -jo
