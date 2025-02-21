@@ -119,7 +119,7 @@ Start of sentences and proper nouns are capitalised.
 #### Deriving Words
 
 1. Start by obtaining a word (typically from a Germanic or Slavic language). For this example we will use the root word for "to duck" in German: "tauch".
-2. The word "schwimm" can be written in Nimine's orthography as "tauk". However, it does not fit the phonotactics.
+2. The word "tauch" can be written in Nimine's orthography as "tauk". However, it does not fit the phonotactics.
 3. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
    * ai -> e
    * au -> o
