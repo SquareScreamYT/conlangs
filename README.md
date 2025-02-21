@@ -189,10 +189,31 @@ I am not seeing a dog
 
 Un sehemi hujin  
 1SG see.PRS.POSB dog  
-I might be seeing a dog
+I might be seeing a dog  
 \* it changes the e in suffixes to an i, if there is no suffix it adds -wi
 
 Un sehemo hujin  
 1SG see.PRS.ABIL dog  
-I can see a dog
+I can see a dog  
 \* it changes the e in suffixes to an o, if there is no suffix it adds -jo
+
+**Nimine allows you to change words into different parts of speech. Example:**
+
+biśa  
+quickly
+
+biśaza  
+speed  
+\* It will turn any part of speech into a noun, same with others.
+
+biśala  
+speed (verb)  
+\* It will turn any part of speech into a verb.
+
+biśata  
+fast  
+\* It will turn any part of speech into a adjective.
+
+biśaca  
+quickly  
+\* It will turn any part of speech into a adverb. It is used here as an example.
