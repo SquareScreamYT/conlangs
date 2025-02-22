@@ -19,7 +19,6 @@
 | Close     | i     |         | u    |
 | Mid       | e     |         | o    |
 | Open      |       | a       |      |
-<!-- | Open-Mid  | ɛ     |         | ɔ    | -->
 
 ### Phonotactics
 
