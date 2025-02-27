@@ -97,81 +97,81 @@ Start of sentences and proper nouns are capitalised.
 
 **Nimine uses V2 word order. Example:**
 
-Un sehede hujinra  
+Un sehete hujinla  
 1SG see.PST dog.PL  
 I saw dogs
 
-Zoten sehede un hujinra  
+Coten sehete un hujinla  
 yesterday see.PST 1SG dog.PL  
 Yesterday I saw dogs
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
-rośi hujin  
+losi hunto  
 big dog
 
-śeko hujin  
+seko hunto  
 fast dog
 
-biśa ronen  
+pisa konen  
 quickly run
 
 **Nimine uses suffixes to mark plurality of nouns. Example:**
 
-hujin   
+hunto   
 dog.SG
 
-hujinro  
+huntolo  
 dog.DU
 
-hujinra  
+huntola  
 dog.PL
 
 **Nimine uses suffixes to mark the tense of verbs. Example:**
 
-sehede  
+sehete  
 see.PST
 
 seheme  
 see.PRS
 
-sehege  
+seheke  
 see.FUT
 
 **Nimine also uses suffixes for helping verbs. Example:**
 
-Un sehema hujin  
+Un sehema hunto  
 1SG see.PRS.NEG dog  
 I am not seeing a dog  
 \* it changes the e in suffixes to an a, if there is no suffix it adds -ja
 
-Un sehemi hujin  
+Un sehemi hunto  
 1SG see.PRS.POSB dog  
 I might be seeing a dog  
 \* it changes the e in suffixes to an i, if there is no suffix it adds -wi
 
-Un sehemo hujin  
+Un sehemo hunto  
 1SG see.PRS.ABIL dog  
 I can see a dog  
 \* it changes the e in suffixes to an o, if there is no suffix it adds -jo
 
 **Nimine allows you to change words into different parts of speech. Example:**
 
-biśa  
+pisa  
 quickly
 
-biśaza  
+pisazu  
 speed  
 \* It will turn any part of speech into a noun, same with others.
 
-biśala  
+pisalu  
 speed (verb)  
 \* It will turn any part of speech into a verb.
 
-biśata  
+pisatu  
 fast  
 \* It will turn any part of speech into a adjective.
 
-biśaca  
+pisacu  
 quickly  
 \* It will turn any part of speech into a adverb. It is used here as an example.
