@@ -36,69 +36,27 @@ Examples of Valid Words (excluding proper nouns):
 * po
 * tan
 * luna
-* gunme
+* kunme
 
 Examples of Invalid Words:
 
-* zik
-* flevz
+* sik
+* flec
 * tunna
 * hahihuheho
 
 ### Orthography
 
-Nimine has 3 different orthographies: ASCII-compatible, Latin and Cyrillic. This document will be written in the Latin version.
+Nimine has 2 different orthographies: Latin and the Nimine Logography. This document will be written in the Latin version.
 
-ASCII-compatible Orthography:
-
-All letters are written as their IPA, except:
-* [ʒ] is written as "j"
-* [ʃ] is written as "x"
-* [j] is written as "y"
-* [ts] is written as "c"
-* [tʃ] is written as "q"
-
-Standard Orthography:
+Latin Orthography:
 
 All letters are written as their IPA, except:
-* [ʒ] is written as "ź"
-* [ʃ] is written as "ś"
 * [ts] is written as "c"
-* [tʃ] is written as "ć"
 
-Cyrillic Orthography:
+Logography:
 
-* А а /a/
-* Б б /b/
-* В в /v/
-* Г г /g/
-* Д д /d/
-* Е е /e/
-* Ё ё /jo/
-* Є є /je/
-* Ж ж /ʒ/
-* З з /z/
-* И и /i/
-* Й й /j/
-* К к /k/
-* Л л /l/
-* М м /m/
-* Н н /n/
-* Ӈ ӈ /ŋ/
-* О о /o/
-* П п /p/
-* Р р /r/
-* С с /s/
-* Т т /t/
-* У у /u/
-* Ў ў /w/
-* Ф ф /f/
-* Х х /h/
-* Ц ц /ts/
-* Ч ч /tʃ/
-* Ш ш /ʃ/
-* Ю ю /ju/
-* Я я /ja/
+Soon...
 
 #### Capitalisation
 
@@ -106,8 +64,8 @@ Start of sentences and proper nouns are capitalised.
 
 ### Allophones
 
-* The letter "n" is written as "ń" in Latin orthography, "n" in ASCII-compatible orthography and "Ӈ/ӈ" in Cyrillic orthography before [k] or [g] and is pronounced as [ŋ].
-* The letter "n" is written as "m" in Latin orthography, "m" in ASCII-compatible orthography and "М/м" in Cyrillic orthography before [p] or [b] and is pronounced as [m].
+* The letter "n" is written as "n" before [k] or [g] and is pronounced as [ŋ].
+* The letter "n" is written as "m" before [p] or [b] and is pronounced as [m].
 
 ### Word Coining
 
@@ -118,8 +76,9 @@ Start of sentences and proper nouns are capitalised.
 #### Deriving Words
 
 1. Start by obtaining a word (typically from a Germanic or Slavic language). For this example we will use the root word for "to duck" in German: "tauch".
-2. The word "tauch" can be written in Nimine's orthography as "tauk". However, it does not fit the phonotactics.
-3. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
+2. Turn all voiced phonemes to their voiceless counterparts. Change all rhotic consonants to l or w.
+3. The word "tauch" can be written in Nimine's orthography as "tauk". However, it does not fit the phonotactics.
+4. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
    * ai -> e
    * au -> o
    * oi -> e
@@ -128,11 +87,11 @@ Start of sentences and proper nouns are capitalised.
    * ɨ, y -> i
    * ʌ, ɐ -> a
    * ɯ, ʉ -> u
-4. Secondly, do the same for consonants.
-5. Then, you take any final nasal and turn it into "n", unless the base word is one letter, then you would do nasal + "e".
-6. Take the first consonant of a cluster and use it. Remove any extra syllables from the end of a word. If the word ends with a consoannt and it is still under 2 syllables, add an "e". We now have "toke".
-7. Change "ia" or "ua" to "ija" and "uwa". Do this for every diphthong that starts with i or u.
-8. Congratulations! You made a word.
+5. Secondly, do the same for consonants.
+6. Then, you take any final nasal and turn it into "n", unless the base word is one letter, then you would do nasal + "e".
+7. Take the first consonant of a cluster and use it. Remove any extra syllables from the end of a word. If the word ends with a consoannt and it is still under 2 syllables, add an "e". We now have "toke".
+8. Change "ia" or "ua" to "ija" and "uwa". Do this for every diphthong that starts with i or u.
+9. Congratulations! You made a word.
 
 ## Grammar
 
