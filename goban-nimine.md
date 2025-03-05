@@ -51,7 +51,7 @@ Examples of Invalid Words:
 
 ### Orthography
 
-Nimine has 2 different orthographies: Logography, Latin. This document will be written in the Latin version.
+Nimine has 2 different orthographies: Logography and Latin. This document will be written in the Latin version.
 
 Standard Orthography:
 
