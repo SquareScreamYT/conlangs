@@ -97,11 +97,11 @@ Start of sentences and proper nouns are capitalised.
 
 **Nimine uses V2 word order. Example:**
 
-Un sehete hujinla  
+Un sehete huntola  
 1SG see.PST dog.PL  
 I saw dogs
 
-Coten sehete un hujinla  
+Coten sehete un huntola  
 yesterday see.PST 1SG dog.PL  
 Yesterday I saw dogs
 
@@ -160,7 +160,7 @@ I can see a dog
 pisa  
 quickly
 
-pisazu  
+pisawu  
 speed  
 \* It will turn any part of speech into a noun, same with others.
 
