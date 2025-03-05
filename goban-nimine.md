@@ -1,4 +1,8 @@
 # Goban-Nimine
+
+## Info
+
+soon...
  
 ## Phonology
 
@@ -17,7 +21,7 @@
 |           | Front | Central | Back |
 |-----------|-------|---------|------|
 | Close     | i     |         | u    |
-| Mid       | e     |         | o    |
+| Mid       | e     | ə       | o    |
 | Open      |       | a       |      |
 
 ### Phonotactics
@@ -61,6 +65,7 @@ All letters are written as their IPA, except:
 * [ɣ] is written as "gh"
 * [ç] is written as "hj"
 * [ŋ] is written as "ng"
+* [ə] is written as "ë"
 
 Logography:
 
@@ -108,19 +113,19 @@ Un sehede hujenra
 1SG see.PST dog.PL  
 I saw dogs
 
-Zoten sehede un hujenra  
+Dzoten sehede un hujenra  
 yesterday see.PST 1SG dog.PL  
 Yesterday I saw dogs
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
-rośi hujen  
+ghosë hujen  
 big dog
 
-śeko hujen  
+djeko hujen  
 fast dog
 
-biśa ronen  
+bisha ronen  
 quickly run
 
 **Nimine uses suffixes to mark plurality of nouns. Example:**
@@ -167,18 +172,18 @@ I can see a dog
 biśa  
 quickly
 
-biśaza  
+bishaza  
 speed  
 \* It will turn any part of speech into a noun, same with others.
 
-biśala  
+bishala  
 speed (verb)  
 \* It will turn any part of speech into a verb.
 
-biśata  
+bishata  
 fast  
 \* It will turn any part of speech into a adjective.
 
-biśaca  
+bishaca  
 quickly  
 \* It will turn any part of speech into a adverb. It is used here as an example.
