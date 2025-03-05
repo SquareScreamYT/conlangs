@@ -8,13 +8,13 @@ soon...
 
 ### Consonants
 
-|             | Bilabial | Alveolar | Postalveolar | Palatal | Velar | Glottal |
-|-------------|----------|----------|--------------|---------|-------|---------|
-| Nasal       | m        | n        |              |         | ŋ     |         |
-| Plosive     | p b      | t d      |              |         | k g   |         |
-| Fricative   | f v      | s z      | ʃ ʒ          | ç       | x ɣ   | h       |
-| Affricate   |          | ts dz    | tʃ dʒ        |         |       |         |
-| Approximant |          | l r      |              | j       | w     |         |
+|             | Bilabial | Alveolar | Palatal | Velar | Glottal |
+|-------------|----------|----------|---------|-------|---------|
+| Nasal       | m        | n        |         | ŋ     |         |
+| Plosive     | p b      | t d      |         | k g   |         |
+| Fricative   | f v      | s z      | ʃ ʒ     | x ɣ   | h       |
+| Affricate   |          | ts dz    | tʃ dʒ   |       |         |
+| Approximant |          | l r      | j       | w     |         |
 
 ### Vowels
 
@@ -63,7 +63,6 @@ All letters are written as their IPA, except:
 * [tʃ] is written as "ch"
 * [dʒ] is written as "dj"
 * [ɣ] is written as "gh"
-* [ç] is written as "hj"
 * [ŋ] is written as "ng"
 * [ə] is written as "ë"
 
