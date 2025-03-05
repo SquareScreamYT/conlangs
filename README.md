@@ -4,13 +4,13 @@
 
 ### Consonants
 
-|             | Bilabial | Alveolar | Palatal | Velar |
-|-------------|----------|----------|---------|-------|
-| Nasal       | m        | n        |         | (ŋ)   |
-| Plosive     | p        | t        |         | k     |
-| Fricative   | f        | s        |         | h     |
-| Affricate   |          | ts       |         |       |
-| Approximant |          | l        | j       | w     |
+|             | Bilabial | Alveolar | Palatal | Velar | Glottal |
+|-------------|----------|----------|---------|-------|---------|
+| Nasal       | m        | n        |         | ŋ     |         |
+| Plosive     | p        | t        |         | k     | ʔ       |
+| Fricative   | f        | s        |         |       | h       |
+| Affricate   |          | ts       |         |       |         |
+| Approximant |          | l        | j       | w     |         |
 
 ### Vowels
 
