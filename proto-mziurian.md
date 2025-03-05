@@ -1,4 +1,8 @@
-# Lupan-Nimine
+# Proto-Mziurian
+
+## Info
+
+soon...
  
 ## Phonology
 
