@@ -21,7 +21,7 @@ soon...
 |           | Front | Central | Back |
 |-----------|-------|---------|------|
 | Close     | i     |         | u    |
-| Mid       | e     |         | o    |
+| Mid       | e     | ə       | o    |
 | Open      |       | a       |      |
 
 ### Phonotactics
@@ -33,7 +33,6 @@ This conlang follows a (C)V(n) syllable structure, where:
 * n (the nasal) is optional and can appear only at the end of a syllable.
 * Each word can only have 1 to 4 syllables, except for proper nouns which can have any amount of syllables as needed.
 * final [n] may not occur before [n] or any vowel.
-* [wu] and [ji] are invalid syllables.
 
 Examples of Valid Words (excluding proper nouns):
 
@@ -57,6 +56,7 @@ Latin Orthography:
 
 All letters are written as their IPA, except:
 * [ts] is written as "c"
+* [ʔ] is written as "q"
 
 Logography:
 
@@ -86,7 +86,7 @@ Start of sentences and proper nouns are capitalised.
    * ai -> e
    * au -> o
    * oi -> e
-   * ə, ɛ -> e
+   * ɛ -> e
    * ɔ, ø -> o
    * ɨ, y -> i
    * ʌ, ɐ -> a
