@@ -89,9 +89,10 @@ Start of sentences and proper nouns are capitalised.
    * ai -> e
    * au -> o
    * oi -> e
-   * ə, ɛ -> e
+   * ɛ -> e
    * ɔ, ø -> o
-   * ɨ, y -> i
+   * y -> i
+   * ɨ -> ə
    * ʌ, ɐ -> a
    * ɯ, ʉ -> u
 4. Secondly, do the same for consonants.
