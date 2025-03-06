@@ -10,10 +10,10 @@ soon...
 
 |             | Bilabial | Alveolar | Palatal | Velar | Glottal |
 |-------------|----------|----------|---------|-------|---------|
-| Nasal       | m        | n        |         | ŋ     |         |
+| Nasal       | m        | n        |         | (ŋ)   |         |
 | Plosive     | p b      | t d      |         | k g   |         |
-| Fricative   | f v      | s z      | ʃ ʒ     | x ɣ   | h       |
-| Affricate   |          | ts dz    | tʃ dʒ   |       |         |
+| Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
+| Affricate   |          | ts       | tʃ      |       |         |
 | Approximant |          | l r      | j       | w     |         |
 
 ### Vowels
@@ -56,14 +56,10 @@ Nimine has 2 different orthographies: Logography and Latin. This document will b
 Standard Orthography:
 
 All letters are written as their IPA, except:
-* [ʒ] is written as "zh"
-* [ʃ] is written as "sh"
-* [ts] is written as "ts"
-* [dz] is wirtten as "dz"
-* [tʃ] is written as "ch"
-* [dʒ] is written as "dj"
-* [ɣ] is written as "gh"
-* [ŋ] is written as "ng"
+* [ʒ] is written as "ź"
+* [ʃ] is written as "ś"
+* [ts] is written as "c"
+* [tʃ] is written as "ć"
 * [ə] is written as "ë"
 
 Logography:
@@ -88,7 +84,7 @@ Start of sentences and proper nouns are capitalised.
 #### Deriving Words
 
 1. Start by obtaining a word (typically from a Germanic or Slavic language). For this example we will use the root word for "to duck" in German: "tauch".
-2. The word "tauch" can be written in Nimine's orthography as "taux". However, it does not fit the phonotactics.
+2. The word "tauch" can be written in Nimine's orthography as "tauh". However, it does not fit the phonotactics.
 3. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
    * ai -> e
    * au -> o
@@ -112,19 +108,19 @@ Un sehede hujenra
 1SG see.PST dog.PL  
 I saw dogs
 
-Dzoten sehede un hujenra  
+Coten sehede un hujenra  
 yesterday see.PST 1SG dog.PL  
 Yesterday I saw dogs
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
-ghosë hujen  
+gosë hujen  
 big dog
 
-djeko hujen  
+źeko hujen  
 fast dog
 
-bisha ronen  
+biśa ronen  
 quickly run
 
 **Nimine uses suffixes to mark plurality of nouns. Example:**
@@ -171,18 +167,18 @@ I can see a dog
 biśa  
 quickly
 
-bishaza  
+biśaza  
 speed  
 \* It will turn any part of speech into a noun, same with others.
 
-bishala  
+biśala  
 speed (verb)  
 \* It will turn any part of speech into a verb.
 
-bishata  
+biśata  
 fast  
 \* It will turn any part of speech into a adjective.
 
-bishaca  
+biśaca  
 quickly  
 \* It will turn any part of speech into a adverb. It is used here as an example.
