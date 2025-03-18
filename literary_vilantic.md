@@ -10,19 +10,19 @@ soon...
 
 |             | Bilabial | Alveolar | Palatal | Velar | Glottal |
 |-------------|----------|----------|---------|-------|---------|
-| Nasal       | m        | n        |         | (ŋ)   |         |
-| Plosive     | p b      | t d      |         | k g   |         |
-| Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
-| Affricate   |          | ts       | tʃ      |       |         |
+| Nasal       | m        | n        |         | ŋ     |         |
+| Plosive     | p        | t        |         | k     |         |
+| Fricative   | f        | s        |         |       | h       |
 | Approximant |          | l r      | j       | w     |         |
 
 ### Vowels
 
-|           | Front | Central | Back |
-|-----------|-------|---------|------|
-| Close     | i     |         | u    |
-| Mid       | e     | ə       | o    |
-| Open      |       | a       |      |
+All vowels can be nasalised.
+
+|           | Front | Back |
+|-----------|-------|------|
+| Close     | i     | u    |
+| Open      | a     |      |
 
 ### Phonotactics
 
@@ -53,14 +53,7 @@ Examples of Invalid Words:
 
 Vilantic has 2 different orthographies: Logography and Latin. This document will be written in the Latin version.
 
-Standard Orthography:
-
-All letters are written as their IPA, except:
-* [ʒ] is written as "ź"
-* [ʃ] is written as "ś"
-* [ts] is written as "c"
-* [tʃ] is written as "ć"
-* [ə] is written as "ë"
+In Standard Orthography all letters are written the same as they are in IPA.
 
 Logography:
 
@@ -69,37 +62,6 @@ soon...
 #### Capitalisation
 
 Start of sentences and proper nouns are capitalised.
-
-### Allophones
-
-* The letter "n" is written as "n" before [k] or [g] and is pronounced as [ŋ].
-* The letter "n" is written as "m" before [p] or [b] and is pronounced as [m].
-
-### Word Coining
-
-#### Notes
-
-* Each noun, adjective, adverb or verb base can only have 2 syllables. 1 syllable words are limited to conjuctions, pronouns and interjections. 3 to 4 syllables are for the final conjugated form of nouns and verbs.
-
-#### Deriving Words
-
-1. Start by obtaining a word (typically from a Germanic or Slavic language). For this example we will use the root word for "to duck" in German: "tauch".
-2. The word "tauch" can be written in Vilantic's orthography as "tauh". However, it does not fit the phonotactics.
-3. First, merge diphthongs into a monophthong. Most of the time, take the 2 vowels and mark the middle of it (eg. e and o gives ə) then fing the closest vowel. Here are the most used ones:
-   * ai -> e
-   * au -> o
-   * oi -> e
-   * ɛ -> e
-   * ɔ, ø -> o
-   * y -> i
-   * ɨ -> ə
-   * ʌ, ɐ -> a
-   * ɯ, ʉ -> u
-4. Secondly, do the same for consonants.
-5. Then, you take any final nasal and turn it into "n", unless the base word is one letter, then you would do nasal + "e".
-6. Take the first consonant of a cluster and use it. Remove any extra syllables from the end of a word. If the word ends with a consoannt and it is still under 2 syllables, add an "e". We now have "toke".
-7. Change "ia" or "ua" to "ija" and "uwa". Do this for every diphthong that starts with i or u. change i or u to e and o respectively.
-8. Congratulations! You made a word.
 
 ## Grammar
 
