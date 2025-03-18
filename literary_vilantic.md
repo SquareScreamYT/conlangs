@@ -3,7 +3,7 @@
 ## Info
 
 soon...
- 
+
 ## Phonology
 
 ### Consonants
@@ -26,26 +26,24 @@ All vowels can be nasalised.
 
 ### Phonotactics
 
-This conlang follows a (C)V(n) syllable structure, where:
+This conlang follows a (C)V syllable structure, where:
 
 * C (the consonant) can be any consonant.
 * V (the vowel) can be any vowel.
-* n (the nasal) is optional and can appear only at the end of a syllable.
 * Each word can only have 1 to 4 syllables, except for proper nouns which can have any amount of syllables as needed.
-* final [n] may not occur before [n] or any vowel.
 * [wu] and [ji] are invalid syllables.
 
 Examples of Valid Words (excluding proper nouns):
 
-* po
-* tan
-* luna
-* gunme
+* pu
+* tã
+* lũa
+* gũmi
 
 Examples of Invalid Words:
 
-* zik
-* flevz
+* tsik
+* flefs
 * tunna
 * hahihuheho
 
@@ -67,81 +65,60 @@ Start of sentences and proper nouns are capitalised.
 
 **Vilantic uses V2 word order. Example:**
 
-Un sehede hujenra  
+Ũ sihiti huinra  
 1SG see.PST dog.PL  
 I saw dogs
 
-Coten sehede un hujenra  
+Sotin sihiti ũ huinra  
 yesterday see.PST 1SG dog.PL  
 Yesterday I saw dogs
 
 **Adjectives and adverbs come before nouns and verbs. Example:**
 
-gosë hujen  
+kosa huin  
 big dog
 
-źeko hujen  
+seku huin  
 fast dog
 
-biśa ronen  
+pisa ronã  
 quickly run
 
 **Vilantic uses suffixes to mark plurality of nouns. Example:**
 
-hujen   
+huin  
 dog.SG
 
-hujenro  
+huinru  
 dog.DU
 
-hujenra  
+huinra  
 dog.PL
 
 **Vilantic uses suffixes to mark the tense of verbs. Example:**
 
-sehede  
+sihiti  
 see.PST
 
-seheme  
+sihimi  
 see.PRS
 
-sehege  
+sihiki  
 see.FUT
 
 **Vilantic also uses suffixes for helping verbs. Example:**
 
-Un sehema hujen  
+Ũ sihima huin  
 1SG see.PRS.NEG dog  
 I am not seeing a dog  
-\* it changes the e in suffixes to an a, if there is no suffix it adds -ja
+\* it changes the i in suffixes to an a, if there is no suffix it adds -a
 
-Un sehemi hujen  
+Ũ sihimu hujen  
 1SG see.PRS.POSB dog  
 I might be seeing a dog  
-\* it changes the e in suffixes to an i, if there is no suffix it adds -wi
+\* it changes the i in suffixes to an u, if there is no suffix it adds -u
 
-Un sehemo hujen  
+Ũ sehemai hujen  
 1SG see.PRS.ABIL dog  
 I can see a dog  
-\* it changes the e in suffixes to an o, if there is no suffix it adds -jo
-
-**Vilantic allows you to change words into different parts of speech. Example:**
-
-biśa  
-quickly
-
-biśaza  
-speed  
-\* It will turn any part of speech into a noun, same with others.
-
-biśala  
-speed (verb)  
-\* It will turn any part of speech into a verb.
-
-biśata  
-fast  
-\* It will turn any part of speech into a adjective.
-
-biśaca  
-quickly  
-\* It will turn any part of speech into a adverb. It is used here as an example.
+\* it changes the i in suffixes to an ai, if there is no suffix it adds -ja
