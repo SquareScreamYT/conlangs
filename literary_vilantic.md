@@ -11,47 +11,42 @@ soon...
 |             | Bilabial | Alveolar | Palatal | Velar | Glottal |
 |-------------|----------|----------|---------|-------|---------|
 | Nasal       | m        | n        |         | ŋ     |         |
-| Plosive     | p        | t        |         | k     |         |
-| Fricative   | f        | s        |         |       | h       |
+| Plosive     | p b      | t d      |         | k g   | ʔ       |
+| Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
+| Affricate   |          | ts       | tʃ      |       |         |
 | Approximant |          | l r      | j       | w     |         |
 
 ### Vowels
 
-All vowels can be nasalised.
-
-|           | Front | Back |
-|-----------|-------|------|
-| Close     | i     | u    |
-| Open      | a     |      |
+|           | Front | Central | Back |
+|-----------|-------|---------|------|
+| Close     | i     |         | u    |
+| Close     | e ø   | ə       | o    |
+| Open      | a     |         |      |
 
 ### Phonotactics
 
-This conlang follows a (C)V syllable structure, where:
+This conlang follows a (C)(C)V(C)(C) syllable structure, where:
 
-* C (the consonant) can be any consonant.
+* C (the first consonant) can be any consonant.
+* C (the second consonant) can be any fricative or approximant if the first consonant is a stop or nasal, or an approximant if the first consonant is a fricative.
 * V (the vowel) can be any vowel.
-* Each word can only have 1 to 4 syllables, except for proper nouns which can have any amount of syllables as needed.
-* [wu] and [ji] are invalid syllables.
-
-Examples of Valid Words (excluding proper nouns):
-
-* pu
-* tã
-* lũa
-* gũmi
-
-Examples of Invalid Words:
-
-* tsik
-* flefs
-* tunna
-* hahihuheho
+* C (the third consonant) can be any consonant except stops and affricates.
+* C (the fourth consonant) can be any consonant.
 
 ### Orthography
 
 Vilantic has 2 different orthographies: Logography and Latin. This document will be written in the Latin version.
 
-In Standard Orthography all letters are written the same as they are in IPA.
+In Standard Orthography all letters are written the same as they are in IPA except for:
+
+* [ŋ] which is written as "ng"
+* [ə] which is written as "er"
+* [ts] which is written as "c"
+* [tʃ] which is written as "c"
+* [ʃ] which is written as "sh"
+* [ʒ] which is written as "zh"
+* [ʔ] which is written as "'"
 
 Logography:
 

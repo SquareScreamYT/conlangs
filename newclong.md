@@ -1,0 +1,172 @@
+# New Clong
+
+## Info
+
+soon...
+
+## Phonology
+
+### Consonants
+
+|             | Bilabial | Alveolar | Palatal | Velar | Glottal |
+|-------------|----------|----------|---------|-------|---------|
+| Nasal       | m        | n        |         | ŋ     |         |
+| Plosive     | p b      | t d      |         | k g   |         |
+| Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
+| Affricate   |          | ts       | tʃ      |       |         |
+| Approximant |          | l r      | j       | w     |         |
+
+### Vowels
+
+|           | Front     | Central | Back |
+|-----------|-----------|---------|------|
+| Close     | i iː y yː |         | u uː |
+| Mid       | e eː ø øː | ə       | o oː |
+| Open      |           | a aː    |      |
+
+### Phonotactics
+
+This conlang follows a (C)V(C) syllable structure, where:
+
+* C (the initial consonant) can be any consonant except for [ŋ].
+* V (the vowel) can be any vowel.
+* C (the final consonant) can be any consonant including [ŋ].
+
+### Orthography
+
+All letters are written as their IPA, except for these:
+
+* [ʒ] is written as "ź"
+* [ʃ] is written as "ś"
+* [ts] is written as "c"
+* [tʃ] is written as "ć"
+* [ŋ] is written as "ń"
+* [ə] is written as "é"
+* Gemination is marked by doubling the vowel.
+
+#### Capitalisation
+
+Start of sentences and proper nouns are capitalised.
+
+## Grammar
+
+**This conlang uses V2 word order. Example:**
+
+Iće joja jabukoi  
+1.SG.NOM have.PRS apple.ACC.SG  
+"I have an apple"
+
+Pasdag jora iće jabukoi  
+yesterday 1.SG.NOM have.PST apple.ACC.SG  
+"Yesterday I had an apple"
+
+**This conlang has 6 cases: Nominative, Accusative, Genitive, Dative, Locative and Instrumental. Example:**
+
+Iće sadaja jabukoi yću  
+1.SG.NOM give.PRS apple.ACC.SG 3.SG.DAT  
+"I gave the apple to them"
+
+Ićo libere tabelé  
+1.SG.GEN book.NOM.SG table.LOC.SG  
+"My book is on the table"
+
+Iće ćéja jabukoi føky  
+1.SG.NOM eat.PRS apple.ACC.SG fork.INS.SG  
+"I eat an apple with a fork"
+
+**This conlang also has 3 grammatical numbers for nouns: Singular, Dual and Plural. Example:**
+
+| Case/Number  | Singular | Dual | Plural |
+|--------------|----------|------|--------|
+| Nominative   | -e       | -ne  | -me    |
+| Accusative   | -i       | -ni  | -mi    |
+| Genitive     | -o       | -no  | -mo    |
+| Dative       | -u       | -nu  | -mu    |
+| Locative     | -é       | -né  | -mé    |
+| Instrumental | -y       | -ny  | -my    |
+
+**This conlang has 3 tenses: Past, Present and Future. It also has suffixes for modal verbs. Example:**
+
+Iće joja jabukoi  
+1.SG.NOM have.PRS apple.ACC.SG  
+"I have an apple"
+
+Iće jora jabukoi  
+1.SG.NOM have.PST apple.ACC.SG  
+"I had an apple"
+
+Iće jowa jabukoi  
+1.SG.NOM have.FUTs apple.ACC.SG  
+"I will have an apple"
+
+| Tense/Modal | -   | Negation | Possibility | Ability |
+|-------------|-----|----------|-------------|---------|
+| Past        | -ra | -re      | -ré         | -ro     |
+| Present     | -ja | -je      | -jé         | -jo     |
+| Future      | -wa | -we      | -wé         | -wo     |
+
+**Other miscellanous suffixes:**
+
+| Suffix | Part of Speech | Meaning      |
+|--------|----------------|--------------|
+| -da    | Verb           | Imperative   |
+| -li    | Noun           | Dimunitive   |
+| -te    | Noun           | Augmentative |
+| -kø    | Noun           | Derogative, Pejorative |
+| -si    | Any            | (make the word a) Noun |
+| -se    | Any            | Verb         |
+| -sa    | Any            | Adverb       |
+| -so    | Any            | Adjective    |
+
+**Example:**
+
+ćéda jabukoi!  
+eat.IMP apple.ACC.SG  
+"Go eat an apple!"
+
+myseli  
+mouse.NOM.SG.DIM  
+"Little mouse"
+
+kotete  
+mouse.NOM.SG.AUG  
+"Big mouse"
+
+hynekø  
+mouse.NOM.SG.PEJ  
+"Dog (pretend this is an insult)"
+
+**Pronoun Charts:**
+
+**First Person:**
+
+| Cases/Number | Singular | Dual | Plural |
+|--------------|----------|------|--------|
+| Nominative   | iće      | ine  | ime    |
+| Accusative   | ići      | ini  | imi    |
+| Genitive     | ićo      | ino  | imo    |
+| Dative       | iću      | inu  | imu    |
+| Locative     | ićé      | iné  | imé    |
+| Instrumental | ićy      | iny  | imy    |
+
+**Second Person:**
+
+| Cases/Number | Singular | Dual | Plural |
+|--------------|----------|------|--------|
+| Nominative   | tyće     | tyne | tyme   |
+| Accusative   | tyći     | tyni | tymi   |
+| Genitive     | tyćo     | tyno | tymo   |
+| Dative       | tyću     | tynu | tymu   |
+| Locative     | tyćé     | tyné | tymé   |
+| Instrumental | tyćy     | tyny | tymy   |
+
+**Third Person:**
+
+| Cases/Number | Singular | Dual | Plural |
+|--------------|----------|------|--------|
+| Nominative   | yće      | yne  | yme    |
+| Accusative   | yći      | yni  | ymi    |
+| Genitive     | yćo      | yno  | ymo    |
+| Dative       | yću      | ynu  | ymu    |
+| Locative     | yćé      | yné  | ymé    |
+| Instrumental | yćy      | yny  | ymy    |
