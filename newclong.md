@@ -18,11 +18,11 @@ soon...
 
 ### Vowels
 
-|           | Front     | Central | Back |
-|-----------|-----------|---------|------|
-| Close     | i iː y yː |         | u uː |
-| Mid       | e eː ø øː | ə       | o oː |
-| Open      |           | a aː    |      |
+|           | Front | Central | Back |
+|-----------|-------|---------|------|
+| Close     | i y   |         | u    |
+| Mid       | e ø   | ə       | o    |
+| Open      |       | a       |      |
 
 ### Phonotactics
 
@@ -42,7 +42,6 @@ All letters are written as their IPA, except for these:
 * [tʃ] is written as "ć"
 * [ŋ] is written as "ń"
 * [ə] is written as "é"
-* Gemination is marked by doubling the vowel.
 
 #### Capitalisation
 
