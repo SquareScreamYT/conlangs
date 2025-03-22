@@ -1,8 +1,8 @@
-# New Clong
+# Toporic
 
 ## Info
 
-soon...
+Toporic, known natively as "géloś Topory" /gəloʃ topory/ is a language. Insert stuff here
 
 ## Phonology
 
@@ -11,7 +11,7 @@ soon...
 |             | Bilabial | Alveolar | Palatal | Velar | Glottal |
 |-------------|----------|----------|---------|-------|---------|
 | Nasal       | m        | n        |         | ŋ     |         |
-| Plosive     | p b      | t d      |         | k g   |         |
+| Plosive     | p b      | t d      |         | k g   | (ʔ)     |
 | Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
 | Affricate   |          | ts       | tʃ      |       |         |
 | Approximant |          | l r      | j       | w     |         |
@@ -26,7 +26,7 @@ soon...
 
 ### Phonotactics
 
-This conlang follows a (C)V(C) syllable structure, where:
+Toporic follows a (C)V(C) syllable structure, where:
 
 * C (the initial consonant) can be any consonant except for [ŋ].
 * V (the vowel) can be any vowel.
@@ -43,13 +43,17 @@ All letters are written as their IPA, except for these:
 * [ŋ] is written as "ń"
 * [ə] is written as "é"
 
+#### Allophones
+
+[ʔ] only occurs between 2 vowels and may be pronounced depending on the speaker.
+
 #### Capitalisation
 
 Start of sentences and proper nouns are capitalised.
 
 ## Grammar
 
-**This conlang uses V2 word order. Example:**
+**Toporic uses V2 word order. Example:**
 
 Iće joja jabukoi  
 1.SG.NOM have.PRS apple.ACC.SG  
@@ -59,7 +63,7 @@ Pasdag jora iće jabukoi
 yesterday have.PST 1.SG.NOM apple.ACC.SG  
 "Yesterday I had an apple"
 
-**This conlang has 6 cases: Nominative, Accusative, Genitive, Dative, Locative and Instrumental. Example:**
+**Toporic has 6 cases: Nominative, Accusative, Genitive, Dative, Locative and Instrumental. Example:**
 
 Iće sadaja jabukoi yću  
 1.SG.NOM give.PRS apple.ACC.SG 3.SG.DAT  
@@ -73,7 +77,7 @@ Iće ćéja jabukoi føky
 1.SG.NOM eat.PRS apple.ACC.SG fork.INS.SG  
 "I eat an apple with a fork"
 
-**This conlang also has 3 grammatical numbers for nouns: Singular, Dual and Plural. Example:**
+**Toporic also has 3 grammatical numbers for nouns: Singular, Dual and Plural. Example:**
 
 | Case/Number  | Singular | Dual | Plural |
 |--------------|----------|------|--------|
@@ -84,7 +88,7 @@ Iće ćéja jabukoi føky
 | Locative     | -é       | -né  | -mé    |
 | Instrumental | -y       | -ny  | -my    |
 
-**This conlang has 3 tenses: Past, Present and Future. It also has suffixes for modal verbs. Example:**
+**Toporic has 3 tenses: Past, Present and Future. It also has suffixes for modal verbs. Example:**
 
 Iće joja jabukoi  
 1.SG.NOM have.PRS apple.ACC.SG  
@@ -112,6 +116,7 @@ Iće jowa jabukoi
 | -li    | Noun           | Dimunitive   |
 | -te    | Noun           | Augmentative |
 | -kø    | Noun           | Derogative, Pejorative |
+| -śé    | Noun           | Question     |
 | -si    | Any            | (make the word a) Noun |
 | -se    | Any            | Verb         |
 | -sa    | Any            | Adverb       |
@@ -134,6 +139,10 @@ mouse.NOM.SG.AUG
 hynekø  
 mouse.NOM.SG.PEJ  
 "Dog (pretend this is an insult)"
+
+vagéeśé hyni?  
+color.NOM.SG.what dog  
+"What color is the dog?"
 
 **Pronoun Charts:**
 
@@ -181,18 +190,32 @@ mouse.NOM.SG.PEJ
 | Locative     | ećé           | ené       | emé         | ećé          | ané      | amé        |
 | Instrumental | ećy           | eny       | emy         | aćy          | any      | amy        |
 
+**Proper nouns:**
+
+Use whatever the proper nouns is (eg. place, person) followed by the name. Example:
+
+lanta Dyć  
+land "Deutsch"  
+"Germany"
+
 ## Vocabulary
 
 | Word               | Part of Speech     | Meaning in English |
 |--------------------|--------------------|--------------------|
-| ćé                 | Verb               | to eat             |
-| føk                | Noun               | fork               |
-| hyn                | Noun               | dog                |
-| jabuko             | Noun               | apple              |
-| jo                 | Verb               | to have            |
-| kot                | Noun               | cat                |
-| liber              | Noun               | book               |
-| mys                | Noun               | mouse              |
-| pasdag             | Adverb             | yesterday          |
-| sada               | Verb               | to give            |
-| tabel              | Noun               | table              |
+| ceźe               | verb               | to scam            |
+| ćé                 | verb               | to eat             |
+| føk                | noun               | fork               |
+| géloś              | noun               | language           |
+| hyn                | noun               | dog                |
+| jabuko             | noun               | apple              |
+| jo                 | verb               | to have            |
+| kot                | noun               | cat                |
+| lanta              | noun               | country            |
+| liber              | noun               | book               |
+| mys                | noun               | mouse              |
+| pasdag             | adverb             | yesterday          |
+| ryje               | verb               | to begin           |
+| sada               | verb               | to give            |
+| tabel              | noun               | table              |
+| wary               | adjective          | bad                |
+| vagé               | noun               | color              |
