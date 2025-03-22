@@ -141,7 +141,7 @@ mouse.NOM.SG.PEJ
 "Dog (pretend this is an insult)"
 
 vagéeśé hyni?  
-color.NOM.SG.what dog  
+color.NOM.SG.WH dog  
 "What color is the dog?"
 
 **Pronoun Charts:**
