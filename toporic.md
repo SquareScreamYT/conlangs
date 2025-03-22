@@ -51,6 +51,12 @@ All letters are written as their IPA, except for these:
 
 Start of sentences and proper nouns are capitalised.
 
+#### Toporic Script
+
+Toporic also has a featural vertical alphasyllabary.
+
+![toporic script](toporic.png)
+
 ## Grammar
 
 **Toporic uses V2 word order. Example:**
