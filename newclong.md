@@ -169,3 +169,30 @@ mouse.NOM.SG.PEJ
 | Dative       | yću      | ynu  | ymu    |
 | Locative     | yćé      | yné  | ymé    |
 | Instrumental | yćy      | yny  | ymy    |
+
+**Demonstrative:**
+
+| Cases/Number | Singular Near | Dual Near | Plural Near | Singular Far | Dual Far | Plural Far |
+|--------------|---------------|-----------|-------------|--------------|----------|------------|
+| Nominative   | eće           | ene       | eme         | aće          | ane      | ame        |
+| Accusative   | eći           | eni       | emi         | aći          | ani      | ami        |
+| Genitive     | ećo           | eno       | emo         | ećo          | ano      | amo        |
+| Dative       | eću           | enu       | emu         | aću          | anu      | amu        |
+| Locative     | ećé           | ené       | emé         | ećé          | ané      | amé        |
+| Instrumental | ećy           | eny       | emy         | aćy          | any      | amy        |
+
+## Vocabulary
+
+| Word               | Part of Speech     | Meaning in English |
+|--------------------|--------------------|--------------------|
+| ćé                 | Verb               | to eat             |
+| føk                | Noun               | fork               |
+| hyn                | Noun               | dog                |
+| jabuko             | Noun               | apple              |
+| jo                 | Verb               | to have            |
+| kot                | Noun               | cat                |
+| liber              | Noun               | book               |
+| mys                | Noun               | mouse              |
+| pasdag             | Adverb             | yesterday          |
+| sada               | Verb               | to give            |
+| tabel              | Noun               | table              |
