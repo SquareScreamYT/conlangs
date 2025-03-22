@@ -57,7 +57,7 @@ Iće joja jabukoi
 "I have an apple"
 
 Pasdag jora iće jabukoi  
-yesterday 1.SG.NOM have.PST apple.ACC.SG  
+yesterday have.PST 1.SG.NOM apple.ACC.SG  
 "Yesterday I had an apple"
 
 **This conlang has 6 cases: Nominative, Accusative, Genitive, Dative, Locative and Instrumental. Example:**
