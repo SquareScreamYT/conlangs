@@ -105,28 +105,35 @@ Iće jora jabukoi
 "I had an apple"
 
 Iće jowa jabukoi  
-1.SG.NOM have.FUTs apple.ACC.SG  
+1.SG.NOM have.FUT apple.ACC.SG  
 "I will have an apple"
 
-| Tense/Modal | -   | Negation | Possibility | Ability |
-|-------------|-----|----------|-------------|---------|
-| Past        | -ra | -re      | -ré         | -ro     |
-| Present     | -ja | -je      | -jé         | -jo     |
-| Future      | -wa | -we      | -wé         | -wo     |
+Sejyda hynite!  
+see.PRS.NEG.IMP apple.ACC.SG.AUG  
+"Do not look at the big dog!"
+
+This table shows the suffixes of Toporic. On the left will be the normal suffix, on the right will be the negated form.
+
+| Tense/Modal | -       | Possibility | Ability | Necessitative |
+|-------------|---------|-------------|---------|---------------|
+| Past        | -ra -re | -ré -ru     | -ro -ri | -rø -ry       |
+| Present     | -ja -je | -jé -ju     | -jo -hi | -jø -jy       |
+| Future      | -wa -we | -wé -vu     | -wo -wi | -wø -wy       |
 
 **Other miscellanous suffixes:**
 
-| Suffix | Part of Speech | Meaning      |
-|--------|----------------|--------------|
-| -da    | Verb           | Imperative   |
-| -li    | Noun           | Dimunitive   |
-| -te    | Noun           | Augmentative |
-| -kø    | Noun           | Derogative, Pejorative |
-| -śé    | Noun           | Question     |
-| -si    | Any            | (make the word a) Noun |
-| -se    | Any            | Verb         |
-| -sa    | Any            | Adverb       |
-| -so    | Any            | Adjective    |
+| Suffix | Part of Speech | Meaning      | Glossing Abbreviation |
+|--------|----------------|--------------|-----------------------|
+| -da    | Verb           | Imperative   | IMP                   |
+| -li    | Noun           | Dimunitive   | DIM                   |
+| -te    | Noun           | Augmentative | AUG                   |
+| -ne    | Any            | Negation     | NEG                   |
+| -kø    | Noun           | Derogative, Pejorative | PEJ         |
+| -śé    | Noun           | Question     | WH                    |
+| -si    | Any            | (make the word a) Noun | NMZ         |
+| -se    | Any            | Verb         | VBZ                   |
+| -sa    | Any            | Adverb       | ADVZ                  |
+| -so    | Any            | Adjective    | ADJZ                  |
 
 **Example:**
 
@@ -140,7 +147,7 @@ mouse.NOM.SG.DIM
 
 kotete  
 mouse.NOM.SG.AUG  
-"Big mouse"
+"Big cat"
 
 hynekø  
 mouse.NOM.SG.PEJ  
