@@ -83,7 +83,7 @@ Iće ćéja jabukoi føky
 1.SG.NOM eat.PRS apple.ACC.SG fork.INS.SG  
 "I eat an apple with a fork"
 
-**Toporic also has 3 grammatical numbers for nouns: Singular, Dual and Plural. Example:**
+**Toporic also has 3 grammatical numbers for nouns: Singular, Dual and Plural. Uncountable nouns are marked as plural. Example:**
 
 | Case/Number  | Singular | Dual | Plural |
 |--------------|----------|------|--------|
