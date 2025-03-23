@@ -279,6 +279,24 @@ Decimals are expressed by saying each digit after the word "pik" (meaning "dot")
 
 * 1.234: en pik ni-san-kytro
 
+**Conjunctions:**
+
+Toporic has a few conjunctions. Here is a list of them:
+
+* (ri...)i - (both...)and
+* (u...)o - (either...)or
+* ke - that
+* ol - although
+* ga...gi - neither...nor
+* a - than
+* si...de - if...then
+* pø - but
+* ća - because
+* no - yet
+* fyr - for
+* so - so
+* le - instead of
+
 ## Vocabulary
 
 You can view the vocabulary [here](https://docs.google.com/spreadsheets/d/1vS3td21X6Sko8n8uLMhWVdT3a2bhQKf_nVDMQl-XM5I/edit?usp=sharing).
