@@ -206,22 +206,4 @@ land "Deutsch"
 
 ## Vocabulary
 
-| Word               | Part of Speech     | Meaning in English |
-|--------------------|--------------------|--------------------|
-| ceźe               | verb               | to scam            |
-| ćé                 | verb               | to eat             |
-| føk                | noun               | fork               |
-| géloś              | noun               | language           |
-| hyn                | noun               | dog                |
-| jabuko             | noun               | apple              |
-| jo                 | verb               | to have            |
-| kot                | noun               | cat                |
-| lanta              | noun               | country            |
-| liber              | noun               | book               |
-| mys                | noun               | mouse              |
-| pasdag             | adverb             | yesterday          |
-| ryje               | verb               | to begin           |
-| sada               | verb               | to give            |
-| tabel              | noun               | table              |
-| wary               | adjective          | bad                |
-| vagé               | noun               | color              |
+You can view the vocabulary [here](https://docs.google.com/spreadsheets/d/1vS3td21X6Sko8n8uLMhWVdT3a2bhQKf_nVDMQl-XM5I/edit?usp=sharing).
