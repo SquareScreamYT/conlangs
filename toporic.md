@@ -30,7 +30,7 @@ Toporic follows a (C)V(C) syllable structure, where:
 
 * C (the initial consonant) can be any consonant except for [ŋ].
 * V (the vowel) can be any vowel.
-* C (the final consonant) can be any consonant including [ŋ].
+* C (the final consonant) can be any consonant except for [h], [j] or [w].
 
 ### Orthography
 
