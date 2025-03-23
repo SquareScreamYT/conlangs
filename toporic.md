@@ -211,6 +211,74 @@ lanta Dyć
 land "Deutsch"  
 "Germany"
 
+**Numbers:**
+
+Toporic uses a seximal (base-6) number system. Here are the basic numerals:
+
+**Basic Numerals (0-5):**
+
+* 0: zero
+* 1: en
+* 2: ni
+* 3: san
+* 4: kytro
+* 5: fynfé
+
+**Higher Numbers:**
+
+* 6 (10₆): zes
+* 7 (11₆): ven
+* 8 (12₆): aket
+* 9 (13₆): nyn
+* 10 (14₆): cen
+* 11 (15₆): lef
+* 12 (20₆): nilof (2×6)
+
+**Forming Larger Numbers:**
+
+For multiples of 6, add the suffix "-lof":
+
+* 12 (20₆): nilof (2×6)
+* 18 (30₆): sanlof (3×6)
+* 24 (40₆): kytrolof (4×6)
+* 30 (50₆): fynfélof (5×6)
+* 36 (100₆): zeslof (6×6)
+
+For numbers between multiples of 6, combine the multiple with the additional units:
+
+* 20 (32₆): sanlof-ni (3×6 + 2)
+* 25 (41₆): kytrolof-en (4×6 + 1)
+
+Here are the suffixes for bigger numbers:
+
+* -lof (6¹)
+* -hel (6²)
+* -ren (6³)
+* -dyl (6⁴)
+* -vep (6⁵)
+* -bøn (6⁶)
+* -gac (6⁷)
+* -źu (6⁸)
+* -wel (6⁹)
+* -sym (6¹⁰)
+
+Example:
+
+* 4025₆ = 30345 = sandyl-zeroren-sanhel-kytrolof-fynfé
+
+**Negative Numbers:**
+
+Negative numbers are formed with the prefix "kén-":
+
+* -3: kénsan
+* -10: kéncen
+
+**Decimal Numbers:**
+
+Decimals are expressed by saying each digit after the word "pik" (meaning "dot"):
+
+* 1.234: en pik ni-san-kytro
+
 ## Vocabulary
 
 You can view the vocabulary [here](https://docs.google.com/spreadsheets/d/1vS3td21X6Sko8n8uLMhWVdT3a2bhQKf_nVDMQl-XM5I/edit?usp=sharing).
