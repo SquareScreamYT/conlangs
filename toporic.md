@@ -14,7 +14,8 @@ Toporic, known natively as "géloś Topory" /gəloʃ topory/ is a language. Inse
 | Plosive     | p b      | t d      |         | k g   | (ʔ)     |
 | Fricative   | f v      | s z      | ʃ ʒ     |       | h       |
 | Affricate   |          | ts       | tʃ      |       |         |
-| Approximant |          | l r      | j       | w     |         |
+| Tap/Flap    |          | ɾ        |         |       |         |
+| Approximant |          | l        | j       | w     |         |
 
 ### Vowels
 
@@ -42,6 +43,7 @@ All letters are written as their IPA, except for these:
 * [tʃ] is written as "ć"
 * [ŋ] is written as "ń"
 * [ə] is written as "é"
+* [ɾ] is written as "r"
 
 #### Allophones
 
