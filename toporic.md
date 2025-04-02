@@ -122,6 +122,12 @@ This table shows the suffixes of Toporic. On the left will be the normal suffix,
 | Present     | -ja -je | -jé -ju     | -jo -hi | -jø -jy       |
 | Future      | -wa -we | -wé -vu     | -wo -wi | -wø -wy       |
 
+**In Toporic, adjectives come before the noun they modify. Example:**
+
+Iće joja sutyr jabukoi  
+1.SG.NOM have.PRS big apple.ACC.SG  
+"I have a big apple"
+
 **Other miscellanous suffixes:**
 
 | Suffix | Part of Speech | Meaning      | Glossing Abbreviation |
