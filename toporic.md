@@ -142,6 +142,7 @@ Iće joja sutyr jabukoi
 | -se    | Any            | Verb         | VBZ                   |
 | -sa    | Any            | Adverb       | ADVZ                  |
 | -so    | Any            | Adjective    | ADJZ                  |
+| -med   | Noun (use with instrumental case) | Comitative | COM  |
 
 **Example:**
 
@@ -164,6 +165,10 @@ mouse.NOM.SG.PEJ
 vagéeśé hyni?  
 color.NOM.SG.WH dog  
 "What color is the dog?"
+
+Iće ćéja jabukoi føky kimigmymed  
+1.SG.NOM eat.PRS apple.ACC.SG fork.INS.SG friend.PL.COM  
+"I eat an apple using a fork with friends"
 
 **Pronoun Charts:**
 
