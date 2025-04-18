@@ -2,7 +2,7 @@
 
 ## Info
 
-Toporic, known natively as "géloś Topory" /gəloʃ topory/ is a language. Insert stuff here
+Toporic, known natively as "géloś Topory" /gəloʃ topory/ or "Toporygéloś" /toporygəloʃ/ is a language. Insert stuff here
 
 ## Phonology
 
@@ -222,6 +222,12 @@ Use whatever the proper nouns is (eg. place, person) followed by the name. Examp
 
 lanta Dyć  
 land "Deutsch"  
+"Germany"
+
+Alternatively, you can put the suffix at the end. Example:
+
+Dyćlanta  
+Deutsch-land  
 "Germany"
 
 **Numbers:**
