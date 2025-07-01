@@ -443,64 +443,66 @@ translate the sentence at the beginning too
 
 ## Lexicon (TEMP)
 
-viran  Vilantic
-ringo  apple
-ćéźé   to eat
-nysi   mouse, rodent
-woké   cat, feline
-rason  reason
-tingi  thing
-libé   book
-źali   house
+```text
+aka    cup
+bili   become
+bići   shore
+dagé   day
+daje   bring
+daman  serve
+danén  to curse
+elø    to greet
+even   ceramic
+gakan  to ingest
+guśé   story
+hanśo  hand, arm
+hono   fire
 jami   delicious
 janran person
-mado   window
-śinu   to sleep
 keme   turtle
 kené   joint
-mezi   grain, maize
-wacé   sock
-wara   get
 kindé  child
-lyte   pull
-łesa   appear
-śije   blood
-dagé   day
-guśé   story
-sehe   see
-tewin  drink
-gakan  to ingest
-hanśo  hand, arm
-pini   finish
-bići   shore
-sødu   south
-sini   ski
-danén  to curse
-śénci  rise
-mono   only
-suwi   water
-daje   bring
-rijé   river, stream
-siba   self
-mama   mother
-even   ceramic
-aka    cup
-łéla   gemstone
-langé  language
-bili   become
-łese   to present
 køké   country
-lita   pretentious
-źonzé  seed
-hono   fire
+langé  language
 latø   old
-pili   beg
-saba   curse
-daman  serve
-sola   sun
-elø    to greet
-sanwi  cold
-wapa   hot
+libé   book
+lita   pretentious
+lyte   pull
+mado   window
+mama   mother
 meteré meter (loan)
+mezi   grain, maize
+mono   only
+nysi   mouse, rodent
+pili   beg
+pini   finish
+rason  reason
+rijé   river, stream
+ringo  apple
+saba   curse
+sanwi  cold
+sehe   see
+siba   self
+sini   ski
+sola   sun
+suwi   water
+sødu   south
+tewin  drink
+tingi  thing
+viran  Vilantic
+wacé   sock
+wapa   hot
+wara   get
+woké   cat, feline
+ćéźé   to eat
+łesa   appear
+łese   to present
+łéla   gemstone
+śije   blood
+śinu   to sleep
+śénci  rise
+źali   house
+źonzé  seed
+```
 
 this clong is very incomplete
