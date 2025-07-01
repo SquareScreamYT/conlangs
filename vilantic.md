@@ -484,9 +484,11 @@ sanwi  cold
 sehe   see
 siba   self
 sini   ski
+sipi   game
 sola   sun
 suwi   water
 sødu   south
+tele   phone
 tewin  drink
 tingi  thing
 viran  Vilantic
@@ -494,7 +496,9 @@ wacé   sock
 wapa   hot
 wara   get
 woké   cat, feline
+zagi   rice
 ćéźé   to eat
+łaxa   (of something inedible) to ingest accidentally
 łesa   appear
 łese   to present
 łéla   gemstone
