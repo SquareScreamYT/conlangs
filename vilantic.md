@@ -251,9 +251,9 @@ cat.SG.NOM.AUG and mouse.SG.COM.DIM
 
 #### Nominalisers
 
-| NMLZ | AGENT | INSTR | ABSTR |
-|------|-------|-------|-------|
-| ca   | cin   | cun   | ce    |
+| NMLZ | AGENT | INSTR | ABSTR | ABESS |
+|------|-------|-------|-------|-------|
+| ca   | cin   | cun   | ce    | cø    |
 
 #### Verbalisers
 
