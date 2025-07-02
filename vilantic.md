@@ -456,6 +456,7 @@ gakan  to ingest
 guśé   story
 hanśo  hand, arm
 hono   fire
+huła   basic
 jami   delicious
 janran person
 keme   turtle
