@@ -393,7 +393,7 @@ Decimals are expressed by saying each digit after the word "piki" (meaning "dot"
 Vilantic has particles you can use before nouns with the locative case to use as prepositions:
 
 ```text
-śan libéźé
+śan libéźo
 on  book.SG.LOC
 "on the book"
 ```
@@ -403,7 +403,6 @@ on  book.SG.LOC
 | Word   | Meaning         |
 |--------|-----------------|
 | śan    | on              |
-| awen   | away from (ABL) |
 | awen   | away from (ABL) |
 
 [reference (esperanto :\[)](https://en.wikiversity.org/wiki/Esperanto/Root_chart)
