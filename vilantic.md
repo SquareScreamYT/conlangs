@@ -464,6 +464,7 @@ kindé  child
 køké   country
 langé  language
 latø   old
+lego   brick
 libé   book
 lita   pretentious
 lyte   pull
