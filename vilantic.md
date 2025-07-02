@@ -465,6 +465,7 @@ kepen  use
 kindé  child
 køké   country
 langé  language
+laćo   to schematise, to make a transit diagram
 latø   old
 lego   brick
 libé   book
