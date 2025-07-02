@@ -461,6 +461,7 @@ jami   delicious
 janran person
 keme   turtle
 kené   joint
+kepen  use
 kindé  child
 køké   country
 langé  language
@@ -475,6 +476,7 @@ meteré meter (loan)
 mezi   grain, maize
 mono   only
 nysi   mouse, rodent
+paso   learn
 pili   beg
 pini   finish
 rason  reason
