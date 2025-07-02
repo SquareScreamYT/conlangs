@@ -412,8 +412,8 @@ on  book.SG.LOC
 Proper nouns are usually made by compounding words that describe the person/place:
 
 ```text
-śéncińéxisolaxakøkéźa
-śénci-ńé-xi-sola-xa-køké-źa
+śéncińéxésolaxakøkéźa
+śénci-ńé-xé-sola-xa-køké-źa
 rise.ADJZ.LM.sun.LM.country.SG.NOM
 "Japan (lit. country of the rising sun)"
 ```
