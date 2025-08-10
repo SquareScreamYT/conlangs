@@ -49,15 +49,25 @@ Pronouns follow a format of "PNC(N)", where P is person, N is number and C is ca
 
 #### Person Chart
 
-| 1 | 2 | 2FOR | 3 | PRX | MED | DIS |
-|---|---|------|---|-----|-----|-----|
-| a | i | é    | u | e   | o   | ø   |
+| 1 | 2 | 2FOR | 3 | 4 | PRX | MED | DIS |
+|---|---|------|---|---|-----|-----|-----|
+| a | i | é    | u | y | e   | o   | ø   |
+
+The fourth person is used for indefinite referents:
+
+```text
+yźa     ćéźémøn         reźoni
+4SG.NOM eat.PRS.NEC.NEG uranium.COLL.ACC
+"one should not consume uranium"
+```
 
 #### Number Chart
 
 | SG | DU | DU.DISTR | PAU | PAU.DISTR | PL | PL.DISTR | COL |
 |----|----|----------|-----|-----------|----|----------|-----|
 | ź  | ś  | ś...n    | l   | l...n     | ć  | ć...n    | n   |
+
+Use the collective case when referring to uncountable or mass nouns.
 
 #### Case Chart
 
@@ -107,6 +117,14 @@ To make `3PAU.DISTR.ACC`, we combine them to make "ulin".
 | 3PL           | uća   | ući   | uću   | uće   | ućo   | ućé   | ućø   | ućy   |
 | 3PL.DISTR     | ućan  | ućin  | ućun  | ućen  | ućon  | ućén  | ućøn  | ućyn  |
 | 3COL          | una   | uni   | unu   | une   | uno   | uné   | unø   | uny   |
+| 4SG           | yźa   | yźi   | yźu   | yźe   | yźo   | yźé   | yźø   | yźy   |
+| 4DU           | yśa   | yśi   | yśu   | yśe   | yśo   | yśé   | yśø   | yśy   |
+| 4DU.DISTR     | yśan  | yśin  | yśun  | yśen  | yśon  | yśén  | yśøn  | yśyn  |
+| 4PAU          | yla   | yli   | ylu   | yle   | ylo   | ylé   | ylø   | yly   |
+| 4PAU.DISTR    | ylan  | ylin  | ylun  | ylen  | ylon  | ylén  | yløn  | ylyn  |
+| 4PL           | yća   | yći   | yću   | yće   | yćo   | yćé   | yćø   | yćy   |
+| 4PL.DISTR     | yćan  | yćin  | yćun  | yćen  | yćon  | yćén  | yćøn  | yćyn  |
+| 4COL          | yna   | yni   | ynu   | yne   | yno   | yné   | ynø   | yny   |
 | PRX.SG        | eźa   | eźi   | eźu   | eźe   | eźo   | eźé   | eźø   | eźy   |
 | PRX.DU        | eśa   | eśi   | eśu   | eśe   | eśo   | eśé   | eśø   | eśy   |
 | PRX.DU.DISTR  | eśan  | eśin  | eśun  | eśen  | eśon  | eśén  | eśøn  | eśyn  |
@@ -444,12 +462,15 @@ translate the sentence at the beginning too
 
 ```text
 aka    cup
+aké    know
+apo    help
 bili   become
 bići   shore
 dagé   day
 daje   bring
 daman  serve
 danén  to curse
+døré   animal
 elø    to greet
 even   ceramic
 gakan  to ingest
@@ -457,6 +478,7 @@ guśé   story
 hanśo  hand, arm
 hono   fire
 huła   basic
+høré   hear
 jami   delicious
 janran person
 keme   turtle
@@ -481,6 +503,7 @@ paso   learn
 pili   beg
 pini   finish
 rason  reason
+reźo   uranium
 rijé   river, stream
 ringo  apple
 saba   curse
@@ -492,6 +515,7 @@ sipi   game
 sola   sun
 suwi   water
 sødu   south
+tada   celebrate
 tele   phone
 tewin  drink
 tingi  thing
@@ -499,6 +523,7 @@ viran  Vilantic
 wacé   sock
 wapa   hot
 wara   get
+weto   land
 woké   cat, feline
 zagi   rice
 ćéźé   to eat
