@@ -464,6 +464,7 @@ translate the sentence at the beginning too
 aka    cup
 aké    know
 apo    help
+beka   common
 bili   become
 bići   shore
 dagé   day
@@ -489,6 +490,7 @@ køké   country
 langé  language
 laćo   to schematise, to make a transit diagram
 latø   old
+lawa   fish
 lego   brick
 libé   book
 lita   pretentious
