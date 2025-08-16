@@ -188,7 +188,7 @@ aźa     ćéźéma  ringoźi
 Genitives and adjectives/adverbs come before the main noun/verb:
 
 ```text
-iźu     ringoźa
+aźu     ringoźa
 1SG.GEN apple.SG.NOM
 "my apple"
 ```
@@ -449,6 +449,7 @@ rise.ADJZ.LM.sun.LM.country.SG.NOM
 | Word    | Meaning         |
 |---------|-----------------|
 | la...du | if...then       |
+| ga      | SUBR ("that")   |
 
 add more conjuctions here later
 
@@ -499,6 +500,7 @@ mado   window
 mama   mother
 meteré meter (loan)
 mezi   grain, maize
+minza  name
 mono   only
 nysi   mouse, rodent
 paso   learn
@@ -512,7 +514,7 @@ saba   curse
 sanwi  cold
 sehe   see
 siba   self
-sini   ski
+sini   sky
 sipi   game
 sola   sun
 suwi   water
@@ -520,6 +522,7 @@ sødu   south
 tada   celebrate
 tele   phone
 tewin  drink
+towi   move
 tingi  thing
 viran  Vilantic
 wacé   sock
@@ -527,12 +530,15 @@ wapa   hot
 wara   get
 weto   land
 woké   cat, feline
+wølø   to rule
 zagi   rice
+ćydo   go
 ćéźé   to eat
 łaxa   (of something inedible) to ingest accidentally
 łesa   appear
 łese   to present
 łéla   gemstone
+śadi   law
 śije   blood
 śinu   to sleep
 śénci  rise
