@@ -8,13 +8,13 @@ Vilantic blah blah. Example: blah blah.
 
 ### Consonants
 
-|             | Bilabial  | Alveolar       | Palatal        | Velar     |
-|-------------|-----------|----------------|----------------|-----------|
-| Nasals      | m         | n              |                | ŋ \<ń>    |
-| Plosives    | p b       | t d            |                | k g       |
-| Fricatives  | f v       | s z            | ʃ ʒ ç \<ś ź x> | h \<h>    |
-| Affricates  |           | ts \<c>        | tʃ \<ć>        |           |
-| Liquids     | w         | l ɾ ɬ \<l r ł> | j \<j>         |           |
+|             | Bilabial  | Alveolar       | Palatal        | Velar      |
+|-------------|-----------|----------------|----------------|------------|
+| Nasals      | m         | n              |                | ŋ \<ń>     |
+| Plosives    | p b       | t d            |                | k g        |
+| Fricatives  | f v       | s z            | ʃ ʒ ç \<ś ź x> | x ɣ \<h ǵ> |
+| Affricates  |           | ts \<c>        | tʃ \<ć>        |            |
+| Liquids     | w         | l ɾ ɬ \<l r ł> | j \<j>         |            |
 
 ### Vowels
 
