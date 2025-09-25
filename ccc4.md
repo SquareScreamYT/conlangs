@@ -4,14 +4,13 @@
 
 ### Consonants
 
-|           | Bilabial | Alveolar | Postalveolar | Velar   | Glottal | Labiovelar | Manual  |
-|-----------|----------|----------|--------------|---------|---------|------------|---------|
-| Plosive   | ɓ \<b>   | t \<t>   | tʃ \<z>      | kʰ \<k> | ʔ͡h \<q> |            |         |
-| Fricative | ɸ \<f>   | s \<s>   | ʃ \<ȝ>*       | x \<x>  | ɦ \<h>  | ʍ \<w>     |         |
-| Lateral   |          | t͡ɬ \<tl> |              |         |         |            |         |
-| Click     |          | ǃ \<g>   |              |         |         |            | 👏 \<c> |
-
-*use 3 should ȝ be unavailable.
+|           | Bilabial | Alveolar | Postalveolar | Velar   | Glottal | Labiovelar | Manual | Telephone |
+|-----------|----------|----------|--------------|---------|---------|------------|--------|-----------|
+| Plosive   | ɓ \<b>   | t \<t>   | tʃ \<cj>     | kʰ \<k> | ʔ͡h \<q> |            |        |           |
+| Fricative | ɸ \<f>   | s \<s>   | ʃ \<sj>      | x \<x>  | ɦ \<h>  | ʍ \<wh>     |        |           |
+| Lateral   |          | t͡ɬ \<tl> |              |         |         |            |        |           |
+| Click     |          | ǃ \<g>   |              |         |         |            | # \<c> |           |
+| Telephone |          |          |              |         |         |            |        | ✆ \<bh>    |
 
 ### Vowel
 
@@ -31,28 +30,23 @@
 | High    | ə˥      | y           |
 | Low     | ə˩      | w           |
 | Rising  | ə˩˥     | i           |
-| Falling | ə˥˩     | e           |
-| Dipping | ə˥˩˧    | 2           |
+| Falling | ə˥˩     | ep           |
+| Dipping | ə˥˩˧    | z           |
 | Peaking | ə˩˥˧    | r           |
-| Sine    | ə˩˥˩    | π*           |
-| Inverse | ə˧˧˩˥˧˧ | 3           |
-| Dual    | ə˥͡ə˩    | 11          |
-
-*use p should π be unavailable.
+| Sine    | ə˩˥˩    | p           |
+| Inverse | ə˧˧˩˥˧˧ | v           |
+| Dual    | ə˥͡ə˩    | ll          |
 
 ### Pauses
 
-| Length  | IPA | Orthography                    |
-|---------|-----|--------------------------------|
-| Eighth  | 𝄾  | '                              |
-| Quarter | 𝄽  | [duplication of last letter]   |
-| Half    | 𝄼  | ⁊* (not to be confused with 7)  |
-| Half    | 𝄽ː | 7 (not to be confused with ⁊)  |
-| Whole   | 𝄻ˑ | ⁷† (i confused it with 7 and ⁊) |
-| Whole   | 𝄻  | I                              |
-
-*use 6 should ⁊ be unavailable.
-†use j should ⁷ be unavailable.
+| Length  | IPA | Orthography                                                      |
+|---------|-----|------------------------------------------------------------------|
+| Eighth  | 𝄾  | á                                                                |
+| Quarter | 𝄽  | [duplication of last letter]                                     |
+| Half    | 𝄼  | 0 at beginning of words, ó elsewhere (not to be confused with O) |
+| Half    | 𝄽ː | O at beginning of words, ú elsewhere (i confused it with 0)      |
+| Whole   | 𝄻ˑ | j                                                                |
+| Whole   | 𝄻  | í                                                                |
 
 ### Phonotactics
 
@@ -60,9 +54,13 @@ do whatever
 
 ### Sample Words
 
-k'saig⁊oπ (k'saig6op) [kʰ𝄾sə̤˩˥ǃ𝄼ə̥˩˥˩] "to leave"
+kásaigóop [kʰ𝄾sə̤˩˥ǃ𝄼ə̥˩˥˩] "to leave"
 
-tayytl⁷u7 (tayytlju7) [tə̤˥𝄽t͡ɬ𝄻ˑə̰𝄽ː] "hell"
+tayytljuú [tə̤˥𝄽t͡ɬ𝄻ˑə̰𝄽ː] "hell"
+
+qallauzúsc [ʔ͡hə̤˥͡ə̤˩ə̤ə̰˥˩˧𝄽ːs#]
+
+bhocwwuisjcj [✆ə̥#˩𝄽ə̰˩˥ʃtʃ]
 
 ## Grammar
 
