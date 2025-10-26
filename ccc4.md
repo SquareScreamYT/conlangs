@@ -58,9 +58,9 @@ kásaigóop [kʰ𝄾sə̤˩˥ǃ𝄼ə̥˩˥˩] "to leave"
 
 tayytljuú [tə̤˥𝄽t͡ɬ𝄻ˑə̰𝄽ː] "hell"
 
-qallauzúsc [ʔ͡hə̤˥͡ə̤˩ə̤ə̰˥˩˧𝄽ːs#]
+qallauzúsc [ʔ͡hə̤˥͡ə̤˩ə̤ə̰˥˩˧𝄽ːs#] "implosion"
 
-bhocwwuisjcj [✆ə̥#˩𝄽ə̰˩˥ʃtʃ]
+bhocwwuisjcj [✆ə̥#˩𝄽ə̰˩˥ʃtʃ] "I’ve never understood the appeal of Aghma Shwa. The first video I saw from him had him starting out by trying to gross out the viewer. Obviously, I didn’t continue the video. The next one I saw had him starting out by apologizing for ‘ruining your day’, which I also didn’t watch. I just don’t get why anyone would watch a guy who makes intros like THAT. Its seriously like he’s trying to be as off-putting as possible. He looks more like a troll channel to me than anything else"
 
 ## Grammar
 
