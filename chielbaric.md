@@ -4,7 +4,7 @@
 
 ### Consonants
 
-Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which are enclosed in angle brackets `<>`. FOr ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
+Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which are enclosed in angle brackets `<>`. For ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
 
 |           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal | Dorsal     | Glottal  |
 |-----------|------------|----------|--------------|--------------|---------|------------|----------|
@@ -12,7 +12,7 @@ Phonemes are written in the International Phonetic Alphabet. Voiceless consonant
 | Plosive   | p b \<п б> |          | t d \<т д>   |              |         | k g \<к ґ> | ʔ \<ъ>   |
 | Fricative | f v \<ф в> |          | s z \<с з>   | ʃ ʒ \<ш ж>   | ç \<ь>  | x ɣ \<х ғ> | h~ɦ \<г> |
 | Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |         |            |          |
-| Trill     |            |          | r \<р>       |              |         | ʀ~ʁ \<ӷ>   |          |
+| Trill     |            |          | ɾ \<р>       |              |         | ʀ~ʁ \<ӷ>   |          |
 | Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>  |            |          |
 | Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>  |            |          |
 
@@ -41,4 +41,11 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 
 ### Allophony
 
-* Voiceless stops [p] [t] [k] are unaspirated unless followed by [h]. *`ph th kh [pʰ tʰ kʰ]`*
+* Voiceless stops [p] [t] [k] are unaspirated unless followed by [h]. *`пг тг кг [pʰ tʰ kʰ]`*
+* [ɾɾ] can be realised as [r].
+* Consonants can be palatalised if followed by [j]. *`пй сй рй [pʲ sʲ ɾʲ]`*
+* Consonants can be labialised if followed by [w]. *`бў шў фў [bʷ ʃʷ fʷ]`*
+* This also applies to [ɥ] and [ɨ̯]. *`ҙю̆ ԯы̆ [ð̞ᶣ ɬʴ]`*
+* Consonants can be aspirated and palatalised if followed by [ç]. *`пь ть кь [pʰʲ tʰʲ kʰʲ]`*
+* Consonants can be glottalised if followed by [ʔ]. *`дъ цъ лъ [dˀ t͡sˀ lˀ]`*
+* Voiced sonorants may be devoiced if preceded by [h]. *`гм гн грр [m̥ n̥ r̥]`*
