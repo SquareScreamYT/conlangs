@@ -4,6 +4,8 @@
 
 ### Consonants
 
+Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which are enclosed in angle brackets `<>`. FOr ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
+
 |           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal | Dorsal     | Glottal  |
 |-----------|------------|----------|--------------|--------------|---------|------------|----------|
 | Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>  | ŋ \<ҥ>     |          |
@@ -30,9 +32,13 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 | Mid   | eː øː \<е́ э́> |         | oː \<о́> |
 | Open  | æː~ɛː \<я́>   | aː \<а́> |         |
 
-## Phonotactics
+### Phonotactics
 
 (C)(C)V(C)(C) where:
 
 * C is any consonant
 * V is any vowel
+
+### Allophony
+
+* Voiceless stops [p] [t] [k] are unaspirated unless followed by [h]. *`ph th kh [pʰ tʰ kʰ]`*
