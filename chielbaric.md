@@ -73,9 +73,9 @@ Fractal: Something that webs out, branches out, or is interconnected.
 * Web of a **Night Sky** > Universe, Cosmos
 * Interconnected **Towers** > City
 
-#### III: Instantaeneous
+#### III: Instantaneous
 
-Instantaeneous: Something that is instant, fast.
+Instantaneous: Something that is instant, fast.
 
 * Instant **Coffee** > Instant Coffee
 * Instant **Flight** > Teleportation
@@ -162,3 +162,18 @@ Construct: Something that can be constructed or something such as a tool used on
 * **Weight** Tool > Hammer, Mace
 * **Book** Construct > Shelf, Bookcase
 * **Store** Construct > Market
+
+These are the vowels used for each of the classes:
+
+1. *`а [a]`* Base
+2. *`я [ɛ]`* Fractal
+3. *`о [o]`* Instantaneous
+4. *`э [ə]`* Animate
+5. *`ё [ø]`* Slow-Animate
+6. *`е [e]`* Hollow
+7. *`у [u]`* Extensive/Augmentative
+8. *`ы [ɨ]`* Fluid
+9. *`ю [y]`* Quality
+10. *`и [i]`* Dimunitive
+11. *`а́ [aː]`* Material
+12. *`о́ [oː]`* Construct
