@@ -49,3 +49,116 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 * Consonants can be aspirated and palatalised if followed by [ç]. *`пь ть кь [pʰʲ tʰʲ kʰʲ]`*
 * Consonants can be glottalised if followed by [ʔ]. *`дъ цъ лъ [dˀ t͡sˀ lˀ]`*
 * Voiced sonorants may be devoiced if preceded by [h]. *`гм гн грр [m̥ n̥ r̥]`*
+
+## Grammar
+
+### Roots
+
+Roots are made of 2 consonants. Vowels can be placed next to or between these consonants to specify the meaning of the root.
+
+Nouns are the simplest forms of roots. There are 12 classes of vowels for noun roots:
+
+**Bold**: Root Word
+
+#### I: Base
+
+Base: The root word.
+
+#### II: Fractal
+
+Fractal: Something that webs out, branches out, or is interconnected.
+
+* Branching **Apple** > Apple Tree
+* Branching **Rocks** > Cave
+* Web of a **Night Sky** > Universe, Cosmos
+* Interconnected **Towers** > City
+
+#### III: Instantaeneous
+
+Instantaeneous: Something that is instant, fast.
+
+* Instant **Coffee** > Instant Coffee
+* Instant **Flight** > Teleportation
+* Fast **Book** > Downloaded Item
+* Instant **Chicken** > Frozen Chicken (Ease of access)
+* Fast **Vegetables** > Fresh Vegetables (Quickly harvested)
+
+#### IV: Animate
+
+Animate: Typically the same as the root word, otherwise something that is alive.
+
+* Living **Apple** > Apple Blossom (Before the apple is picked)
+* Living **Trip** > Migration (People moving)
+* Living **Glass** > Screen (A screen is "living", can display things)
+* Instant **Chicken** > Frozen Chicken (Ease of access)
+* Fast **Vegetables** > Fresh Vegetables (Quickly harvested)
+
+#### V: Slow-animate
+
+Slow-animate: Something that moves slowly or is growing.
+
+* Growing **Apple** > Apple
+* Growing **Person** > Lifespan
+* Slow **Sand** > Hourglass
+
+#### VI: Hollow
+
+Hollow: Something that is hollow, empty, or a lack of a thing.
+
+* Hollow **Tree** > Log
+* Hollow **Stick** > Tube
+* Lack of **Head** > Idiot
+
+#### VII: Extensive/Augmentative
+
+Extensive/Augmentative: Something that is expansive, long stuff, big stuff, stuff that goes out past what you can see from where you are standing, a collection of things.
+
+* Collection of **Books** > Library
+* Collection of **Trees** > Woods, Grove
+* Long **Road** > Direction
+* Big **Garden** > Farm
+* Big **Bowl** > Crater
+
+#### VIII: Fluid
+
+Fluid: Something that is liquid, gas or fine solids, movement.
+
+* Fine **Rocks** > Dust
+* Liquid **Trees** > Sap
+* Liquid **Apple** > Apple Juice
+* Movement of **Flight** > Aerodynamics
+
+#### IX: Quality
+
+Quality: A quality of something, an adjective or property of something.
+
+* **Rocky** Quality > Hardness
+* **Head-like** Quality > Importance
+* **Sand-like** Quality > Fineness
+* **Coffee-like** Quality > Bitterness
+
+#### X: Dimunitive
+
+Dimunitive: Something that is small (or young for living things), opposite of the Extendative/Augmentative class.
+
+* Small **Rock** > Pebble
+* Small **Tree** > Sapling
+* Small **Person** > Child
+* Small **Chicken** > Chick
+
+#### XI: Material
+
+Material: The material that something is made of, has the same property, can be made into, or a unit of measurement.
+
+* **Apple** Material > Applewood
+* **Time** Measurement > (Earth) Day
+* **Document** Material > Printing Paper
+* **Tree** Material > Wood
+
+#### XII: Construct
+
+Construct: Something that can be constructed or something such as a tool used on the root.
+
+* **Weight** Tool > Hammer, Mace
+* **Book** Construct > Shelf, Bookcase
+* **Store** Construct > Market
