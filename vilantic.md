@@ -468,12 +468,14 @@ apo    help
 beka   common
 bili   become
 bići   shore
+bonfa  good
 dagé   day
 daje   bring
 daman  serve
 danén  to curse
 døré   animal
 elø    to greet
+epa    ambassador
 even   ceramic
 gakan  to ingest
 guśé   story

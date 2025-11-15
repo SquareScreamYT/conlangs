@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Chielbaric Keyboard</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lato:wght@300&family=Noto+Color+Emoji:wght@400&display=swap');
+    @font-face {
+      font-family: 'SF Pro Rounded';
+      font-style: normal;
+      font-weight: 400;
+      src: url("https://raw.githubusercontent.com/SquareScreamYT/sf-fonts/master/SF-Pro-Rounded-Light.otf") format("opentype");
+    }
+    :root {
+      --bg-color: #ecfeff;
+      --text-color: #083344;
+      --bg-color-dark: #cffafe;
+      --bg-color-darker: #a5f3fc;
+      --bg-color-darkest: #67e8f9;
+      --border-color: #22d3ee;
+      --border-color-dark: #06b6d4;
+      --link-color: #818cf8;
+    }
+    html {
+      height: 100%;
+      width: 100%;
+      overflow-x:hidden
+    }
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+      margin: 0;
+      padding-left: 2vh;
+      padding-right: 2vh; 
+      padding-top: 2vh;
+      padding-bottom: 2vh;
+      transition: background-color 0.3s ease;
+    }
+    .keyboard {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .key {
+      font-family: "Nunito", "SF Pro Rounded", sans-serif;
+      margin: 5px;
+      padding: 10px;
+      width: 40px;
+      box-sizing: border-box;
+      border-radius: 5px;
+      border-width: 0;
+      background-color: var(--bg-color-dark);
+      transition: background-color 0.3s ease;
+      color: var(--text-color);
+      outline: none;
+      cursor: pointer;
+    }
+    .key:hover {
+      background-color: var(--bg-color-darker);
+    }
+    .key:active {
+      background-color: var(--bg-color-darkest);
+    }
+    #textspace {
+      font-family: "Nunito", "SF Pro Rounded", sans-serif;
+      width: 100%;
+      height: 100px;
+      font-size: 16px;
+      padding: 10px;
+      border-radius: 5px;
+      border-width: 0;
+      background-color: var(--bg-color-dark);
+      transition: background-color 0.3s ease;
+      color: var(--text-color);
+      outline: none;
+      resize: none;
+    }
+    .key:focus {
+      outline: none;
+    }
+    .key:active {
+      background-color: var(--bg-color-darkest);
+    }
+
+    .shortcut-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .shortcut-item {
+      background-color: var(--bg-color-dark);
+      padding: 5px;
+      border-radius: 5px;
+      text-align: center;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <h2>Chielbaric Keyboard</h2>
+
+  <textarea id="textspace" rows="4" cols="50">Type here!</textarea>
+
+  <h3>Consonants</h3>
+
+  <div class="keyboard">
+    <!-- Nasals -->
+    <button class="key" data-char="М">М</button>
+    <button class="key" data-char="Н">Н</button>
+    <button class="key" data-char="Њ">Њ</button>
+    <button class="key" data-char="Ҥ">Ҥ</button>
+    <button class="key" data-char="П">П</button>
+    <button class="key" data-char="Б">Б</button>
+    <button class="key" data-char="Т">Т</button>
+    <button class="key" data-char="Д">Д</button>
+    <button class="key" data-char="К">К</button>
+    <button class="key" data-char="Ґ">Ґ</button>
+    <button class="key" data-char="Ъ">Ъ</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="м">м</button>
+    <button class="key" data-char="н">н</button>
+    <button class="key" data-char="њ">њ</button>
+    <button class="key" data-char="ҥ">ҥ</button>
+    <button class="key" data-char="п">п</button>
+    <button class="key" data-char="б">б</button>
+    <button class="key" data-char="т">т</button>
+    <button class="key" data-char="д">д</button>
+    <button class="key" data-char="к">к</button>
+    <button class="key" data-char="ґ">ґ</button>
+    <button class="key" data-char="ъ">ъ</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="Ф">Ф</button>
+    <button class="key" data-char="В">В</button>
+    <button class="key" data-char="С">С</button>
+    <button class="key" data-char="З">З</button>
+    <button class="key" data-char="Ш">Ш</button>
+    <button class="key" data-char="Ж">Ж</button>
+    <button class="key" data-char="Ь">Ь</button>
+    <button class="key" data-char="Х">Х</button>
+    <button class="key" data-char="Ғ">Ғ</button>
+    <button class="key" data-char="Г">Г</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="ф">ф</button>
+    <button class="key" data-char="в">в</button>
+    <button class="key" data-char="с">с</button>
+    <button class="key" data-char="з">з</button>
+    <button class="key" data-char="ш">ш</button>
+    <button class="key" data-char="ж">ж</button>
+    <button class="key" data-char="ь">ь</button>
+    <button class="key" data-char="х">х</button>
+    <button class="key" data-char="ғ">ғ</button>
+    <button class="key" data-char="г">г</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="Ц">Ц</button>
+    <button class="key" data-char="Ѕ">Ѕ</button>
+    <button class="key" data-char="Ч">Ч</button>
+    <button class="key" data-char="Џ">Џ</button>
+    <button class="key" data-char="Р">Р</button>
+    <button class="key" data-char="Ӷ">Ӷ</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="ц">ц</button>
+    <button class="key" data-char="ѕ">ѕ</button>
+    <button class="key" data-char="ч">ч</button>
+    <button class="key" data-char="џ">џ</button>
+    <button class="key" data-char="р">р</button>
+    <button class="key" data-char="ӷ">ӷ</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="Ў">Ў</button>
+    <button class="key" data-char="Ҙ">Ҙ</button>
+    <button class="key" data-char="Л">Л</button>
+    <button class="key" data-char="Ю̆">Ю̆</button>
+    <button class="key" data-char="Ы̆">Ы̆</button>
+    <button class="key" data-char="Й">Й</button>
+    <button class="key" data-char="Ԯ">Ԯ</button>
+    <button class="key" data-char="Љ">Љ</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="ў">ў</button>
+    <button class="key" data-char="ҙ">ҙ</button>
+    <button class="key" data-char="л">л</button>
+    <button class="key" data-char="ю̆">ю̆</button>
+    <button class="key" data-char="ы̆">ы̆</button>
+    <button class="key" data-char="й">й</button>
+    <button class="key" data-char="ԯ">ԯ</button>
+    <button class="key" data-char="љ">љ</button>
+  </div>
+
+  <h3>Vowels</h3>
+
+  <div class="keyboard">
+    <button class="key" data-char="И">И</button>
+    <button class="key" data-char="Ю">Ю</button>
+    <button class="key" data-char="Ы">Ы</button>
+    <button class="key" data-char="У">У</button>
+    <button class="key" data-char="Е">Е</button>
+    <button class="key" data-char="Ё">Ё</button>
+    <button class="key" data-char="Э">Э</button>
+    <button class="key" data-char="О">О</button>
+    <button class="key" data-char="Я">Я</button>
+    <button class="key" data-char="А">А</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="и">и</button>
+    <button class="key" data-char="ю">ю</button>
+    <button class="key" data-char="ы">ы</button>
+    <button class="key" data-char="у">у</button>
+    <button class="key" data-char="е">е</button>
+    <button class="key" data-char="ё">ё</button>
+    <button class="key" data-char="э">э</button>
+    <button class="key" data-char="о">о</button>
+    <button class="key" data-char="я">я</button>
+    <button class="key" data-char="а">а</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="И́">И́</button>
+    <button class="key" data-char="Ю́">Ю́</button>
+    <button class="key" data-char="Ы́">Ы́</button>
+    <button class="key" data-char="У́">У́</button>
+    <button class="key" data-char="Е́">Е́</button>
+    <button class="key" data-char="Э́">Э́</button>
+    <button class="key" data-char="О́">О́</button>
+    <button class="key" data-char="Я́">Я́</button>
+    <button class="key" data-char="А́">А́</button>
+  </div>
+
+  <div class="keyboard">
+    <button class="key" data-char="и́">и́</button>
+    <button class="key" data-char="ю́">ю́</button>
+    <button class="key" data-char="ы́">ы́</button>
+    <button class="key" data-char="у́">у́</button>
+    <button class="key" data-char="е́">е́</button>
+    <button class="key" data-char="э́">э́</button>
+    <button class="key" data-char="о́">о́</button>
+    <button class="key" data-char="я́">я́</button>
+    <button class="key" data-char="а́">а́</button>
+  </div>
+
+  <h2>Shortcuts</h2>
+
+  <p id="shortcut-p" class="shortcut-p"></p>
+
+  <p>Made by SquareScreamYT</p>
+  <p><a href="https://www.lexilogos.com/keyboard/russian.htm">Inspired by Lexilogos' Russian Keyboard</a></p>
+
+  <script>
+    /*const textspace = document.getElementById('textspace');
+    const keys = document.querySelectorAll('.key');
+  
+    const shortcuts = {
+      'a\\': 'ä', 'A\\': 'Ä', 
+      'o\\': 'ö', 'O\\': 'Ö', 
+      'u\\': 'ü', 'U\\': 'Ü', 
+      's\\': 'ß', 'S\\': 'ẞ', 
+      ',,': '„', '\'\'': '“', 
+      'C=': '€', '<<': '«', '>>': '»'
+    };
+  
+    keys.forEach(key => {
+      key.addEventListener('click', () => {
+        const char = key.getAttribute('data-char');
+        insertAtCursor(textspace, char);
+      });
+    });
+  
+    textspace.addEventListener('input', (e) => {
+      const cursorPosition = textspace.selectionStart;
+      const text = textspace.value;
+      
+      if (cursorPosition >= 2) {
+        const lastTwoChars = text.slice(cursorPosition - 2, cursorPosition);
+        if (shortcuts[lastTwoChars]) {
+          const newText = text.slice(0, cursorPosition - 2) + shortcuts[lastTwoChars] + text.slice(cursorPosition);
+          textspace.value = newText;
+          textspace.setSelectionRange(cursorPosition - 1, cursorPosition - 1);
+        }
+      }
+    });
+  
+    function insertAtCursor(field, text) {
+      const startPos = field.selectionStart;
+      const endPos = field.selectionEnd;
+      field.value = field.value.substring(0, startPos) + text + field.value.substring(endPos, field.value.length);
+      field.selectionStart = field.selectionEnd = startPos + text.length;
+      field.focus();
+    }
+
+    function updateShortcutInfo() {
+      const shortcutP = document.getElementById('shortcut-p');
+      let shortcutInfo = '<div class="shortcut-grid">';
+      for (let [key, value] of Object.entries(shortcuts)) {
+        shortcutInfo += `<div class="shortcut-item">${key} → ${value}</div>`;
+      }
+      shortcutInfo += '</div>';
+      shortcutP.innerHTML = shortcutInfo;
+    }
+
+    updateShortcutInfo();*/
+  </script>
+  
+</body>
+</html>
