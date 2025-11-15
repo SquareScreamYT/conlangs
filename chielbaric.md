@@ -4,7 +4,7 @@
 
 ### Consonants
 
-Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which are enclosed in angle brackets `<>`. For ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
+Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which is enclosed in angle brackets `<>`. For ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
 
 |           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal | Dorsal     | Glottal  |
 |-----------|------------|----------|--------------|--------------|---------|------------|----------|
@@ -52,7 +52,7 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 
 ## Grammar
 
-### Roots
+### Root Classes
 
 Roots are made of 2 consonants. Vowels can be placed next to or between these consonants to specify the meaning of the root.
 
@@ -60,11 +60,11 @@ Nouns are the simplest forms of roots. There are 12 classes of vowels for noun r
 
 **Bold**: Root Word
 
-#### I: Base
+#### I: Base *`а [a]`*
 
 Base: The root word.
 
-#### II: Fractal
+#### II: Fractal `я [ɛ]`*
 
 Fractal: Something that webs out, branches out, or is interconnected.
 
@@ -73,7 +73,7 @@ Fractal: Something that webs out, branches out, or is interconnected.
 * Web of a **Night Sky** > Universe, Cosmos
 * Interconnected **Towers** > City
 
-#### III: Instantaneous
+#### III: Instantaneous *`о [o]`*
 
 Instantaneous: Something that is instant, fast.
 
@@ -83,7 +83,7 @@ Instantaneous: Something that is instant, fast.
 * Instant **Chicken** > Frozen Chicken (Ease of access)
 * Fast **Vegetables** > Fresh Vegetables (Quickly harvested)
 
-#### IV: Animate
+#### IV: Animate *`э [ə]`*
 
 Animate: Typically the same as the root word, otherwise something that is alive.
 
@@ -93,7 +93,7 @@ Animate: Typically the same as the root word, otherwise something that is alive.
 * Instant **Chicken** > Frozen Chicken (Ease of access)
 * Fast **Vegetables** > Fresh Vegetables (Quickly harvested)
 
-#### V: Slow-animate
+#### V: Slow-animate *`ё [ø]`*
 
 Slow-animate: Something that moves slowly or is growing.
 
@@ -101,7 +101,7 @@ Slow-animate: Something that moves slowly or is growing.
 * Growing **Person** > Lifespan
 * Slow **Sand** > Hourglass
 
-#### VI: Hollow
+#### VI: Hollow *`е [e]`*
 
 Hollow: Something that is hollow, empty, or a lack of a thing.
 
@@ -109,7 +109,7 @@ Hollow: Something that is hollow, empty, or a lack of a thing.
 * Hollow **Stick** > Tube
 * Lack of **Head** > Idiot
 
-#### VII: Extensive/Augmentative
+#### VII: Extensive/Augmentative *`у [u]`*
 
 Extensive/Augmentative: Something that is expansive, long stuff, big stuff, stuff that goes out past what you can see from where you are standing, a collection of things.
 
@@ -119,7 +119,7 @@ Extensive/Augmentative: Something that is expansive, long stuff, big stuff, stuf
 * Big **Garden** > Farm
 * Big **Bowl** > Crater
 
-#### VIII: Fluid
+#### VIII: Fluid *`ы [ɨ]`*
 
 Fluid: Something that is liquid, gas or fine solids, movement.
 
@@ -128,7 +128,7 @@ Fluid: Something that is liquid, gas or fine solids, movement.
 * Liquid **Apple** > Apple Juice
 * Movement of **Flight** > Aerodynamics
 
-#### IX: Quality
+#### IX: Quality *`ю [y]`*
 
 Quality: A quality of something, an adjective or property of something.
 
@@ -137,16 +137,16 @@ Quality: A quality of something, an adjective or property of something.
 * **Sand-like** Quality > Fineness
 * **Coffee-like** Quality > Bitterness
 
-#### X: Dimunitive
+#### X: Diminutive *`и [i]`*
 
-Dimunitive: Something that is small (or young for living things), opposite of the Extendative/Augmentative class.
+Diminutive: Something that is small (or young for living things), opposite of the Extendative/Augmentative class.
 
 * Small **Rock** > Pebble
 * Small **Tree** > Sapling
 * Small **Person** > Child
 * Small **Chicken** > Chick
 
-#### XI: Material
+#### XI: Material *`а́ [aː]`*
 
 Material: The material that something is made of, has the same property, can be made into, or a unit of measurement.
 
@@ -155,7 +155,7 @@ Material: The material that something is made of, has the same property, can be 
 * **Document** Material > Printing Paper
 * **Tree** Material > Wood
 
-#### XII: Construct
+#### XII: Construct *`о́ [oː]`*
 
 Construct: Something that can be constructed or something such as a tool used on the root.
 
@@ -165,15 +165,40 @@ Construct: Something that can be constructed or something such as a tool used on
 
 These are the vowels used for each of the classes:
 
-1. *`а [a]`* Base
-2. *`я [ɛ]`* Fractal
-3. *`о [o]`* Instantaneous
-4. *`э [ə]`* Animate
-5. *`ё [ø]`* Slow-Animate
-6. *`е [e]`* Hollow
-7. *`у [u]`* Extensive/Augmentative
-8. *`ы [ɨ]`* Fluid
-9. *`ю [y]`* Quality
-10. *`и [i]`* Dimunitive
-11. *`а́ [aː]`* Material
-12. *`о́ [oː]`* Construct
+1. *`а [a]`* `BASE` Base
+2. *`я [ɛ]`* `FRAC` Fractal
+3. *`о [o]`* `INST` Instantaneous
+4. *`э [ə]`* `ANIM` Animate
+5. *`ё [ø]`* `SLOW` Slow-Animate
+6. *`е [e]`* `HOL` Hollow
+7. *`у [u]`* `AUG` Extensive/Augmentative
+8. *`ы [ɨ]`* `FLD` Fluid
+9. *`ю [y]`* `QLTY` Quality
+10. *`и [i]`* `DIM` Diminutive
+11. *`а́ [aː]`* `MATL` Material
+12. *`о́ [oː]`* `CONSTR` Construct
+
+### Root Numbers
+
+There are 8 numbers that roots have to conform to. These are:
+
+* *`и [i]`* Null: None of something.
+* *`ю [y]`* Singular: One of something.
+* *`у [u]`* Dual: Two of something.
+* *`е [e]`* Paucal: Several of something (less than 10).
+* *`ё [ø]`* Plural: Multiple of something (more than 10).
+* *`о [o]`* Collective: A collective or group of something (group or more than 100).
+* *`я [ɛ]`* Umbral: An unknown or unspecified number of something. Use this if unsure.
+* *`а [a]`* Mass: Used for uncountable, masses or all instances of something in existence.
+
+### Root Construction
+
+To construct a noun, select the root, class and number. For this example, we will use the root *`р-ҥ`* "apple".
+
+Nouns typically follow the pattern `1CN2`, where 1 and 2 are the consonants in the root, C is the class and N is the number.
+
+To say "apple blossom", the class is *`э [ə]`* IV: Animate.
+
+If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
+
+The result is *`рэуҥ [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
