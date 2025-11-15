@@ -1,5 +1,9 @@
 # Chielbaric
 
+## Info
+
+to fill in later
+
 ## Phonology
 
 ### Consonants
@@ -202,3 +206,5 @@ To say "apple blossom", the class is *`э [ə]`* IV: Animate.
 If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
 The result is *`рэуҥ [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
+
+change en ge to en with descender ????
