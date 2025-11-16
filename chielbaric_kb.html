@@ -112,11 +112,12 @@
     <button class="key" data-char="М">М</button>
     <button class="key" data-char="Н">Н</button>
     <button class="key" data-char="Њ">Њ</button>
-    <button class="key" data-char="Ҥ">Ҥ</button>
+    <button class="key" data-char="Ң">Ң</button>
     <button class="key" data-char="П">П</button>
     <button class="key" data-char="Б">Б</button>
     <button class="key" data-char="Т">Т</button>
     <button class="key" data-char="Д">Д</button>
+    <button class="key" data-char="Ѓ">Ѓ</button>
     <button class="key" data-char="К">К</button>
     <button class="key" data-char="Ґ">Ґ</button>
     <button class="key" data-char="Ъ">Ъ</button>
@@ -126,11 +127,12 @@
     <button class="key" data-char="м">м</button>
     <button class="key" data-char="н">н</button>
     <button class="key" data-char="њ">њ</button>
-    <button class="key" data-char="ҥ">ҥ</button>
+    <button class="key" data-char="ң">ң</button>
     <button class="key" data-char="п">п</button>
     <button class="key" data-char="б">б</button>
     <button class="key" data-char="т">т</button>
     <button class="key" data-char="д">д</button>
+    <button class="key" data-char="ѓ">ѓ</button>
     <button class="key" data-char="к">к</button>
     <button class="key" data-char="ґ">ґ</button>
     <button class="key" data-char="ъ">ъ</button>
@@ -139,6 +141,7 @@
   <div class="keyboard">
     <button class="key" data-char="Ф">Ф</button>
     <button class="key" data-char="В">В</button>
+    <button class="key" data-char="Ҫ">Ҫ</button>
     <button class="key" data-char="С">С</button>
     <button class="key" data-char="З">З</button>
     <button class="key" data-char="Ш">Ш</button>
@@ -152,6 +155,7 @@
   <div class="keyboard">
     <button class="key" data-char="ф">ф</button>
     <button class="key" data-char="в">в</button>
+    <button class="key" data-char="ҫ">ҫ</button>
     <button class="key" data-char="с">с</button>
     <button class="key" data-char="з">з</button>
     <button class="key" data-char="ш">ш</button>
@@ -261,14 +265,14 @@
     const textspace = document.getElementById('textspace');
     const keys = document.querySelectorAll('.key');
   
-    const shortcuts = {
+    /*const shortcuts = {
       'a\\': 'ä', 'A\\': 'Ä', 
       'o\\': 'ö', 'O\\': 'Ö', 
       'u\\': 'ü', 'U\\': 'Ü', 
       's\\': 'ß', 'S\\': 'ẞ', 
       ',,': '„', '\'\'': '“', 
       'C=': '€', '<<': '«', '>>': '»'
-    };
+    };*/
   
     keys.forEach(key => {
       key.addEventListener('click', () => {

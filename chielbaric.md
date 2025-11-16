@@ -12,9 +12,9 @@ Phonemes are written in the International Phonetic Alphabet. Voiceless consonant
 
 |           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal | Dorsal     | Glottal  |
 |-----------|------------|----------|--------------|--------------|---------|------------|----------|
-| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>  | ŋ \<ҥ>     |          |
-| Plosive   | p b \<п б> |          | t d \<т д>   |              |         | k g \<к ґ> | ʔ \<ъ>   |
-| Fricative | f v \<ф в> |          | s z \<с з>   | ʃ ʒ \<ш ж>   | ç \<ь>  | x ɣ \<х ғ> | h~ɦ \<г> |
+| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>  | ŋ \<ң>     |          |
+| Plosive   | p b \<п б> |          | t d \<т д>   |              | ɟ \<ѓ>  | k g \<к ґ> | ʔ \<ъ>   |
+| Fricative | f v \<ф в> | θ \<ҫ>   | s z \<с з>   | ʃ ʒ \<ш ж>   | ç \<ь>  | x ɣ \<х ғ> | h~ɦ \<г> |
 | Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |         |            |          |
 | Trill     |            |          | ɾ \<р>       |              |         | ʀ~ʁ \<ӷ>   |          |
 | Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>  |            |          |
@@ -38,7 +38,7 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 
 ### Phonotactics
 
-(C)(C)V(C)(C) where:
+(C)(C)V(V)(C)(C) where:
 
 * C is any consonant
 * V is any vowel
@@ -197,7 +197,7 @@ There are 8 numbers that roots have to conform to. These are:
 
 ### Root Construction
 
-To construct a noun, select the root, class and number. For this example, we will use the root *`р-ҥ`* "apple".
+To construct a noun, select the root, class and number. For this example, we will use the root *`р-ң`* "apple".
 
 Nouns typically follow the pattern `1CN2`, where 1 and 2 are the consonants in the root, C is the class and N is the number.
 
@@ -205,6 +205,8 @@ To say "apple blossom", the class is *`э [ə]`* IV: Animate.
 
 If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
-The result is *`рэуҥ [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
+The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
 
-change en ge to en with descender ????
+verbs have pos/neg/neutral with causal
+
+3 root nouns??
