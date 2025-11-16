@@ -207,6 +207,6 @@ If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
 The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
 
-verbs have pos/neg/neutral with causal
+<!--verbs have pos/neg/neutral with causal
 
-3 root nouns??
+3 root nouns??-->
