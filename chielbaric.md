@@ -68,7 +68,7 @@ Nouns are the simplest forms of roots. There are 12 classes of vowels for noun r
 
 Base: The root word.
 
-#### II: Fractal `я [ɛ]`*
+#### II: Fractal *`я [ɛ]`*
 
 Fractal: Something that webs out, branches out, or is interconnected.
 
