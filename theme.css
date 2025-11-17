@@ -19,7 +19,7 @@ body {
   --fgColor-accent: Highlight;
 }
 @media (prefers-color-scheme: dark) {
-  body, [data-theme="dark"] {
+  body[data-theme="dark"] {
     /* dark */
     color-scheme: dark;
     --focus-outlineColor: #1f6feb;
@@ -75,7 +75,7 @@ body {
   }
 }
 @media (prefers-color-scheme: light) {
-  body, [data-theme="light"] {
+  body[data-theme="light"] {
     /* light */
     color-scheme: light;
     --focus-outlineColor: #0969da;

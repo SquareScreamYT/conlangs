@@ -5,11 +5,72 @@
   <title>Chielbaric Documentation</title>
   <link rel="stylesheet" href="theme.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    #theme-toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      font-size: 1.4rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+      cursor: pointer;
+      color: var(--fgColor-default);
+      background: var(--bgColor-muted);
+      border-radius: 10px;
+      padding: 10px 10px;
+      transition: 0.2s;
+      z-index: 999;
+    }
+    #theme-toggle:hover {
+      background: var(--bgColor-neutral-muted);
+    }
+  </style>
 </head>
 <body>
+  <div id="theme-toggle">
+    <i class="fa-solid fa-moon"></i>
+  </div>
+
   <div id="markdown-body" class="markdown-body"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
+    const toggleButton = document.getElementById("theme-toggle");
+    const body = document.body;
+
+    let savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme === "dark") {
+      body.setAttribute("data-theme", "dark");
+      toggleButton.innerHTML = '<i class="fa-solid fa-sun"></i>';
+    } else if (savedTheme === "light") {
+      body.setAttribute("data-theme", "light");
+      toggleButton.innerHTML = '<i class="fa-solid fa-moon"></i>';
+    } else {
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      body.setAttribute("data-theme", prefersDark ? "dark" : "light");
+      toggleButton.innerHTML = prefersDark
+        ? '<i class="fa-solid fa-sun"></i>'
+        : '<i class="fa-solid fa-moon"></i>';
+    }
+
+    toggleButton.addEventListener("click", () => {
+      const current = body.getAttribute("data-theme");
+      const next = current === "dark" ? "light" : "dark";
+
+      body.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+
+      toggleButton.innerHTML =
+        next === "dark"
+          ? '<i class="fa-solid fa-sun"></i>'
+          : '<i class="fa-solid fa-moon"></i>';
+    });
+
     const admonitionExtension = {
       name: "admonition",
       level: "block",
