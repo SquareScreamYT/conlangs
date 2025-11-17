@@ -19,7 +19,40 @@
   <div id="markdown-body" class="markdown-body"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-      async function getMarkdownSource(url) {
+    const admonitionExtension = {
+      name: "admonition",
+      level: "block",
+      start(src) {
+        return src.match(/^>\s*\[!/m)?.index;
+      },
+      tokenizer(src) {
+        const rule = /^>\s*\[!(\w+)\]\s*\n?((?:>.*\n?)*)/;
+        const match = rule.exec(src);
+        if (match) {
+          const type = match[1].toLowerCase();
+          const body = match[2].replace(/^>\s?/gm, "").trim();
+
+          return {
+            type: "admonition",
+            raw: match[0],
+            text: body,
+            kind: type,
+            tokens: this.lexer.blockTokens(body)
+          };
+        }
+      },
+      renderer(token) {
+        return `
+<div class="admonition ${token.kind}">
+  <p class="admonition-title">${token.kind.toUpperCase()}</p>
+  ${this.parser.parse(token.tokens)}
+</div>`;
+      }
+    };
+
+    marked.use({ extensions: [admonitionExtension] });
+
+    async function getMarkdownSource(url) {
       try {
         const response = await fetch(url);
         if (!response.ok) {
