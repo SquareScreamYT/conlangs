@@ -11,6 +11,24 @@
       margin-left: auto;
       margin-right: auto;
     }
+
+    .admonition {
+      border-left: 4px solid #888;
+      padding: 0.7em 1em;
+      margin: 1.2em 0;
+      border-radius: 6px;
+      background: #161b22;
+    }
+    .admonition-title {
+      font-weight: bold;
+      margin-bottom: 0.4em;
+    }
+
+    .admonition.note { border-color: #4ea1ff; }
+    .admonition.tip { border-color: #4caf50; }
+    .admonition.important { border-color: #ffb300; }
+    .admonition.warning { border-color: #ff5722; }
+    .admonition.caution { border-color: #f44336; }
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-dark.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,6 +46,7 @@
       tokenizer(src) {
         const rule = /^>\s*\[!(\w+)\]\s*\n?((?:>.*\n?)*)/;
         const match = rule.exec(src);
+
         if (match) {
           const type = match[1].toLowerCase();
           const body = match[2].replace(/^>\s?/gm, "").trim();
@@ -35,18 +54,27 @@
           return {
             type: "admonition",
             raw: match[0],
-            text: body,
             kind: type,
+            text: body,
             tokens: this.lexer.blockTokens(body)
           };
         }
       },
       renderer(token) {
+        const titles = {
+          note: "Note",
+          tip: "Tip",
+          important: "Important",
+          warning: "Warning",
+          caution: "Caution"
+        };
+
         return `
-<div class="admonition ${token.kind}">
-  <p class="admonition-title">${token.kind.toUpperCase()}</p>
-  ${this.parser.parse(token.tokens)}
-</div>`;
+    <div class="markdown-alert markdown-alert-${token.kind}">
+      <p class="markdown-alert-title">${titles[token.kind]}</p>
+      ${this.parser.parse(token.tokens)}
+    </div>
+        `;
       }
     };
 
