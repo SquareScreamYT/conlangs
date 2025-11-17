@@ -6,7 +6,7 @@ forked from https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/git
 
 */
 
-.markdown-body {
+body {
   --base-size-4: 0.25rem;
   --base-size-8: 0.5rem;
   --base-size-16: 1rem;
@@ -19,7 +19,7 @@ forked from https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/git
   --fgColor-accent: Highlight;
 }
 @media (prefers-color-scheme: dark) {
-  .markdown-body, [data-theme="dark"] {
+  body, [data-theme="dark"] {
     /* dark */
     color-scheme: dark;
     --focus-outlineColor: #1f6feb;
@@ -75,7 +75,7 @@ forked from https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/git
   }
 }
 @media (prefers-color-scheme: light) {
-  .markdown-body, [data-theme="light"] {
+  body, [data-theme="light"] {
     /* light */
     color-scheme: light;
     --focus-outlineColor: #0969da;
@@ -131,6 +131,14 @@ forked from https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/git
   }
 }
 
+body {
+  background-color: var(--bgColor-default);
+  margin: 50px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -141,14 +149,6 @@ forked from https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/git
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
-}
-
-body {
-  background-color: var(--bgColor-default);
-  margin: 50px;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .markdown-body .octicon {
