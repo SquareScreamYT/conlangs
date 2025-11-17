@@ -210,3 +210,26 @@ The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This c
 <!--verbs have pos/neg/neutral with causal
 evidentiality mayb
 3 root nouns??-->
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+a
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+a
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+a
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+a
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
