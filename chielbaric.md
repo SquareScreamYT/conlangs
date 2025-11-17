@@ -209,7 +209,7 @@ The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This c
 
 <!--verbs have pos/neg/neutral with causal
 evidentiality mayb
-3 root nouns??-->
+3 root nouns??
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -232,4 +232,4 @@ a
 a
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Advises about risks or negative outcomes of certain actions.-->
