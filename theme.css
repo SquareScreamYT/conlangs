@@ -1243,3 +1243,9 @@ body {
 .markdown-body .highlight pre:has(+.zeroclipboard-container) {
   min-height: 52px;
 }
+
+.markdown-alert-title svg {
+  fill: currentColor;
+  padding-right: .5rem;
+  transform: translateY(1px);
+}
