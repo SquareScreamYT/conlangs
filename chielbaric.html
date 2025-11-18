@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <title>Chielbaric Documentation</title>
+  <title>Markdown Renderer</title>
   <link rel="stylesheet" href="theme.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -39,6 +39,7 @@
   <div id="markdown-body" class="markdown-body"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
+    const markdownSource = "chielbaric.md"; // change this to whatever md you want to render
     const toggleButton = document.getElementById("theme-toggle");
     const body = document.body;
 
@@ -141,8 +142,11 @@
     getMarkdownSource('chielbaric.md')
       .then(markdown => {
         if (markdown !== null) {
-          document.getElementById('markdown-body').innerHTML =
-      marked.parse(markdown);
+          const match = markdown.match(/^#\s+(.+)$/m);
+          if (match) {
+            document.title = match[1].trim();
+          }
+          document.getElementById('markdown-body').innerHTML = marked.parse(markdown);
         }
       });
   </script>

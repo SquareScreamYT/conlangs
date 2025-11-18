@@ -1,4 +1,4 @@
-# Chielbaric
+# Chielbaric Documentation
 
 ## Info
 
@@ -210,6 +210,16 @@ The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This c
 <!--verbs have pos/neg/neutral with causal
 evidentiality mayb
 3 root nouns??
+
+front meta:
+
+---
+[//]: # (Title: Generic Title)
+[//]: # (Author: John Doe)
+[//]: # (Date: 2025-12-25)
+[//]: # (Comment: This is a generic comment.)
+[//]: # (Tags: #foo, #bar)
+---
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
