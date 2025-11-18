@@ -55,10 +55,10 @@
     document.title = markdownSource.substring(0, markdownSource.lastIndexOf(".")).replace(/[-_]/g, ' ').split(' ').map(word => word.charAt(0).toUpperCase()+word.slice(1)).join(' ');
 
     // anti flashbang mechanism
+    document.documentElement.classList.add("no-transitions");
     window.addEventListener("load", () => {
       document.documentElement.classList.remove("no-transitions");
     });
-    document.documentElement.classList.add("no-transitions");
 
     // theme stuff
     let savedTheme = localStorage.getItem("theme");
