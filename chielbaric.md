@@ -211,6 +211,8 @@ The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This c
 evidentiality mayb
 3 root nouns??
 
+representation of noun like hypthetical for fake, visual graphical digital verbal audio physical etc
+
 front meta:
 
 ---
