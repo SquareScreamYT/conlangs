@@ -195,17 +195,76 @@ There are 8 numbers that roots have to conform to. These are:
 * *`я [ɛ]`* Umbral: An unknown or unspecified number of something. Use this if unsure.
 * *`а [a]`* Mass: Used for uncountable, masses or all instances of something in existence.
 
+### Root Representation
+
+Root representation is divided into 3 parts: **Onticity**, **Modality**, and **Medium**.
+
+#### Onticity
+
+Onticity refers to the realness of the object. There are 4 possible variations of onticity:
+
+* `ACT` Actual: actual, real, physically existing.
+* `PRC` Perceived: perceived, appears real but uncertain.
+* `HYP` Hypothetical: hypothetical, fictional, potentially existing or imaginary.
+* `NXS` Nonexistent: nonexistent, false, fake or impossible.
+
+#### Modality
+
+Modality refers to the way the object is accessed. There are 5 modalities:
+
+* `VIS` Visual: seen.
+* `AUD` Auditorial: heard.
+* `TAC` Tactile: felt.
+* `OLF` Olfactory: smelt/tasted.
+* `MUL` Multimodal: a combination of the above.
+
+#### Medium
+
+Medium refers to the way the object is represented. There are 6 mediums:
+
+* `PHY` Physical: physical.
+* `VRB` Verbal: verbal (speech/sign language).
+* `TXT` Text: written.
+* `GRA` Graphical: graphical (drawing, picture, painting).
+* `VIR` Virtual: digital, virtual or electronic.
+* `CPT` Conceptual: conceptual, an idea or no medium is present.
+
+|     | Affix |
+|-----|-------|
+| ACT | п     |
+| PRC | т     |
+| HYP | ф     |
+| NXS | с     |
+
+|     | VIS | AUD | TAC | OLF | MUL |
+|-----|-----|-----|-----|-----|-----|
+| PHY | б   | д   | ѓ   | ґ   | ъ   |
+| VRB | в   | з   | ж   | ь   | ғ   |
+| TXT | р   | ӷ   | ц   | ч   | ш   |
+| GRA | х   | ю̆   | ы̆   | й   | г   |
+| VIR | ҙ   | л   | ԯ   | љ   | ҫ   |
+| CPT | м   | н   | ң   | ң   | к   |
+
+Representation is typically structure as `OM` where O is Onticity and M is Modality/Medium. For example:
+
+* A fake digital photo would be: *`сҙ [sð̞]`* NXS-VIS–VIR
+* A hypothetical object described in a story would be: *`ср [sɾ]`* HYP–VIS–TXT
+* A real spoken message would be: *`пз [pz]`* ACT–AUD–VRB
+* A sculpture would be: *`пб [pb]`* ACT–VIS–PHY
+
 ### Root Construction
 
-To construct a noun, select the root, class and number. For this example, we will use the root *`р-ң`* "apple".
+To construct a noun, select the root, class and number. For this example, we will use the root *`р-ң-л`* "apple".
 
-Nouns typically follow the pattern `1CN2`, where 1 and 2 are the consonants in the root, C is the class and N is the number.
+Nouns typically follow the pattern `1CN23R`, where 1, 2 and 3 are the consonants in the root, C is the class, N is the number, and R is the representation.
 
 To say "apple blossom", the class is *`э [ə]`* IV: Animate.
 
 If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
-The result is *`рэуң [ɾəuŋ]`*, meaning "a pair of apple blossoms". This can be glossed as `apple.ANIM.DU`
+Since it is a real picture, the representation is *`пх [px]`* ACT–VIS–GRA.
+
+The result is *`рэуңлпх [ɾəuŋlpx]`*, meaning "a graphical representation of a pair of apple blossoms". This can be glossed as `apple.ANIM.DU.ACT-VIS-GRA`
 
 <!--verbs have pos/neg/neutral with causal
 evidentiality mayb
