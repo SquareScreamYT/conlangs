@@ -156,7 +156,7 @@ Diminutive: Something that is small (or young for living things), opposite of th
 * Small **Person** > Child
 * Small **Chicken** > Chick
 
-#### XI: Material *`а́ [aː]`*
+#### XI: Material *`і [ɪ]`*
 
 Material: The material that something is made of, has the same property, can be made into, or a unit of measurement.
 
@@ -165,7 +165,7 @@ Material: The material that something is made of, has the same property, can be 
 * **Document** Material > Printing Paper
 * **Tree** Material > Wood
 
-#### XII: Construct *`о́ [oː]`*
+#### XII: Construct *`є [œ]`*
 
 Construct: Something that can be constructed or something such as a tool used on the root.
 
@@ -185,8 +185,8 @@ These are the vowels used for each of the classes:
 8. *`ы [ɨ]`* `FLD` Fluid
 9. *`ю [y]`* `QLTY` Quality
 10. *`и [i]`* `DIM` Diminutive
-11. *`а́ [aː]`* `MATL` Material
-12. *`о́ [oː]`* `CONSTR` Construct
+11. *`і [ɪ]`* `MATL` Material
+12. *`є [œ]`* `CONSTR` Construct
 
 ### Root Numbers
 
@@ -235,21 +235,28 @@ Medium refers to the way the object is represented. There are 6 mediums:
 * `VIR` Virtual: digital, virtual or electronic.
 * `CPT` Conceptual: conceptual, an idea or no medium is present.
 
-|     | Affix |
-|-----|-------|
-| ACT | п     |
-| PRC | т     |
-| HYP | ф     |
-| NXS | с     |
-
-|     | VIS | AUD | TAC | OLF | MUL |
-|-----|-----|-----|-----|-----|-----|
-| PHY | б   | д   | ѓ   | ґ   | ъ   |
-| VRB | в   | з   | ж   | ь   | ғ   |
-| TXT | р   | ӷ   | ц   | ч   | ш   |
-| GRA | х   | ю̆   | ы̆   | й   | г   |
-| VIR | ҙ   | л   | ԯ   | љ   | ҫ   |
-| CPT | м   | н   | ң   | ң   | к   |
+|         | PHY | VRB | TXT | GRA | VIR | CPT |
+|---------|-----|-----|-----|-----|-----|-----|
+| ACT.VIS | мп  | тп  | сп  | б   | б   | б   |
+| ACT.AUD | нп  | хп  | шп  | б   | б   | б   |
+| ACT.TAC | ӷп  | кп  | пг  | б   | б   | б   |
+| ACT.OLF | ңп  | пъ  | лп  | б   | б   | б   |
+| ACT.MUL | пп  | пф  | рп  | б   | б   | б   |
+| PRC.VIS | т   | т   | т   | д   | д   | д   |
+| PRC.AUD | т   | т   | т   | д   | д   | д   |
+| PRC.TAC | т   | т   | т   | д   | д   | д   |
+| PRC.OLF | т   | т   | т   | д   | д   | д   |
+| PRC.MUL | т   | т   | т   | д   | д   | д   |
+| HYP.VIS | с   | с   | с   | з   | з   | з   |
+| HYP.AUD | с   | с   | с   | з   | з   | з   |
+| HYP.TAC | с   | с   | с   | з   | з   | з   |
+| HYP.OLF | с   | с   | с   | з   | з   | з   |
+| HYP.MUL | с   | с   | с   | з   | з   | з   |
+| NXS.VIS | к   | к   | к   | ґ   | ґ   | ґ   |
+| NXS.AUD | к   | к   | к   | ґ   | ґ   | ґ   |
+| NXS.TAC | к   | к   | к   | ґ   | ґ   | ґ   |
+| NXS.OLF | к   | к   | к   | ґ   | ґ   | ґ   |
+| NXS.MUL | к   | к   | к   | ґ   | ґ   | ґ   |
 
 Representation is typically structure as `OM` where O is Onticity and M is Modality/Medium. For example:
 
