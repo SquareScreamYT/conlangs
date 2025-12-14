@@ -237,26 +237,26 @@ Medium refers to the way the object is represented. There are 6 mediums:
 
 |         | PHY | VRB | TXT | GRA | VIR | CPT |
 |---------|-----|-----|-----|-----|-----|-----|
-| ACT.VIS | мп  | тп  | сп  | б   | б   | б   |
-| ACT.AUD | нп  | хп  | шп  | б   | б   | б   |
-| ACT.TAC | ӷп  | кп  | пг  | б   | б   | б   |
-| ACT.OLF | ңп  | пъ  | лп  | б   | б   | б   |
-| ACT.MUL | пп  | пф  | рп  | б   | б   | б   |
-| PRC.VIS | т   | т   | т   | д   | д   | д   |
-| PRC.AUD | т   | т   | т   | д   | д   | д   |
-| PRC.TAC | т   | т   | т   | д   | д   | д   |
-| PRC.OLF | т   | т   | т   | д   | д   | д   |
-| PRC.MUL | т   | т   | т   | д   | д   | д   |
-| HYP.VIS | с   | с   | с   | з   | з   | з   |
-| HYP.AUD | с   | с   | с   | з   | з   | з   |
-| HYP.TAC | с   | с   | с   | з   | з   | з   |
-| HYP.OLF | с   | с   | с   | з   | з   | з   |
-| HYP.MUL | с   | с   | с   | з   | з   | з   |
-| NXS.VIS | к   | к   | к   | ґ   | ґ   | ґ   |
-| NXS.AUD | к   | к   | к   | ґ   | ґ   | ґ   |
-| NXS.TAC | к   | к   | к   | ґ   | ґ   | ґ   |
-| NXS.OLF | к   | к   | к   | ґ   | ґ   | ґ   |
-| NXS.MUL | к   | к   | к   | ґ   | ґ   | ґ   |
+| ACT.VIS | мп  | тп  | сп  | мб  | дб  | зб  |
+| ACT.AUD | нп  | хп  | шп  | нб  | ғб  | жб  |
+| ACT.TAC | ӷп  | кп  | пг  | ӷб  | ґб  | бг  |
+| ACT.OLF | ңп  | пъ  | лп  | ңб  | бъ  | лб  |
+| ACT.MUL | пп  | пф  | рп  | бб  | бв  | рб  |
+| PRC.VIS | мт  | тт  | ст  | мд  | дд  | зд  |
+| PRC.AUD | нт  | хт  | шт  | нд  | ғд  | жд  |
+| PRC.TAC | ӷт  | кт  | тг  | ӷд  | ґд  | дг  |
+| PRC.OLF | ңт  | тъ  | лт  | ңд  | дъ  | лд  |
+| PRC.MUL | пт  | фт  | рт  | бд  | дв  | рд  |
+| HYP.VIS | мс  | тц  | сс  | мз  | дѕ  | ѕз  |
+| HYP.AUD | нс  | хс  | шс  | нз  | ғз  | жз  |
+| HYP.TAC | ӷс  | кс  | сг  | ӷз  | ґз  | зг  |
+| HYP.OLF | ңс  | съ  | лс  | ңз  | зъ  | лз  |
+| HYP.MUL | пс  | сф  | рс  | зз  | зв  | рз  |
+| NXS.VIS | мк  | тк  | ск  | мґ  | дґ  | зґ  |
+| NXS.AUD | нк  | хк  | шк  | нґ  | ғґ  | жґ  |
+| NXS.TAC | ӷк  | кк  | кг  | ӷґ  | ґґ  | ґг  |
+| NXS.OLF | ңк  | къ  | лк  | ңґ  | ґъ  | лґ  |
+| NXS.MUL | пк  | фк  | рк  | бґ  | ґв  | рґ  |
 
 Representation is typically structure as `OM` where O is Onticity and M is Modality/Medium. For example:
 
