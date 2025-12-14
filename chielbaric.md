@@ -10,31 +10,37 @@ to fill in later
 
 Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which is enclosed in angle brackets `<>`. For ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
 
-|           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal | Dorsal     | Glottal  |
-|-----------|------------|----------|--------------|--------------|---------|------------|----------|
-| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>  | ŋ \<ң>     |          |
-| Plosive   | p b \<п б> |          | t d \<т д>   |              | ɟ \<ѓ>  | k g \<к ґ> | ʔ \<ъ>   |
-| Fricative | f v \<ф в> | θ \<ҫ>   | s z \<с з>   | ʃ ʒ \<ш ж>   | ç \<ь>  | x ɣ \<х ғ> | h~ɦ \<г> |
-| Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |         |            |          |
-| Trill     |            |          | ɾ \<р>       |              |         | ʀ~ʁ \<ӷ>   |          |
-| Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>  |            |          |
-| Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>  |            |          |
+|           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal    | Dorsal     | Glottal  |
+|-----------|------------|----------|--------------|--------------|------------|------------|----------|
+| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>     | ŋ \<ң>     |          |
+| Plosive   | p b \<п б> |          | t d \<т д>   |              | c ɟ \<ќ ѓ> | k g \<к ґ> | ʔ \<ъ>   |
+| Fricative | f v \<ф в> | θ \<ҫ>   | s z \<с з>   | ʃ ʒ \<ш ж>   | ç ɕ \<ь щ> | x ɣ \<х ғ> | h~ɦ \<г> |
+| Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |            |            |          |
+| Trill     |            |          | ɾ \<р>       |              |            | ʀ~ʁ \<ӷ>   |          |
+| Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>     |            |          |
+| Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>     |            |          |
 
 ### Vowels
 
-|       | Front      | Central | Back   |
-|-------|------------|---------|--------|
-| Close | i y \<и ю> | ɨ \<ы>  | u \<у> |
-| Mid   | e ø \<е ё> | ə \<э>  | o \<о> |
-| Open  | æ~ɛ \<я>   | a \<а>  |        |
+|            | Front      | Central | Back    |
+|------------|------------|---------|---------|
+| Close      | i y \<и ю> | ɨ \<ы>  | u \<у>  |
+| Near-Close | ɪ \<і>     |         | ʊ \<ı>* |
+| Close-Mid  | e ø \<е ё> |         | o \<о>  |
+| Mid        |            | ə \<э>  |         |
+| Open-Mid   | ɛ œ \<я є> |         |         |
+| Open       |            | ä \<а>  |         |
+
+*[ʊ] can be inserted between consonant clusters deemed impossible. It is written as a short vertical stroke, like \<ы> without the \<ь>. \<ı> can be used as a substitute. There is no capital form as it is typically omitted, and can be added anywhere the writer fancies.
 
 Some vowels can be lengthened. It is marked with an acute `´`.
 
-|       | Front        | Central | Back    |
-|-------|--------------|---------|---------|
-| Close | iː yː \<и́ ю́> |         | uː \<у́> |
-| Mid   | eː øː \<е́ э́> |         | oː \<о́> |
-| Open  | æː~ɛː \<я́>   | aː \<а́> |         |
+|           | Front        | Central | Back    |
+|-----------|--------------|---------|---------|
+| Close     | iː yː \<и́ ю́> |         | uː \<у́> |
+| Close-Mid | eː øː \<е́ э́> |         | oː \<о́> |
+| Open-Mid  | ɛ œ \<я́ є́>   |         |         |
+| Open      |              | äː \<а́> |         |
 
 ### Phonotactics
 
@@ -64,7 +70,7 @@ Nouns are the simplest forms of roots. There are 12 classes of vowels for noun r
 
 **Bold**: Root Word
 
-#### I: Base *`а [a]`*
+#### I: Base *`а [ä]`*
 
 Base: The root word.
 
@@ -169,7 +175,7 @@ Construct: Something that can be constructed or something such as a tool used on
 
 These are the vowels used for each of the classes:
 
-1. *`а [a]`* `BASE` Base
+1. *`а [ä]`* `BASE` Base
 2. *`я [ɛ]`* `FRAC` Fractal
 3. *`о [o]`* `INST` Instantaneous
 4. *`э [ə]`* `ANIM` Animate
@@ -193,7 +199,7 @@ There are 8 numbers that roots have to conform to. These are:
 * *`ё [ø]`* Plural: Multiple of something (more than 10).
 * *`о [o]`* Collective: A collective or group of something (group or more than 100).
 * *`я [ɛ]`* Umbral: An unknown or unspecified number of something. Use this if unsure.
-* *`а [a]`* Mass: Used for uncountable, masses or all instances of something in existence.
+* *`а [ä]`* Mass: Used for uncountable, masses or all instances of something in existence.
 
 ### Root Representation
 
@@ -270,7 +276,7 @@ The result is *`рэуңлпх [ɾəuŋlpx]`*, meaning "a graphical representati
 evidentiality mayb
 3 root nouns??
 
-representation of noun like hypthetical for fake, visual graphical digital verbal audio physical etc
+opinion|see|remember
 
 front meta:
 
