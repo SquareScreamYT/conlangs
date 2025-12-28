@@ -10,15 +10,15 @@ to fill in later
 
 Phonemes are written in the International Phonetic Alphabet. Voiceless consonants are on the left and voiced on the right. The orthography is written in Cyrillic, which is enclosed in angle brackets `<>`. For ease of typing, please use [this site](https://sq.is-a.dev/conlangs/chielbaric_kb) to type characters.
 
-|           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal    | Dorsal     | Glottal  |
-|-----------|------------|----------|--------------|--------------|------------|------------|----------|
-| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>     | ŋ \<ң>     |          |
-| Plosive   | p b \<п б> |          | t d \<т д>   |              | c ɟ \<ќ ѓ> | k g \<к ґ> | ʔ \<ъ>   |
-| Fricative | f v \<ф в> | θ \<ҫ>   | s z \<с з>   | ʃ ʒ \<ш ж>   | ç ɕ \<ь щ> | x ɣ \<х ғ> | h~ɦ \<г> |
-| Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |            |            |          |
-| Trill     |            |          | ɾ \<р>       |              |            | ʀ~ʁ \<ӷ>   |          |
-| Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>     |            |          |
-| Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>     |            |          |
+|           | Bilabial   | Dental   | Alveolar     | Postalveolar | Palatal        | Dorsal     | Glottal  |
+|-----------|------------|----------|--------------|--------------|----------------|------------|----------|
+| Nasal     | m \<м>     |          | n \<н>       |              | ɲ \<њ>         | ŋ \<ң>     |          |
+| Plosive   | p b \<п б> |          | t d \<т д>   |              | c ɟ \<ќ ѓ>     | k g \<к ґ> | ʔ \<ъ>   |
+| Fricative | f v \<ф в> | θ \<ҫ>   | s z \<с з>   | ʃ ʒ \<ш ж>   | ç ɕ ʑ \<ь щ җ> | x ɣ \<х ғ> | h~ɦ \<г> |
+| Affricate |            |          | t͡s d͡z \<ц ѕ> | t͡ʃ d͡ʒ \<ч џ> |                |            |          |
+| Trill     |            |          | ɾ \<р>       |              |                | ʀ~ʁ \<ӷ>   |          |
+| Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>         |            |          |
+| Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>         |            |          |
 
 ### Vowels
 
@@ -39,7 +39,7 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 |-----------|--------------|---------|---------|
 | Close     | iː yː \<и́ ю́> |         | uː \<у́> |
 | Close-Mid | eː øː \<е́ э́> |         | oː \<о́> |
-| Open-Mid  | ɛ œ \<я́ є́>   |         |         |
+| Open-Mid  | ɛː œː \<я́ є́> |         |         |
 | Open      |              | äː \<а́> |         |
 
 ### Phonotactics
@@ -59,6 +59,7 @@ Some vowels can be lengthened. It is marked with an acute `´`.
 * Consonants can be aspirated and palatalised if followed by [ç]. *`пь ть кь [pʰʲ tʰʲ kʰʲ]`*
 * Consonants can be glottalised if followed by [ʔ]. *`дъ цъ лъ [dˀ t͡sˀ lˀ]`*
 * Voiced sonorants may be devoiced if preceded by [h]. *`гм гн грр [m̥ n̥ r̥]`*
+* [fw vw ww] may be realised as [ɸ β ʋ]. *`фў вў ўў [ɸ β ʋ]`*
 
 ## Grammar
 
@@ -260,10 +261,10 @@ Medium refers to the way the object is represented. There are 6 mediums:
 
 Representation is typically structure as `OM` where O is Onticity and M is Modality/Medium. For example:
 
-* A fake digital photo would be: *`сҙ [sð̞]`* NXS-VIS–VIR
-* A hypothetical object described in a story would be: *`ср [sɾ]`* HYP–VIS–TXT
-* A real spoken message would be: *`пз [pz]`* ACT–AUD–VRB
-* A sculpture would be: *`пб [pb]`* ACT–VIS–PHY
+* A fake digital photo would be: *`дґ [dg]`* NXS-VIS–VIR
+* A hypothetical object described in a story would be: *`сс [sː]`* HYP–VIS–TXT
+* A real spoken message would be: *`хп [xp]`* ACT–AUD–VRB
+* A sculpture would be: *`мп [mp]`* ACT–VIS–PHY
 
 ### Root Construction
 
@@ -275,12 +276,23 @@ To say "apple blossom", the class is *`э [ə]`* IV: Animate.
 
 If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
-Since it is a real picture, the representation is *`пх [px]`* ACT–VIS–GRA.
+Since it is a real picture, the representation is *`мб [mb]`* ACT–VIS–GRA.
 
-The result is *`рэуңлпх [ɾəuŋlpx]`*, meaning "a graphical representation of a pair of apple blossoms". This can be glossed as `apple.ANIM.DU.ACT-VIS-GRA`
+The result is *`рэуңлмб [ɾəuŋlmb]`*, meaning "a graphical representation of a pair of apple blossoms". This can be glossed as `apple.ANIM.DU.ACT-VIS-GRA`
+
+## List of Roots
+
+> [!NOTE]
+> The Updated CSV File for roots is located at [chielbaric-roots.csv](/chielbaric-roots.csv). This table is generated manually.
+
+| root  | base        | fractal     | instantaneous  | animate       | slow-animate | hollow               | augmentative | fluid        | quality    | diminutive   | material   | construct |
+|-------|-------------|-------------|----------------|---------------|--------------|----------------------|--------------|--------------|------------|--------------|------------|-----------|
+| р-ң-л | apple       | apple tree  |                | apple blossom | apple        | smoking pipe         |              | apple juice  | appleyness | crabapple    | applewood  | orchard   |
+| к-ф-г | coffee bean | coffee tree | instant coffee | coffee        | coffee bean  | decaffeinated coffee | caffeine     | coffee aroma | bitterness | coffee candy | coffee mug | café      |
+| с-ӷ-ў | money       | income      | credit card    | money         | investment   | debt                 | wealth       | stock        | richness   | coin         | banknote   | bank      |
 
 <!--verbs have pos/neg/neutral with causal
-evidentiality mayb
+evidentiality mayb + generic "sensing"
 3 root nouns??
 
 opinion|see|remember
