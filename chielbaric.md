@@ -31,7 +31,7 @@ Phonemes are written in the International Phonetic Alphabet. Voiceless consonant
 | Open-Mid   | ɛ œ \<я є> |         |         |
 | Open       |            | ä \<а>  |         |
 
-*[ʊ] can be inserted between consonant clusters deemed impossible. It is written as a short vertical stroke, like \<ы> without the \<ь>. \<ı> can be used as a substitute. There is no capital form as it is typically omitted, and can be added anywhere the writer fancies.
+*[ʊ] can be inserted between consonant clusters deemed impossible. It is written as a short vertical stroke, like \<ы> without the \<ь>. \<ı> can be used as a substitute. There is no capital form as it is typically omitted, and can be added anywhere the writer desires.
 
 Some vowels can be lengthened. It is marked with an acute `´`.
 

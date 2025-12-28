@@ -136,7 +136,7 @@ body[data-theme="light"] {
 body {
   background-color: var(--bgColor-default);
   margin: 0px;
-  max-width: 875px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
