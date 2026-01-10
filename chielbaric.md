@@ -279,9 +279,92 @@ To say "apple blossom", the class is *`э [ə]`* IV: Animate.
 
 If there is a pair of apple blossoms, the number used is *`у [u]`* Dual.
 
-Since it is a real picture, the representation is *`мб [mb]`* ACT–VIS–GRA.
+Since it is a real picture, the representation is *`мб [mb]`* `ACT-VIS-GRA`.
 
-The result is *`рэуңлмб [ɾəuŋlmb]`*, meaning "a graphical representation of a pair of apple blossoms". This can be glossed as `apple.ANIM.DU.ACT-VIS-GRA`
+The result is *`рэуңлмб [ɾəuŋlmb]`*, meaning "a graphical representation of a pair of apple blossoms". This can be glossed as `apple.ANIM.DU.ACT-VIS-GRA`.
+
+### Verb Classes
+
+Verbs use the same consonantal roots as nouns. Verbal meaning is derived from the root’s base semantic field, interpreted as an action, process, or state involving that concept. Verb classes use long vowels as opposed to the short vowels used by nouns. Verbs have 3 different alignments divided between normal and causative. Example:
+
+|     | VRB | VRB.CAUS |
+|-----|-----|----------|
+| POS | и́   | ю́        |
+| NTR | е́   | э́        |
+| NEG | я́   | є́        |
+
+Root ж-л-н "effect":
+
+|     | VRB     | VRB.CAUS            |
+|-----|---------|---------------------|
+| POS | improve | to cause to improve |
+| NTR | affect  | to cause to affect  |
+| NEG | worsen  | to cause to worsen  |
+
+### Verb Tense
+
+| Vowel | Tense            | Gloss |
+|-------|------------------|-------|
+| а     | Remote Past      | REMP  |
+| я     | Past             | PST   |
+| є     | Near Past        | NPST  |
+| е     | Hesternal Past   | HSTP  |
+| ё     | Hodiernal Past   | HODP  |
+| и     | Immediate Past   | IMPST |
+| ю     | Present          | PRS   |
+| ы     | Immediate Future | IMFUT |
+| у     | Hodiernal Future | HODF  |
+| і     | Crastinal Future | CRASF |
+| э́     | Near Future      | NFUT  |
+| э     | Future           | FUT   |
+| о     | Remote Future    | REMF  |
+
+### Verb Aspect
+
+| Vowel | Aspect       | Gloss |
+|-------|--------------|-------|
+| а     | Imperfective | IMPF  |
+| я     | Perfective   | PF    |
+| е     | Progressive  | PROG  |
+| и     | Habitual     | HAB   |
+| ю     | Inchoative   | INCH  |
+| о     | Terminative  | TER   |
+| у     | Experiential | TER   |
+| э     | Prospective  | PROSP |
+| ё     | Gnomic       | GNM   |
+
+### Evidentiality
+
+| Vowel | Evidentiality            | Gloss |
+|-------|--------------------------|-------|
+| а     | Direct/Visual            | DIR   |
+| я     | Indirect/Reported        | REP   |
+| е     | Inferential/Deductive    | DED   |
+| и     | Assumption               | ASS   |
+| ю     | Sensory/Non-visual       | SNS   |
+| о     | Quotative                | QUOT  |
+| у     | Opinion                  | OPN   |
+| э     | Remember                 | REM   |
+| ё     | Gnomic/General Knowledge | GKN   |
+
+### Verb Construction
+
+To construct a verb, select the root, class and number. For this example, we will use the root *`в-ҫ-ғ`* "water".
+
+Nouns typically follow the pattern `E1C2T3A`, where 1, 2 and 3 are the consonants in the root, C is the class, T is the tense, A is the aspect and E is the evidentiality.
+
+To say "to rain", the class is *`е́ [eː]`* Neutral Verb.
+
+If it is going to rain today in the future, use *`у [u]`* Hodiernal Future.
+
+Since the raining is imminent but has not started, use *`э [ə]`* Prospective.
+
+Since the speaker got the information from others, use *`я [ɛ]`* Reported.
+
+The result is *`яве́ҫуғэ [ɛveːθuɣə]`*, meaning "is going to rain today". This can be glossed as `water.VRB.NTR.HODF.PROSP`.
+
+> [!NOTE]
+> You can just have a verb stand as a sentence if no subjects or nouns are needed. Basically, a standalone verb just means "X happens".
 
 ## List of Roots
 
