@@ -266,6 +266,9 @@ Representation is typically structure as `OM` where O is Onticity and M is Modal
 * A real spoken message would be: *`хп [xp]`* ACT–AUD–VRB
 * A sculpture would be: *`мп [mp]`* ACT–VIS–PHY
 
+> [!TIP]
+> If you do not want to go through the process of getting the representation of a noun, you can use *`гм [m̥]`* instead. This is glossed as `REPX`.
+
 ### Root Construction
 
 To construct a noun, select the root, class and number. For this example, we will use the root *`р-ң-л`* "apple".
