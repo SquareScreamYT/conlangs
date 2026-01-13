@@ -1,4 +1,6 @@
-root, base       , fractal    , instantaneous , animate      , slow-animate, hollow              , augmentative, fluid       , quality   , diminutive  , material  , construct
-рңл , apple      , apple tree ,               , apple blossom, apple       , smoking pipe        ,             , apple juice , appleyness, crabapple   , applewood , orchard
-кфг , coffee bean, coffee tree, instant coffee, coffee       , coffee bean , decaffeinated coffee, caffeine    , coffee aroma, bitterness, coffee candy, coffee mug, café
-ркт , money      , income     , credit card   , money        , investment  , debt                , wealth      , stock       , richness  , coin        , banknote  , bank
+root, base       , fractal    , instantaneous , animate      , slow-animate, hollow              , augmentative, fluid       , quality   , diminutive  , material  , construct, positive, neutral, negative, adjective, adverb  
+рңл , apple      , apple tree ,               , apple blossom, apple       , smoking pipe        ,             , apple juice , appleyness, crabapple   , applewood , orchard, ,,,appley,
+кфг , coffee bean, coffee tree, instant coffee, coffee       , coffee bean , decaffeinated coffee, caffeine    , coffee aroma, bitterness, coffee candy, coffee mug, café, to brew, to concoct, to poison, coffee-like,
+ркт , money      , income     , credit card   , money        , investment  , debt                , wealth      , stock       , richness  , coin        , banknote  , bank, to donate (money), to earn (money), to steal (money), rich, richly
+жлн , effect,       ,    ,          ,    ,                  ,        ,         ,    ,          ,    ,  , to improve, to affect, to worsen,  ,  
+вҫғ , water,       tributary,  tap             ,lake, river        ,  bottle,                        ocean      , liquid,        wetness,    droplet, ice   , water tower,  to rain, to wet, to drown, wet, 
