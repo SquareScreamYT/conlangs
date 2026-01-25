@@ -60,11 +60,11 @@
 | SG | vi  | ti  | si  | ki   |
 | PL | vią | tią | nią | ki   |
 
-> **Note:** Nouns do not decline for plurality.
+**Note:** Nouns do not decline for plurality.
 
 ### Word Order
 
-Clong is SVO. Objects are marked with **e**, and pronouns stack onto the verb as a suffix.
+Clong is SVO. Objects are marked with **e**, and pronouns stack onto the verb as a suffix. **e** can be dropped before pronouns.
 
 ```text
 gatų szaną e pingą
@@ -76,6 +76,12 @@ cat  see.PRS OBJ apple
 szanąvi e pingą
 see.PRS.1SG OBJ apple
 "I see an apple"
+```
+
+```text
+szanąvi ti
+see.PRS.1SG 2SG
+"I see you"
 ```
 
 ### Tense
@@ -159,13 +165,12 @@ apple.1SG.GEN COORD apple.cat.GEN
 
 ### Conjunctions
 
-| Clong  | Function |
-|--------|----------|
-| i      | and      |
-| bynię  | banana   |
-| lių    | while    |
-| zsę    | after    |
-| fąsįti | because  |
+| Clong | English |
+|-------|---------|
+| i     | and     |
+| lių   | while   |
+| zsę   | after   |
+| gor   | because |
 
 Examples:
 
@@ -188,23 +193,69 @@ say.PRS.1SG SEQ run.PRS.2SG
 ```
 
 ```text
-niapąvi pingą gor fąsįti si diacziofna
-eat.PRS.1SG apple CAUS put.PST.2SG 3SG DST.place.LOC
+niapąvi e pingą gor fąsįti si diacziofna
+eat.PRS.1SG OBJ apple CAUS put.PST.2SG OBJ 3SG DST.place.LOC
 "I am eating the apple because you put it there"
+```
+
+```text
+pe fąsęti e reno kiszviųni sot ugękųvi
+if put.FUT.2SG OBJ uranium water.1SG.GEN then die.FUT.1SG
+"if you put uranium in my water, I will die"
+```
+
+### Locative
+
+There are some suffixes that can be used to modify what words are used for.
+
+```text
+siluna
+table.LOC
+"on the table"
+```
+
+```text
+cziupnie
+box.INE
+"in the box"
+```
+
+### Relative Clauses
+
+Relative clauses are surrounded by **te** and **to**.
+
+```text
+gatų te diagį e kisz to niapą e ngaf
+cat REL- drink.PST OBJ water -REL eat.PRS OBJ meat
+"the cat which drank the water is eating the meat"
 ```
 
 ### Basic Words
 
-| Clong | English/Gloss |
-|-------|---------------|
-| szan  | see           |
-| gatų  | cat           |
-| pingą | apple         |
-| siem  | run           |
-| gial  | fast          |
-| bynię | banana        |
-| hian  | talk          |
-| niap  | eat           |
-| silu  | table         |
-| fąs   | put           |
-| cziof | place         |
+| Clong | English/Gloss       |
+|-------|---------------------|
+| szan  | see                 |
+| gatų  | cat                 |
+| pingą | apple               |
+| siem  | run                 |
+| gial  | fast                |
+| bynię | banana              |
+| hian  | talk                |
+| niap  | eat                 |
+| diag  | drink               |
+| ngaf  | meat                |
+| silu  | table               |
+| fąs   | put                 |
+| cziof | place               |
+| miac  | language            |
+| kisz  | water               |
+| reno  | uranium             |
+| ugęk  | die                 |
+| cziup | box                 |
+| jąn   | exist               |
+| gyra  | afraid              |
+| bil   | cause to be, make   |
+| vasoi | to be wary, careful |
+| valyn | dance               |
+| pania | platform            |
+| bięre | space, gap          |
