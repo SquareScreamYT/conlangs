@@ -22,11 +22,11 @@
 
 |           | Labial      | Alveolar    | Palatal         | Velar       |
 |-----------|-------------|-------------|-----------------|-------------|
-| Nasal     | ⟨m mi⟩      | ⟨n ni⟩      |                 | ⟨ng ngi⟩    |
-| Plosive   | ⟨p b pi bi⟩ | ⟨t d ti di⟩ |                 | ⟨k g ki gi⟩ |
-| Affricate |             | ⟨c ci⟩      | ⟨cz czi⟩        |             |
-| Fricative | ⟨f v fi vi⟩ | ⟨s z si zi⟩ | ⟨sz zs szi zsi⟩ | ⟨h hi⟩      |
-| Liquid    |             | ⟨l r li ri⟩ | ⟨j⟩             | ⟨w⟩         |
+| Nasal     | ⟨m my⟩      | ⟨n ny⟩      |                 | ⟨ng ngy⟩    |
+| Plosive   | ⟨p b py by⟩ | ⟨t d ty dy⟩ |                 | ⟨k g ky gy⟩ |
+| Affricate |             | ⟨c cy⟩      | ⟨cz czy⟩        |             |
+| Fricative | ⟨f v fy vy⟩ | ⟨s z sy zy⟩ | ⟨sz zs szy zsy⟩ | ⟨h hy⟩      |
+| Liquid    |             | ⟨l r ly ry⟩ | ⟨y⟩             | ⟨w⟩         |
 
 ### Vowels
 

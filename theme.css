@@ -1249,3 +1249,23 @@ body {
   padding-right: .5rem;
   transform: translateY(1px);
 }
+
+mark {
+  background-color: var(--bgColor-attention-muted);
+  color: inherit;
+  padding: 0 0.2em;
+  border-radius: 4px;
+}
+
+.spoiler {
+  background-color: var(--fgColor-default);
+  color: transparent;
+  border-radius: 4px;
+  padding: 0 0.2em;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.spoiler:hover {
+  color: var(--bgColor-default);
+}
