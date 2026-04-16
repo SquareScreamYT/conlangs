@@ -20,6 +20,18 @@ Phonemes are written in the International Phonetic Alphabet. Voiceless consonant
 | Liquid    | w \<ў>     | ð̞~ð \<ҙ> | l \<л>       | ɥ ɨ̯~ɹ \<ю̆ ы̆> | j \<й>         |            |          |
 | Lateral   |            |          | ɬ \<ԯ>       |              | ʎ \<љ>         |            |          |
 
+<!-- asciification
+|           | Bilabial | Dental    | Alveolar       | Postalveolar   | Palatal           | Dorsal       | Glottal  |
+|-----------|----------|-----------|----------------|----------------|-------------------|--------------|----------|
+| Nasal     | m        |           | n              |                | ɲ \<ny>           | ŋ \<ng>      |          |
+| Plosive   | p b      |           | t d            |                | c ɟ \<ty dy>      | k g          | ʔ \<q>   |
+| Fricative | f v      | θ \<th>   | s z            | ʃ ʒ \<sz rz>   | ç ɕ ʑ \<hy sy zy> | x ɣ \<ch gy> | h~ɦ \<h> |
+| Affricate |          |           | t͡s d͡z \<ts dz> | t͡ʃ d͡ʒ \<cz zs> |                   |              |          |
+| Trill     |          |           | ɾ \<r>         |                |                   | ʀ~ʁ \<gr>    |          |
+| Liquid    | w        | ð̞~ð \<dr> | l \<l>         | ɥ ɨ̯~ɹ \<yy wy> | j \<y>            |              |          |
+| Lateral   |          |           | ɬ \<ll>        |                | ʎ \<ly>           |              |          |
+-->
+
 ### Vowels
 
 |            | Front      | Central | Back    |
@@ -30,6 +42,24 @@ Phonemes are written in the International Phonetic Alphabet. Voiceless consonant
 | Mid        |            | ə \<э>  |         |
 | Open-Mid   | ɛ œ \<я є> |         |         |
 | Open       |            | ä \<а>  |         |
+
+<!--
+|            | Front        | Central | Back    |
+|------------|--------------|---------|---------|
+| Close      | i y \<i y>   | ɨ \<ux> | u \<u>  |
+| Near-Close | ɪ \<ix>      |         | ʊ \<x>* |
+| Close-Mid  | e ø \<e ox>  |         | o \<o>  |
+| Mid        |              | ə \<yx> |         |
+| Open-Mid   | ɛ œ \<ex ax> |         |         |
+| Open       |              | ä \<а>  |         |
+
+|           | Front            | Central  | Back     |
+|-----------|------------------|----------|----------|
+| Close     | iː yː \<ii yy>   |          | uː \<uu> |
+| Close-Mid | eː øː \<ee oox>  |          | oː \<oo> |
+| Open-Mid  | ɛː œː \<eex aax> |          |          |
+| Open      |                  | äː \<aa> |          |
+-->
 
 *[ʊ] can be inserted between consonant clusters deemed impossible. It is written as a short vertical stroke, like \<ы> without the \<ь>. \<ı> can be used as a substitute. There is no capital form as it is typically omitted, and can be added anywhere the writer desires.
 
