@@ -72,10 +72,10 @@ Alternatives, the vowels in Esketuvių can be analysed as this:
 
 ### Pronouns
 
-|    | 1   | 2   | 3   | NDEF |
-|----|-----|-----|-----|------|
-| SG | vi  | ti  | si  | ki   |
-| PL | vią | tią | nią | ki   |
+|    | 1   | 2   | 3   | NDEF/0 |
+|----|-----|-----|-----|--------|
+| SG | vi  | ti  | si  | ki     |
+| PL | vią | tią | nią | ki     |
 
 **Note:** Nouns do not decline for plurality.
 
@@ -366,6 +366,7 @@ plutonium good.CMPR neptunium but uranium good.SUP
 | niap      | eat                                |
 | nyaf      | meat                               |
 | pania     | platform                           |
+| pal     | place                           |
 | pasar     | market                             |
 | pingą     | apple                              |
 | reno      | uranium                            |
@@ -393,3 +394,44 @@ plutonium good.CMPR neptunium but uranium good.SUP
 | ted       | wastewater, the river Thames       |
 | alyen     | the river Thames but mispronounced |
 | fųlve     | river                              |
+| birka     | airborne brick                     |
+| birke     | moving brick (usually on a tram)   |
+| birko     | brick                              |
+| expol     | prosecute                          |
+| pyrum     | explode                            |
+| arai      | implode                            |
+| piszsug   | abysmal                            |
+
+## Example Sentences
+
+```text
+fąsįvi e pingą cziupnanie gor jąngesių bilgyra vi
+put.PST.1SG OBJ apple box.LOC.INE because exist.NMZ.3SG.GEN CAUS.afraid 1SG
+"I put the apple in the box because its presence scares me"
+```
+
+```text
+davasoią e bięrepaniaų
+IMP.be_careful.PRS OBJ gap.platform.GEN
+"please mind the platform gap"
+```
+
+```text
+pingąvių i bynięgatųų valynę
+apple.1SG.GEN COORD banana.cat.GEN dance.FUT
+"my apple and the cat's banana will dance"
+```
+
+```text
+expolęki toyasęs birkaun
+prosecute.FUT.0SG ragebait.AGENT airborne_brick.INSTR
+"ragebaiters will be prosecuted via airborne bricks"
+```
+
+## Phrasebook
+
+```text
+ai!
+hi
+"hello!"
+```
