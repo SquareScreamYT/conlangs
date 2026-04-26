@@ -137,6 +137,14 @@ see.PRS.1SG.NEG OBJ apple
 "I do not see an apple"
 ```
 
+Opposites are marked with **ry**:
+
+```text
+emiaxdia    zedravry    vilą       e   reno
+conlang.PRX healthy.OPP obsess.PRS OBJ uranium
+"This conlang has an unhealthy obsession with uranium"
+```
+
 ### Questions
 
 Questions are marked with **li**:
@@ -253,7 +261,7 @@ eat.PRS.1SG OBJ apple CAUS put.PST.2SG 3SG DST.place.LOC
 ```text
 pe fąsęti      e   reno    kisznanieviųni        sot  ugękųvi
 if put.FUT.2SG OBJ uranium water.LOC.INE.1SG.GEN then die.FUT.1SG
-"if you put uranium in my water, I will die"
+"If you put uranium in my water, I will die"
 ```
 
 ### Locative
@@ -293,7 +301,7 @@ Relative clauses are surrounded by **te** and **to**.
 ```text
 gatų te   diagį     e   kisz  to   niapą   e   nyaf
 cat  REL- drink.PST OBJ water -REL eat.PRS OBJ meat
-"the cat which drank the water is eating the meat"
+"The cat which drank the water is eating the meat"
 ```
 
 ### Expletives
@@ -315,7 +323,7 @@ sidąl
 ```text
 dagavatąvi       e   renocen,     tidąl
 IMP.give.PRS.1SG OBJ uranium.EXPL 2SG.PEJ
-"give me the damn uranium, you"
+"Give me the damn uranium, you"
 ```
 
 ### Comparatives
@@ -325,55 +333,63 @@ IMP.give.PRS.1SG OBJ uranium.EXPL 2SG.PEJ
 ```text
 zsyen     ginevut   afsy      bųr reno    ginevung
 plutonium good.CMPR neptunium but uranium good.SUP
-"plutonium is better than neptunium but uranium is the best"
+"Plutonium is better than neptunium but uranium is the best"
 ```
 
 ### Lexicon
 
-| Esketuvių | English/Gloss               |
-|-----------|-----------------------------|
-| bax       | book                        |
-| ginev     | good                        |
-| kodoz     | similar                     |
-| bięre     | space, gap                  |
-| bil       | cause to be, make           |
-| bynię     | banana                      |
-| cziof     | place                       |
-| cziup     | box                         |
-| diag      | drink                       |
-| fąs       | put                         |
-| gatų      | cat                         |
-| gavat     | to give                     |
-| gial      | fast                        |
-| gyra      | afraid                      |
-| hian      | talk                        |
-| iskel     | school                      |
-| jąn       | exist                       |
-| kisz      | water                       |
-| lirax     | to teach                    |
-| miac      | language                    |
-| niap      | eat                         |
-| nyaf      | meat                        |
-| pania     | platform                    |
-| pasar     | market                      |
-| pingą     | apple                       |
-| reno      | uranium                     |
-| zsyen     | plutonium                   |
-| afsy      | neptunium                   |
-| sęs       | -er, `AGENT`                |
-| siem      | run                         |
-| sorz      | walk                        |
-| ixne      | briskwalk                   |
-| silu      | table                       |
-| szan      | see                         |
-| tacz      | spoon                       |
-| tyczo     | to crash out                |
-| ugęk      | die                         |
-| valyn     | dance                       |
-| vasoi     | to be wary, careful         |
-| toya      | to ragebait                 |
-| tosą      | to drag, to pull            |
-| kaup      | to buy                      |
-| kįlnye    | bucket                      |
-| aret      | to understand the appeal of |
-| erny      | rust                        |
+| Esketuvių | English/Gloss                      |
+|-----------|------------------------------------|
+| bax       | book                               |
+| ginev     | good                               |
+| kodoz     | similar                            |
+| bięre     | space, gap                         |
+| bil       | cause to be, make                  |
+| bynię     | banana                             |
+| cziof     | place                              |
+| cziup     | box                                |
+| diag      | drink                              |
+| fąs       | put                                |
+| gatų      | cat                                |
+| gavat     | to give                            |
+| gial      | fast                               |
+| gyra      | afraid                             |
+| hian      | talk                               |
+| iskel     | school                             |
+| jąn       | exist                              |
+| kisz      | water                              |
+| lirax     | to teach                           |
+| miac      | language                           |
+| emiax     | conlang                            |
+| vil       | obsessed with                      |
+| zedrav    | healthy                            |
+| niap      | eat                                |
+| nyaf      | meat                               |
+| pania     | platform                           |
+| pasar     | market                             |
+| pingą     | apple                              |
+| reno      | uranium                            |
+| zsyen     | plutonium                          |
+| afsy      | neptunium                          |
+| sęs       | -er, `AGENT`                       |
+| siem      | run                                |
+| sorz      | walk                               |
+| ixne      | briskwalk                          |
+| silu      | table                              |
+| szan      | see                                |
+| tacz      | spoon                              |
+| tyczo     | to crash out                       |
+| ugęk      | die                                |
+| valyn     | dance                              |
+| vasoi     | to be wary, careful                |
+| toya      | to ragebait                        |
+| tosą      | to drag, to pull                   |
+| kaup      | to buy                             |
+| kįlnye    | bucket                             |
+| sera      | bucket (slur)                      |
+| aret      | to understand the appeal of        |
+| erny      | rust                               |
+| yęso      | bone                               |
+| ted       | wastewater, the river Thames       |
+| alyen     | the river Thames but mispronounced |
+| fųlve     | river                              |
