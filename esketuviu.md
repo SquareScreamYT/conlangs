@@ -46,7 +46,7 @@
 
 * **Note:** Palatalisation is automatically applied before /i/.
 
-Alternatives, the vowels in Clong can be analysed as this.
+Alternatives, the vowels in Esketuvių can be analysed as this:
 
 |       | Front     | Central | Back  |
 |-------|-----------|---------|-------|
@@ -81,7 +81,7 @@ Alternatives, the vowels in Clong can be analysed as this.
 
 ### Word Order
 
-Clong is SVO. Objects are marked with **e**, and pronouns stack onto the verb as a suffix. **e** can be dropped before pronouns.
+Esketuvių is SVO. Objects are marked with **e**, and pronouns stack onto the verb as a suffix. **e** can be dropped before pronouns.
 
 ```text
 gatų szaną   e   pingą
@@ -108,6 +108,24 @@ see.PRS.1SG 2SG
 | Past    | į      |
 | Present | ą      |
 | Future  | ę      |
+
+### Modality
+
+| Modal              | Suffix |
+|--------------------|--------|
+| "can" ABIL         | m      |
+| "may" PERM         | s      |
+| "might" POSS       | f      |
+| "must/need" NEC    | g      |
+| "should/shall" OBL | rz     |
+
+Add any of the above suffixes after the tense to mark modality:
+
+```text
+kaupągvi        e   reno
+buy.PRS.PRS.1SG OBJ uranium
+"I need to buy uranium"
+```
 
 ### Negation
 
@@ -198,12 +216,13 @@ eat.PRS.2SG spoon.INSTR
 
 ### Conjunctions
 
-| Clong | English |
-|-------|---------|
-| i     | and     |
-| lių   | while   |
-| zsę   | after   |
-| gor   | because |
+| Esketuvių | English |
+|-----------|---------|
+| i         | and     |
+| lių       | while   |
+| zsę       | after   |
+| gor       | because |
+| bųr       | but     |
 
 Examples:
 
@@ -227,7 +246,7 @@ say.PRS.1SG SEQ run.PRS.2SG
 
 ```text
 niapąvi     e   pingą gor  fąsįti      si  diacziofnare
-eat.PRS.1SG OBJ apple CAUS put.PST.2SG OBJ 3SG DST.place.LOC
+eat.PRS.1SG OBJ apple CAUS put.PST.2SG 3SG DST.place.LOC
 "I am eating the apple because you put it there"
 ```
 
@@ -277,42 +296,84 @@ cat  REL- drink.PST OBJ water -REL eat.PRS OBJ meat
 "the cat which drank the water is eating the meat"
 ```
 
-### Basic Words
+### Expletives
 
-| Clong | English/Gloss       |
-|-------|---------------------|
-| bax   | book                |
-| bięre | space, gap          |
-| bil   | cause to be, make   |
-| bynię | banana              |
-| cziof | place               |
-| cziup | box                 |
-| diag  | drink               |
-| fąs   | put                 |
-| gatų  | cat                 |
-| gavat | to give             |
-| gial  | fast                |
-| gyra  | afraid              |
-| hian  | talk                |
-| iskel | school              |
-| jąn   | exist               |
-| kisz  | water               |
-| lirax | to teach            |
-| miac  | language            |
-| niap  | eat                 |
-| nyaf  | meat                |
-| pania | platform            |
-| pasar | market              |
-| pingą | apple               |
-| reno  | uranium             |
-| sęs   | -er, `AGENT`        |
-| siem  | run                 |
-| silu  | table               |
-| szan  | see                 |
-| tacz  | spoon               |
-| tyczo | to crash out        |
-| ugęk  | die                 |
-| valyn | dance               |
-| vasoi | to be wary, careful |
-| toya  | to ragebait         |
-| tosą  | to drag, to pull    |
+Esketuvių has two suffixes, "cen" and "dąl", that can be used as an expletive and pejorative respectively.
+
+```text
+a cen
+EXCLAM EXPL
+"oh no"
+```
+
+```text
+sidąl
+3SG.PEJ
+"that damn person"
+```
+
+```text
+dagavatąvi       e   renocen,     tidąl
+IMP.give.PRS.1SG OBJ uranium.EXPL 2SG.PEJ
+"give me the damn uranium, you"
+```
+
+### Comparatives
+
+"ut" and "ung" are used for comparative and superlative:
+
+```text
+zsyen     ginevut   afsy      bųr reno    ginevung
+plutonium good.CMPR neptunium but uranium good.SUP
+"plutonium is better than neptunium but uranium is the best"
+```
+
+### Lexicon
+
+| Esketuvių | English/Gloss               |
+|-----------|-----------------------------|
+| bax       | book                        |
+| ginev     | good                        |
+| kodoz     | similar                     |
+| bięre     | space, gap                  |
+| bil       | cause to be, make           |
+| bynię     | banana                      |
+| cziof     | place                       |
+| cziup     | box                         |
+| diag      | drink                       |
+| fąs       | put                         |
+| gatų      | cat                         |
+| gavat     | to give                     |
+| gial      | fast                        |
+| gyra      | afraid                      |
+| hian      | talk                        |
+| iskel     | school                      |
+| jąn       | exist                       |
+| kisz      | water                       |
+| lirax     | to teach                    |
+| miac      | language                    |
+| niap      | eat                         |
+| nyaf      | meat                        |
+| pania     | platform                    |
+| pasar     | market                      |
+| pingą     | apple                       |
+| reno      | uranium                     |
+| zsyen     | plutonium                   |
+| afsy      | neptunium                   |
+| sęs       | -er, `AGENT`                |
+| siem      | run                         |
+| sorz      | walk                        |
+| ixne      | briskwalk                   |
+| silu      | table                       |
+| szan      | see                         |
+| tacz      | spoon                       |
+| tyczo     | to crash out                |
+| ugęk      | die                         |
+| valyn     | dance                       |
+| vasoi     | to be wary, careful         |
+| toya      | to ragebait                 |
+| tosą      | to drag, to pull            |
+| kaup      | to buy                      |
+| kįlnye    | bucket                      |
+| aret      | to understand the appeal of |
+| erny      | rust                        |
