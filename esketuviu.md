@@ -8,10 +8,10 @@
 
 |           | Labial      | Alveolar    | Palatal     | Velar       |
 |-----------|-------------|-------------|-------------|-------------|
-| Nasal     | /m mʲ/      | /n nʲ/      |             | /ŋ ŋʲ/      |
+| Nasal     | /m mʲ/      | /n nʲ/      |             | /ŋ/         |
 | Plosive   | /p b pʲ bʲ/ | /t d tʲ dʲ/ |             | /k g kʲ gʲ/ |
 | Affricate |             | /ts tsʲ/    | /tʃ tʃʲ/    |             |
-| Fricative | /f v fʲ vʲ/ | /s z sʲ zʲ/ | /ʃ ʒ ʃʲ ʒʲ/ | /h hʲ/      |
+| Fricative | /f v fʲ vʲ/ | /s z sʲ zʲ/ | /ʃ ʒ ʃʲ ʒʲ/ | /x h hʲ/    |
 | Liquid    |             | /l ɾ lʲ ɾʲ/ | /j/         | /w/         |
 
 |           | Labial      | Alveolar    | Palatal   | Velar       |
@@ -19,15 +19,15 @@
 | Nasal     | [m mʲ]      | [n ɲ]       |           | [ŋ ŋʲ]      |
 | Plosive   | [p b pʲ bʲ] | [t d c ɟ]   |           | [k g xʲ ɣʲ] |
 | Affricate |             | [ts tsʲ]    | [tʃ tɕ]   |             |
-| Fricative | [f v fʲ vʲ] | [s z sʲ zʲ] | [ʃ ʒ ɕ ʑ] | [h ç]       |
+| Fricative | [f v fʲ vʲ] | [s z sʲ zʲ] | [ʃ ʒ ɕ ʑ] | [x h ç]     |
 | Liquid    |             | [l r ʎ rʲ]  | [j]       | [w]         |
 
 |           | Labial      | Alveolar    | Palatal         | Velar       |
 |-----------|-------------|-------------|-----------------|-------------|
-| Nasal     | ⟨m my⟩      | ⟨n ny⟩      |                 | ⟨ng ngy⟩    |
+| Nasal     | ⟨m my⟩      | ⟨n ny⟩      |                 | ⟨ng⟩        |
 | Plosive   | ⟨p b py by⟩ | ⟨t d ty dy⟩ |                 | ⟨k g ky gy⟩ |
 | Affricate |             | ⟨c cy⟩      | ⟨cz czy⟩        |             |
-| Fricative | ⟨f v fy vy⟩ | ⟨s z sy zy⟩ | ⟨sz zs szy zsy⟩ | ⟨h hy⟩      |
+| Fricative | ⟨f v fy vy⟩ | ⟨s z sy zy⟩ | ⟨sz zs szy zsy⟩ | ⟨ch h hy⟩   |
 | Liquid    |             | ⟨l r ly ry⟩ | ⟨y⟩             | ⟨w⟩         |
 
 ### Vowels
@@ -54,10 +54,31 @@ Alternatives, the vowels in Esketuvių can be analysed as this:
 | Mid   | e ø ⟨e ų⟩ |         | o ⟨o⟩ |
 | Open  | ɛ a ⟨ę a⟩ |         | ɔ ⟨ą⟩ |
 
+#### Vowel Coalescence
+
+Esketuvių does not allow consecutive vowels within words, as such a coalescence process is used to resolve would-be diphthongs and hiatuses.
+
+Coalescence is applied left to right: [uai] > [oi] > [ø].
+
+The first vowel is on the top while the second is on the left.
+
+|   | a | ɛ | ɔ | e | ø | o | i | y | ɨ | u |
+|---|---|---|---|---|---|---|---|---|---|---|
+| a | ɔ | ɛ | ɔ | ɛ | ø | ɔ | e | ø | ø | o |
+| ɛ | ɛ | i | ɔ | e | ø | o | i | y | e | o |
+| ɔ | ɔ | ɔ | o | e | ø | o | e | ø | o | u |
+| e | ɛ | e | e | i | y | ø | i | y | i | ø |
+| ø | ø | ø | ø | y | y | ø | y | ø | y | ø |
+| o | ɔ | o | o | ø | ø | u | e | y | u | o |
+| i | e | i | e | i | y | e | i | y | i | y |
+| y | ø | y | ø | y | ø | y | y | i | y | y |
+| ɨ | ø | e | o | i | y | u | i | y | ø | u |
+| u | o | o | u | ø | ø | o | y | y | u | u |
+
 ### Phonotactics
 
 * **Syllable structure:** (C)V(C)
-* **Onset:** any consonant except /ŋ/ and /ŋʲ/
+* **Onset:** any consonant except /ŋ/ and /x/
 * **Nucleus:** any vowel
 * **Coda:** any non-palatalised consonant
 
@@ -366,7 +387,7 @@ plutonium good.CMPR neptunium but uranium good.SUP
 | niap      | eat                                |
 | nyaf      | meat                               |
 | pania     | platform                           |
-| pal     | place                           |
+| pal       | place                              |
 | pasar     | market                             |
 | pingą     | apple                              |
 | reno      | uranium                            |
@@ -386,26 +407,30 @@ plutonium good.CMPR neptunium but uranium good.SUP
 | toya      | to ragebait                        |
 | tosą      | to drag, to pull                   |
 | kaup      | to buy                             |
-| kįlnye    | bucket                             |
-| sera      | bucket (slur)                      |
 | aret      | to understand the appeal of        |
 | erny      | rust                               |
 | yęso      | bone                               |
+| kįlnye    | bucket                             |
+| sera      | bucket (slur)                      |
 | ted       | wastewater, the river Thames       |
 | alyen     | the river Thames but mispronounced |
 | fųlve     | river                              |
 | birka     | airborne brick                     |
 | birke     | moving brick (usually on a tram)   |
+| zserik    | wind                               |
+| toya      | to ragebait                        |
 | birko     | brick                              |
 | expol     | prosecute                          |
 | pyrum     | explode                            |
 | arai      | implode                            |
+| vainen    | country                            |
 | piszsug   | abysmal                            |
+| awac      | control                            |
 
 ## Example Sentences
 
 ```text
-fąsįvi e pingą cziupnanie gor jąngesių bilgyra vi
+fąsįvi e pingą cziupnanie gor yąngesių bilgyra vi
 put.PST.1SG OBJ apple box.LOC.INE because exist.NMZ.3SG.GEN CAUS.afraid 1SG
 "I put the apple in the box because its presence scares me"
 ```
@@ -435,3 +460,5 @@ ai!
 hi
 "hello!"
 ```
+
+## Translations
