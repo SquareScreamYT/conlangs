@@ -111,8 +111,8 @@ cat  see.PRS OBJ apple
 ```
 
 ```text
-szanąvi     e   pingą
-see.PRS.1SG OBJ apple
+szanąvi     pingą
+see.PRS.1SG apple
 "I see an apple"
 ```
 
@@ -357,75 +357,97 @@ plutonium good.CMPR neptunium but uranium good.SUP
 "Plutonium is better than neptunium but uranium is the best"
 ```
 
+### Numbers
+
+Base 12.
+
+300₆ = 108 = itre
+
+### Colors
+
 ### Lexicon
 
-| Esketuvių | English/Gloss                      |
-|-----------|------------------------------------|
-| bax       | book                               |
-| ginev     | good                               |
-| kodoz     | similar                            |
-| bięre     | space, gap                         |
-| bil       | cause to be, make                  |
-| bynię     | banana                             |
-| cziof     | place                              |
-| cziup     | box                                |
-| diag      | drink                              |
-| fąs       | put                                |
-| gatų      | cat                                |
-| gavat     | to give                            |
-| gial      | fast                               |
-| gyra      | afraid                             |
-| hian      | talk                               |
-| iskel     | school                             |
-| jąn       | exist                              |
-| kisz      | water                              |
-| lirax     | to teach                           |
-| miac      | language                           |
-| emiax     | conlang                            |
-| vil       | obsessed with                      |
-| zedrav    | healthy                            |
-| niap      | eat                                |
-| nyaf      | meat                               |
-| pania     | platform                           |
-| pal       | place                              |
-| pasar     | market                             |
-| pingą     | apple                              |
-| reno      | uranium                            |
-| zsyen     | plutonium                          |
-| afsy      | neptunium                          |
-| sęs       | -er, `AGENT`                       |
-| siem      | run                                |
-| sorz      | walk                               |
-| ixne      | briskwalk                          |
-| silu      | table                              |
-| szan      | see                                |
-| tacz      | spoon                              |
-| tyczo     | to crash out                       |
-| ugęk      | die                                |
-| valyn     | dance                              |
-| vasoi     | to be wary, careful                |
-| toya      | to ragebait                        |
-| tosą      | to drag, to pull                   |
-| kaup      | to buy                             |
-| aret      | to understand the appeal of        |
-| erny      | rust                               |
-| yęso      | bone                               |
-| kįlnye    | bucket                             |
-| sera      | bucket (slur)                      |
-| ted       | wastewater, the river Thames       |
-| alyen     | the river Thames but mispronounced |
-| fųlve     | river                              |
-| birka     | airborne brick                     |
-| birke     | moving brick (usually on a tram)   |
-| zserik    | wind                               |
-| toya      | to ragebait                        |
-| birko     | brick                              |
-| expol     | prosecute                          |
-| pyrum     | explode                            |
-| arai      | implode                            |
-| vainen    | country                            |
-| piszsug   | abysmal                            |
-| awac      | control                            |
+| Esketuvių | English/Gloss                    |
+|-----------|----------------------------------|
+| bax       | book                             |
+| ginev     | good                             |
+| kodoz     | similar                          |
+| bięre     | space, gap                       |
+| sziure    | know                             |
+| syenze    | situation                        |
+| bil       | cause to be, make                |
+| bynię     | banana                           |
+| cziof     | place                            |
+| cziup     | box                              |
+| diag      | drink                            |
+| fąs       | put                              |
+| gatų      | cat                              |
+| gavat     | to give                          |
+| gial      | fast                             |
+| gyra      | afraid                           |
+| hian      | talk                             |
+| iskel     | school                           |
+| jąn       | exist                            |
+| kisz      | water                            |
+| lirax     | to teach                         |
+| miac      | language                         |
+| emiax     | conlang                          |
+| vil       | obsessed with                    |
+| zedrav    | healthy                          |
+| niap      | eat                              |
+| nyaf      | meat                             |
+| pania     | platform                         |
+| nerze     | world                            |
+| mondu     | weapon                           |
+| pal       | place                            |
+| pasar     | market                           |
+| denla     | to call, message                 |
+| pingą     | apple                            |
+| reno      | uranium                          |
+| zsyen     | plutonium                        |
+| afsy      | neptunium                        |
+| sįyo      | want                             |
+| sęs       | -er, `AGENT`                     |
+| siem      | run                              |
+| sorz      | walk                             |
+| ixne      | briskwalk                        |
+| silu      | table                            |
+| szan      | see                              |
+| tacz      | spoon                            |
+| tyczo     | to crash out                     |
+| ugęk      | die                              |
+| zyle      | gone, missing                    |
+| valyn     | dance                            |
+| vasoi     | to be wary, careful              |
+| toya      | to ragebait                      |
+| tosą      | to drag, to pull                 |
+| kaup      | to buy                           |
+| aret      | to understand the appeal of      |
+| erny      | rust                             |
+| yęso      | bone                             |
+| kįlnye    | bucket                           |
+| sera      | bucket (slur)                    |
+| ted       | wastewater                       |
+| alyen     | stream                           |
+| fųlve     | river                            |
+| birka     | airborne brick                   |
+| birke     | moving brick (usually on a tram) |
+| zserik    | wind                             |
+| toya      | to ragebait                      |
+| chųptal   | emergency                        |
+| birko     | brick                            |
+| expol     | prosecute                        |
+| asti      | create                           |
+| mylka     | destroy                          |
+| pyrum     | explode                          |
+| arai      | implode                          |
+| vainen    | country                          |
+| bauto     | sky                              |
+| tenkon    | boat, ship                       |
+| piszsug   | abysmal                          |
+| bilei     | become                           |
+| garab     | group                            |
+| awac      | control                          |
 
 ## Example Sentences
 
