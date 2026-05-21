@@ -111,8 +111,8 @@ cat  see.PRS OBJ apple
 ```
 
 ```text
-szanąvi     pingą
-see.PRS.1SG apple
+szanąvi     e   pingą
+see.PRS.1SG OBJ apple
 "I see an apple"
 ```
 
@@ -144,7 +144,7 @@ Add any of the above suffixes after the tense to mark modality:
 
 ```text
 kaupągvi        e   reno
-buy.PRS.PRS.1SG OBJ uranium
+buy.PRS.NEC.1SG OBJ uranium
 "I need to buy uranium"
 ```
 
