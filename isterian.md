@@ -4,7 +4,7 @@
 
 ## Worldbuilding
 
-### Geography
+<!-- ### Geography
 
 Istekainen (lit. water settlement) is dense coastal trading city built across barrier islands, reclaimed marshland, artificial terraces, canals and elevated stone causeways. Its climate roughly aligns to the Köppen classification Csb (mild rainy winters, dry summers, cool sea winds, frequent coastal fog). Its theme is somewhat like solarpunk but not totally utopian/dystopian and fantasy without magic. Its estimated population is around 600k~1m. Its vibe is similar to that of Venice, Málaga, Helsinki or Amsterdam. It is situated in an alternate earth, only the traditional script is used in lore, Latin transcription is used for convenience and documentation purposes only.
 
@@ -28,7 +28,7 @@ Most believe that the city survives because they maintain it together rather tha
 
 ### Language
 
-Isterian (Isterian: Istereune) is the language spoken in Istekainen.
+Isterian (Isterian: Istereune) is the language spoken in Istekainen.-->
 
 ## Phonology
 
@@ -84,7 +84,7 @@ Isterian (Isterian: Istereune) is the language spoken in Istekainen.
 
 ### Word Classes
 
-Esketuvių has grammatical classes for objects that will be used as affixes on verbs.
+Isterian has grammatical classes for objects that will be used as affixes on verbs.
 
 #### Class I
 
@@ -175,7 +175,7 @@ Affixes are applied to nouns onto verbs. The subject adds a prefix and the objec
 
 ### Word Order
 
-Esketuvių is SVO. Pronouns stack onto the verb.
+Isterian is SVO. Pronouns stack onto the verb.
 
 ```text
 gatyy isianät        pingä
@@ -330,7 +330,7 @@ eat.PRS.2SG.V spoon.INSTR
 
 ### Conjunctions
 
-| Esketuvių  | English       |
+| Isterian   | English       |
 |------------|---------------|
 | i          | and     COORD |
 | ly         | while   SIM   |
@@ -403,7 +403,7 @@ cat  REL- drink.PST water -REL
 
 ### Expletives
 
-Esketuvių has two suffixes, "den" and "dal", that can be used as an expletive and pejorative respectively.
+Isterian has two suffixes, "den" and "dal", that can be used as an expletive and pejorative respectively.
 
 ```text
 a den
@@ -445,7 +445,7 @@ cat.DIM COORD dog.AUG
 
 ### Numbers
 
-Esketuvių uses base 10.
+Isterian uses base 10.
 
 | 0   | ½   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
