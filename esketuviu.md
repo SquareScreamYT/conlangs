@@ -139,6 +139,7 @@ see.PRS.1SG 2SG
 | "might" POSS       | f      |
 | "must/need" NEC    | g      |
 | "should/shall" OBL | rz     |
+| "want" DES         | b      |
 
 Add any of the above suffixes after the tense to mark modality:
 
@@ -376,12 +377,16 @@ Base 12.
 | sziure    | know                             |
 | syenze    | situation                        |
 | bil       | cause to be, make                |
+| zseg      | change                           |
+| garyn     | soup                             |
+| anras     | hair                             |
 | bynię     | banana                           |
 | cziof     | place                            |
 | cziup     | box                              |
 | diag      | drink                            |
 | fąs       | put                              |
 | gatų      | cat                              |
+| seza      | stars                            |
 | gavat     | to give                          |
 | gial      | fast                             |
 | gyra      | afraid                           |
@@ -391,6 +396,7 @@ Base 12.
 | kisz      | water                            |
 | lirax     | to teach                         |
 | miac      | language                         |
+| szik      | rain                             |
 | emiax     | conlang                          |
 | vil       | obsessed with                    |
 | zedrav    | healthy                          |
@@ -432,6 +438,8 @@ Base 12.
 | fųlve     | river                            |
 | birka     | airborne brick                   |
 | birke     | moving brick (usually on a tram) |
+| aza       | sleep                            |
+| nasar     | wake up                          |
 | zserik    | wind                             |
 | toya      | to ragebait                      |
 | chųptal   | emergency                        |
