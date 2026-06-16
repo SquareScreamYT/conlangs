@@ -6,7 +6,7 @@
 
 <!-- ### Geography
 
-Istekainen (lit. water settlement) is dense coastal trading city built across barrier islands, reclaimed marshland, artificial terraces, canals and elevated stone causeways. Its climate roughly aligns to the Koppen classification Csb (mild rainy winters, dry summers, cool sea winds, frequent coastal fog). Its theme is somewhat like solarpunk but not totally utopian/dystopian and fantasy without magic. Its estimated population is around 600k~1m. Its vibe is similar to that of Venice, Málaga, Helsinki or Amsterdam. It is situated in an alternate earth, only the traditional script is used in lore, Latin transcription is used for convenience and documentation purposes only.
+Istekainen (lit. water settlement) is dense coastal trading city built across barrier islands, reclaimed marshland, artificial terraces, canals and elevated stone causeways. Its climate roughly aligns to the Köppen classification Csb (mild rainy winters, dry summers, cool sea winds, frequent coastal fog). Its theme is somewhat like solarpunk but not totally utopian/dystopian and fantasy without magic. Its estimated population is around 600k~1m. Its vibe is similar to that of Venice, Málaga, Helsinki or Amsterdam. It is situated in an alternate earth, only the traditional script is used in lore, Latin transcription is used for convenience and documentation purposes only.
 
 ### Architecture and Identity
 
@@ -46,10 +46,8 @@ Isterian (Isterian: Istereune) is the language spoken in Istekainen.-->
 |       | Front     | Back  |
 |-------|-----------|-------|
 | Close | i y ⟨i y⟩ | u ⟨u⟩ |
-| Mid   | e ⟨e⟩     | o ⟨o⟩ |
-| Open  | a ⟨a⟩     |       |
-
-Isterian once had the vowels [ø ɛ ɔ] ⟨ö ä å⟩, but these have since merged with [o e a].
+| Mid   | e ø ⟨e ö⟩ | o ⟨o⟩ |
+| Open  | ɛ a ⟨ä a⟩ | ɔ ⟨å⟩ |
 
 ### Allophony
 
@@ -70,7 +68,7 @@ Isterian once had the vowels [ø ɛ ɔ] ⟨ö ä å⟩, but these have since mer
 
 * **Syllable structure:** (C)V(C)
 * **Onset:** any consonant
-* **Nucleus:** any vowel
+* **Nucleus:** any vowel, except [ɔ] only appears in loanwords
 * **Coda:** any consonant except [j]
 
 ## Script
@@ -82,7 +80,7 @@ Isterian once had the vowels [ø ɛ ɔ] ⟨ö ä å⟩, but these have since mer
 |    | 1  | 2  | 3  | NDEF/0 |
 |----|----|----|----|--------|
 | SG | vi | ti | si | ki     |
-| PL | ve | te | ne | ki     |
+| PL | vä | tä | nä | ki     |
 
 ### Word Classes
 
@@ -92,10 +90,10 @@ Isterian has grammatical classes for objects that will be used as affixes on ver
 
 Class I: Humans
 
-* `ses` person
+* `säs` person
 * `kenin` ruler, king, queen
-* `peten` teacher
-* `veinen` healer, doctor, herbalist
+* `petän` teacher
+* `väinen` healer, doctor, herbalist
 
 #### Class II
 
@@ -131,15 +129,15 @@ Class V: Man-made objects
 * `irbi` house
 * `naven` road
 * `padat` ship
-* `jersi` knife
+* `järsi` knife
 
 #### Class VI
 
 Class VI: Mass materials, substances
 
-* `sises` sand
+* `sisäs` sand
 * `iste` water
-* `orben` iron
+* `örben` iron
 * `hyrse` smoke
 
 #### Class VII
@@ -156,9 +154,9 @@ Class VII: Abstract concepts
 Class VII: Nouns derived from verbs or adjectives
 
 * `yrenys` lime green
-* `sierteres` writing
-* `gorysres` secret
-* `janres` speech
+* `siertäräs` writing
+* `görysräs` secret
+* `janräs` speech
 
 #### Class Affixes
 
@@ -168,8 +166,8 @@ Class VII: Nouns derived from verbs or adjectives
 | II    | i/p   |
 | III   | u/t   |
 | IV    | o/m   |
-| V     | o/n   |
-| VI    | e/l   |
+| V     | ö/n   |
+| VI    | ä/l   |
 | VII   | y/r   |
 | VIII  | e/s   |
 
@@ -180,19 +178,19 @@ Affixes are applied to nouns onto verbs. The subject adds a prefix and the objec
 Isterian is SVO. Pronouns stack onto the verb.
 
 ```text
-gatyy isianet        pinge
+gatyy isianät        pingä
 mouse II.see.PRS.III apple
 "the mouse sees an apple"
 ```
 
 ```text
-sianevit        pinge
+sianävit        pingä
 see.PRS.1SG.III apple
 "I see an apple"
 ```
 
 ```text
-sianevi     ti
+sianävi     ti
 see.PRS.1SG 2SG
 "I see you"
 ```
@@ -202,8 +200,8 @@ see.PRS.1SG 2SG
 | Tense   | Suffix |
 |---------|--------|
 | Past    | y      |
-| Present | e      |
-| Future  | o      |
+| Present | ä      |
+| Future  | ö      |
 
 ### Modality
 
@@ -219,7 +217,7 @@ see.PRS.1SG 2SG
 Add any of the above suffixes after the tense to mark modality:
 
 ```text
-kaupegvil          puten
+kaupägvil          puten
 buy.PRS.NEC.1SG.VI grapes
 "I need to buy grapes"
 ```
@@ -229,7 +227,7 @@ buy.PRS.NEC.1SG.VI grapes
 Negation is marked with **ne**:
 
 ```text
-sianevinet          pinge
+sianävinet          pingä
 see.PRS.1SG.NEG.III apple
 "I do not see an apple"
 ```
@@ -247,7 +245,7 @@ healthy.OPP
 Questions are marked with **li** or attached to the noun needed:
 
 ```text
-lisianetit        pinge
+lisianätit        pingä
 Q.see.PRS.2SG.III apple
 "do you see an apple?"
 ```
@@ -263,7 +261,7 @@ Q.reason
 Imperatives use **da**:
 
 ```text
-dasieme!
+dasiemä!
 IMP.run.PRS
 "run!"
 ```
@@ -278,7 +276,7 @@ If there are multiple subjects or objects, only the affix of the first instance 
 Adjectives precede nouns:
 
 ```text
-gos  rusne pinge
+gos  rusne pingä
 big  red   apple
 "big red apple"
 ```
@@ -288,7 +286,7 @@ big  red   apple
 Adverbs precede verbs:
 
 ```text
-gial siemevi
+gial siemävi
 fast run.PRS.1SG
 "I quickly run"
 ```
@@ -299,7 +297,7 @@ fast run.PRS.1SG
 * **ria** = that (distal)
 
 ```text
-diapinge  i     riapinge
+diapingä  i     riapingä
 PRX.apple COORD DST.apple
 "this apple and that apple"
 ```
@@ -309,7 +307,7 @@ PRX.apple COORD DST.apple
 Add **u** to a noun or pronoun for genitive:
 
 ```text
-pingeviu      i     pingesipsiu
+pingäviu      i     pingäsipsiu
 apple.1SG.GEN COORD apple.dog.GEN
 "my apple and the dog's apple"
 ```
@@ -319,13 +317,13 @@ apple.1SG.GEN COORD apple.dog.GEN
 Add **us** or **un** for dative and instrumental:
 
 ```text
-gavatyvin      bok  petenusviu
+gavatyvin      bök  petänusviu
 give.PST.1SG.V book teacher.DAT.1SG.GEN
 "I gave the book to my teacher"
 ```
 
 ```text
-niapetin      tasun
+niapätin      tasun
 eat.PRS.2SG.V spoon.INSTR
 "You eat using a spoon"
 ```
@@ -340,25 +338,25 @@ eat.PRS.2SG.V spoon.INSTR
 | gor        | because CAUS  |
 | eire       | with    COM   |
 | byr        | but           |
-| sot        | then          |
+| söt        | then          |
 | il ... mas | if ... then   |
 
 Examples:
 
 ```text
-pinge  i     pilse
+pingä  i     pilsä
 apple  COORD banana
 "an apple and a banana"
 ```
 
 ```text
-sianevi     lyy siemeti
+sianävi     lyy siemäti
 see.PRS.1SG SIM run.PRS.2SG
 "I see while you run"
 ```
 
 ```text
-janevi      sen siemeti
+janävi      sen siemäti
 say.PRS.1SG SEQ run.PRS.2SG
 "I talk after you run"
 ```
@@ -420,7 +418,7 @@ sidal
 ```
 
 ```text
-dagavatetil          renoden     vius,   tidal
+dagavatätil          renoden     vius,   tidal
 IMP.give.PRS.2SG.VII copper.EXPL 1SG.DAT 2SG.PEJ
 "Give me the damn copper, you"
 ```
@@ -430,17 +428,17 @@ IMP.give.PRS.2SG.VII copper.EXPL 1SG.DAT 2SG.PEJ
 "ut" and "un" are used for comparative and superlative:
 
 ```text
-pilse  ginevut   puten  byr pinge ginevun
+pilsä  ginevut   puten  byr pingä ginevun
 banana good.CMPR grapes but apple good.SUP
 "bananas are better than grapes but apples are the best"
 ```
 
 ### Diminutives and Augmentatives
 
-"se" and "ty" are used for diminutive and augmentative:
+"sä" and "ty" are used for diminutive and augmentative:
 
 ```text
-maruse  i     aryvty
+marusä  i     aryvty
 cat.DIM COORD dog.AUG
 "small cat and large dog"
 ```
@@ -451,14 +449,14 @@ Isterian uses base 10.
 
 | 0   | ½   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| sin | tes | has | tav | rei | mai | kal | pas | reg | dag | kap |
+| sin | täs | has | tav | rei | mai | kal | pas | reg | dag | kap |
 
 | Number  | Word    |
 |---------|---------|
 | 10      | nere    |
 | 100     | (r)itre |
-| 1000    | (k)eny  |
-| 10000   | soro    |
+| 1000    | (k)äny  |
+| 10000   | söro    |
 | 100000  | tagie   |
 | 1000000 | pesi    |
 | 10^6x   | al-x    |
@@ -472,13 +470,13 @@ Large numbers may be hyphenated for legibility.
 | Example                    | Number            |
 |----------------------------|-------------------|
 | has                        | 1                 |
-| hastes                     | 1.5               |
+| hastäs                     | 1.5               |
 | (has)nere                  | 10                |
 | tavnere                    | 20                |
 | pasneredag                 | 68                |
 | mairitre                   | 400               |
 | kalitre                    | 500               |
-| kapeny-dagitre-regnere-pas | 9876              |
+| kapäny-dagitre-regnere-pas | 9876              |
 | altav                      | 1,000,000,000,000 |
 
 ## Lexicon
@@ -490,28 +488,28 @@ Large numbers may be hyphenated for legibility.
 | ![red](https://placehold.co/8x8/red/red.png) Red                             | rusne |
 | ![blue](https://placehold.co/8x8/blue/blue.png) Blue                         | lira  |
 | ![light blue](https://placehold.co/8x8/lightblue/lightblue.png) Light Blue   | giede |
-| ![cyan](https://placehold.co/8x8/cyan/cyan.png) Cyan                         | zeren |
+| ![cyan](https://placehold.co/8x8/cyan/cyan.png) Cyan                         | zerän |
 | ![green](https://placehold.co/8x8/green/green.png) Green                     | vysa  |
 | ![lime](https://placehold.co/8x8/lime/lime.png) Lime                         | yren  |
-| ![yellow](https://placehold.co/8x8/yellow/yellow.png) Yellow                 | kalo  |
+| ![yellow](https://placehold.co/8x8/yellow/yellow.png) Yellow                 | kalö  |
 | ![orange](https://placehold.co/8x8/orange/orange.png) Orange                 | naru  |
-| ![purple](https://placehold.co/8x8/purple/purple.png) Purple                 | sore  |
+| ![purple](https://placehold.co/8x8/purple/purple.png) Purple                 | sörä  |
 | ![pink](https://placehold.co/8x8/pink/pink.png) Pink                         | myri  |
 | ![brown](https://placehold.co/8x8/brown/brown.png) Brown                     | teru  |
 | ![beige](https://placehold.co/8x8/peachpuff/peachpuff.png) Beige/Skin Colour | akia  |
 | ![black](https://placehold.co/8x8/black/black.png) Black                     | hura  |
 | ![white](https://placehold.co/8x8/fff/fff.png) White                         | ise   |
-| ![gray](https://placehold.co/8x8/gray/gray.png) Gray                         | nore  |
+| ![gray](https://placehold.co/8x8/gray/gray.png) Gray                         | nörä  |
 
 ### Affixes
 
 | Affix | Meaning              |
 |-------|----------------------|
 | -ys   | -coloured            |
-| -res  | nominaliser `NMZ`    |
+| -räs  | nominaliser `NMZ`    |
 | -ner  | adjectivizer (-able) |
 | -jyk  | n-sided shape        |
-| -sies | -er `AGENT`          |
+| -siäs | -er `AGENT`          |
 
 ### Idioms
 
@@ -523,22 +521,22 @@ Large numbers may be hyphenated for legibility.
 | verb           | vele   | -     | love             |
 | verb           | vara   | -     | know             |
 | verb           | tyra   | -     | write            |
-| verb           | soka   | -     | hear             |
+| verb           | söka   | -     | hear             |
 | verb           | siem   | -     | run              |
 | verb           | sian   | -     | see              |
 | verb           | sena   | -     | come             |
-| verb           | sede   | -     | die              |
+| verb           | sedä   | -     | die              |
 | verb           | pera   | -     | sleep            |
-| verb           | peri   | -     | stand            |
+| verb           | päri   | -     | stand            |
 | verb           | niap   | -     | eat              |
-| verb           | mora   | -     | sit              |
+| verb           | möra   | -     | sit              |
 | verb           | lera   | -     | read             |
-| verb           | lega   | -     | go               |
+| verb           | läga   | -     | go               |
 | verb           | riga   | -     | dig, unearth     |
 | verb           | kaup   | -     | buy              |
 | verb           | kale   | -     | make, create     |
 | verb           | jan    | -     | speak, say       |
-| verb           | sierte | -     | write            |
+| verb           | siertä | -     | write            |
 | verb           | hene   | -     | think            |
 | verb           | gavat  | -     | give             |
 | verb           | dova   | -     | work             |
@@ -547,49 +545,49 @@ Large numbers may be hyphenated for legibility.
 | verb           | iri    | -     | become           |
 | verb           | mimi   | -     | wait             |
 | verb           | toki   | -     | clean            |
-| noun           | veinen | I     | healer           |
-| noun           | ses    | I     | person           |
-| noun           | peten  | I     | teacher          |
+| noun           | väinen | I     | healer           |
+| noun           | säs    | I     | person           |
+| noun           | petän  | I     | teacher          |
 | noun           | kenin  | I     | ruler            |
 | noun           | suomi  | I     | friend           |
 | noun           | sipsi  | II    | bird             |
 | noun           | sehni  | II    | butterfly        |
 | noun           | maru   | II    | cat              |
 | noun           | aryv   | II    | dog              |
-| noun           | besno  | II    | fish             |
+| noun           | besnö  | II    | fish             |
 | noun           | vys    | III   | seaweed          |
 | noun           | pyv    | III   | mushroom         |
 | noun           | puten  | III   | grape            |
 | noun           | pisik  | III   | grass            |
-| noun           | pinge  | III   | apple            |
-| noun           | pilse  | III   | banana           |
+| noun           | pingä  | III   | apple            |
+| noun           | pilsä  | III   | banana           |
 | noun           | kyrik  | III   | tree             |
 | noun           | vasas  | IV    | river            |
 | noun           | runo   | IV    | moon             |
 | noun           | pirip  | IV    | rain             |
 | noun           | lagan  | IV    | mountain         |
-| noun           | ringon | IV    | force            |
+| noun           | ringön | IV    | force            |
 | noun           | tas    | V     | spoon            |
 | noun           | siup   | V     | box              |
 | noun           | silu   | V     | table            |
 | noun           | pasar  | V     | market           |
 | noun           | padat  | V     | ship             |
 | noun           | naven  | V     | road             |
-| noun           | jersi  | V     | knife            |
+| noun           | järsi  | V     | knife            |
 | noun           | iskel  | V     | school           |
 | noun           | irbi   | V     | house            |
 | noun           | kainen | V     | city, settlement |
-| noun           | bok    | V     | book             |
+| noun           | bök    | V     | book             |
 | noun           | viere  | V     | structure        |
 | noun           | pona   | V     | tool             |
 | noun           | ike    | V     | cloth            |
-| noun           | sises  | VI    | sand             |
+| noun           | sisäs  | VI    | sand             |
 | noun           | reno   | VI    | copper           |
-| noun           | orben  | VI    | iron             |
+| noun           | örben  | VI    | iron             |
 | noun           | iste   | VI    | water            |
 | noun           | hyrse  | VI    | smoke            |
 | noun           | asten  | VI    | rock, stone      |
-| noun           | kyrke  | VI    | clay             |
+| noun           | kyrkä  | VI    | clay             |
 | noun           | vater  | VII   | truth            |
 | noun           | tida   | VII   | 72 minutes       |
 | noun           | seda   | VII   | death            |
@@ -601,15 +599,15 @@ Large numbers may be hyphenated for legibility.
 | noun           | vivir  | VII   | pattern          |
 | noun           | jalak  | VII   | reason           |
 | adj/adv        | tery   | -     | old              |
-| adj/adv        | syve   | -     | cold             |
+| adj/adv        | syvä   | -     | cold             |
 | adj/adv        | pyri   | -     | small            |
-| adj/adv        | gorys  | -     | hidden           |
+| adj/adv        | görys  | -     | hidden           |
 | adj/adv        | niva   | -     | new              |
-| adj/adv        | kele   | -     | hot              |
+| adj/adv        | kelä   | -     | hot              |
 | adj/adv        | gos    | -     | big              |
 | adj/adv        | ginev  | -     | good             |
 | adj/adv        | gial   | -     | fast             |
 | adj/adv        | erjel  | -     | beautiful        |
-| adj/adv        | berjen | -     | real             |
+| adj/adv        | bärjän | -     | real             |
 
 ## Translations
