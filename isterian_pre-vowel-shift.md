@@ -61,7 +61,9 @@ Isterian (Isterian: Istereune) is the language spoken in Istekainen.-->
 * [d] becomes [dʑ] before [i y j]
 * [s] becomes [z] after [d]
 * [ng] and [nk] become [ŋ] and [ŋk]
+* [mb] and [nd] become [mː] and [nː]
 * [v] becomes [f] word-finally
+* [l] becomes [w] word-finally
 * [i] can be dropped after any palatalised consonant word-finally
 
 ### Phonotactics
