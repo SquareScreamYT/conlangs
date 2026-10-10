@@ -2,33 +2,9 @@
 
 ## Table of Contents
 
-## Worldbuilding
+## Introduction
 
-<!-- ### Geography
-
-Istekainen (lit. water settlement) is dense coastal trading city built across barrier islands, reclaimed marshland, artificial terraces, canals and elevated stone causeways. Its climate roughly aligns to the Köppen classification Csb (mild rainy winters, dry summers, cool sea winds, frequent coastal fog). Its theme is somewhat like solarpunk but not totally utopian/dystopian and fantasy without magic. Its estimated population is around 600k~1m. Its vibe is similar to that of Venice, Málaga, Helsinki or Amsterdam. It is situated in an alternate earth, only the traditional script is used in lore, Latin transcription is used for convenience and documentation purposes only.
-
-### Architecture and Identity
-
-Istekainen feels bustling, artistic and communal. Most buildings are between 4 to 8 floors high and are shophouse-like. The first floor is usually made of white stone, while the stories above have a slight overhang to shade the first floor's shop windows and are brightly coloured. Shops and buildings include workshops, ferry entries, tea houses, market arcades, kitchens, restaurants, botanists and florists, cafés and so on. Upper floors have hanging gardens, bamboo trellises, rooftop greenhouses, laundry bridges, awnings, wind-catching chimneys and may lean over streets and canals as shade and may even connect to the other side. Some streets have fabric canopies above tied to buildings to shade people. It is walkable, textured and alive. Most buildings don't reach higher than 9 floors due to wind and cultural preference, and that buildings should try to be shorter than the most important building of the town.
-
-### Transport
-
-Istekainen's transport network is mainly made of canals and stone-paved roads along with solar-powered trams and ferries. It stops every few blocks. Ferries also do the same. There are long distance solar-run trains toward the countryside and other towns. Bicycles are also common, there are bike lanes on major throughfares.
-
-### Economy
-
-Istekainen's resources are managed carefully, labour and politics still matter but are mostly more progressive. Istekainen is a socialist meritocracy. Slight inequality exists, but not hyper-capitalist misery, mostly between people of different skills and talents. Engineers, artisans and workers are treated with respect, while lower class people include foreign merchants and people with extreme wealth. Overly rich people are culturally distrusted because it implies hoarding resources instead of contributing to civic maintenance. Its main economy is based on salt trading, fishing, arts such as paintings and pottery, engineering and crops/food.
-
-### Culture
-
-Most believe that the city survives because they maintain it together rather than it lasting permanently. Most view repairing as a responsibility and honour instead of an inconvenience. Throwing things away is considered embarrassing and is frowned upon. Things are patched, refinished, inherited or modified. Buildings are built to last and not replaced. It has large communal areas such as parks, markets and squares. Most people do not have a religion and are atheist, instead most festivals celebrate events such as the start and end of farming season, weather events such as summer/winter solstice etc.
-
-### Cuisine
-
-### Language
-
-Isterian (Isterian: Istereune) is the language spoken in Istekainen.-->
+Istekainen (lit. water settlement) is the Isterian name for Tanisuz̃u, a city in northern Taukhoree, Kozdenen. It is dense coastal trading city built across barrier islands, reclaimed marshland, artificial terraces, canals and elevated stone causeways. Its climate roughly aligns to the Köppen classification Csb (mild rainy winters, dry summers, cool sea winds, frequent coastal fog). Its estimated population is around 600k~1m. Isterian (Isterian: Istereune) is the language spoken in Istekainen.
 
 ## Phonology
 
@@ -181,19 +157,19 @@ Isterian is SVO. Pronouns stack onto the verb.
 
 ```text
 gatyy isianät        pingä
-mouse II.see.PRS.III apple
+mouse II-see-PRS-III apple
 "the mouse sees an apple"
 ```
 
 ```text
 sianävit        pingä
-see.PRS.1SG.III apple
+see-PRS-1SG-III apple
 "I see an apple"
 ```
 
 ```text
 sianävi     ti
-see.PRS.1SG 2SG
+see-PRS-1SG 2SG
 "I see you"
 ```
 
@@ -220,7 +196,7 @@ Add any of the above suffixes after the tense to mark modality:
 
 ```text
 kaupägvil          puten
-buy.PRS.NEC.1SG.VI grapes
+buy-PRS-NEC-1SG-VI grapes
 "I need to buy grapes"
 ```
 
@@ -230,7 +206,7 @@ Negation is marked with **ne**:
 
 ```text
 sianävinet          pingä
-see.PRS.1SG.NEG.III apple
+see-PRS-1SG-NEG-III apple
 "I do not see an apple"
 ```
 
@@ -238,7 +214,7 @@ Opposites are marked with **re**:
 
 ```text
 sedravre
-healthy.OPP
+healthy-OPP
 "unhealthy"
 ```
 
@@ -248,13 +224,13 @@ Questions are marked with **li** or attached to the noun needed:
 
 ```text
 lisianätit        pingä
-Q.see.PRS.2SG.III apple
+Q-see-PRS-2SG-III apple
 "do you see an apple?"
 ```
 
 ```text
 lijalak
-Q.reason
+Q-reason
 "why?"
 ```
 
@@ -264,7 +240,7 @@ Imperatives use **da**:
 
 ```text
 dasiemä!
-IMP.run.PRS
+IMP-run-PRS
 "run!"
 ```
 
@@ -289,7 +265,7 @@ Adverbs precede verbs:
 
 ```text
 gial siemävi
-fast run.PRS.1SG
+fast run-PRS-1SG
 "I quickly run"
 ```
 
@@ -300,7 +276,7 @@ fast run.PRS.1SG
 
 ```text
 diapingä  i     riapingä
-PRX.apple COORD DST.apple
+PRX-apple COORD DST-apple
 "this apple and that apple"
 ```
 
@@ -310,7 +286,7 @@ Add **u** to a noun or pronoun for genitive:
 
 ```text
 pingäviu      i     pingäsipsiu
-apple.1SG.GEN COORD apple.dog.GEN
+apple-1SG-GEN COORD apple-dog-GEN
 "my apple and the dog's apple"
 ```
 
@@ -320,13 +296,13 @@ Add **us** or **un** for dative and instrumental:
 
 ```text
 gavatyvin      bök  petänusviu
-give.PST.1SG.V book teacher.DAT.1SG.GEN
+give-PST-1SG-V book teacher-DAT-1SG-GEN
 "I gave the book to my teacher"
 ```
 
 ```text
 niapätin      tasun
-eat.PRS.2SG.V spoon.INSTR
+eat-PRS-2SG-V spoon-INSTR
 "You eat using a spoon"
 ```
 
@@ -353,13 +329,13 @@ apple  COORD banana
 
 ```text
 sianävi     lyy siemäti
-see.PRS.1SG SIM run.PRS.2SG
+see-PRS-1SG SIM run-PRS-2SG
 "I see while you run"
 ```
 
 ```text
 janävi      sen siemäti
-say.PRS.1SG SEQ run.PRS.2SG
+say-PRS-1SG SEQ run-PRS-2SG
 "I talk after you run"
 ```
 
@@ -371,25 +347,25 @@ There are some suffixes that can be used to modify what words are used for.
 
 ```text
 silunare
-table.LOC.LOC
+table-LOC-LOC
 "on the table"
 ```
 
 ```text
 siupnanie
-box.LOC.INE
+box-LOC-INE
 "in the box"
 ```
 
 ```text
 iskelnalan
-school.LOC.ABL
+school-LOC-ABL
 "from the school"
 ```
 
 ```text
 pasarnalas
-market.LOC.ALL
+market-LOC-ALL
 "towards the market"
 ```
 
@@ -399,7 +375,7 @@ Relative clauses are surrounded by **te** and **to**.
 
 ```text
 maru te   diagy     iste  to
-cat  REL- drink.PST water -REL
+cat  REL- drink-PST water -REL
 "the cat which drank the water"
 ```
 
@@ -415,13 +391,13 @@ EXCLAM EXPL
 
 ```text
 sidal
-3SG.PEJ
+3SG-PEJ
 "that damn person"
 ```
 
 ```text
 dagavatätil          renoden     vius,   tidal
-IMP.give.PRS.2SG.VII copper.EXPL 1SG.DAT 2SG.PEJ
+IMP-give-PRS-2SG-VII copper-EXPL 1SG-DAT 2SG-PEJ
 "Give me the damn copper, you"
 ```
 
@@ -431,7 +407,7 @@ IMP.give.PRS.2SG.VII copper.EXPL 1SG.DAT 2SG.PEJ
 
 ```text
 pilsä  ginevut   puten  byr pingä ginevun
-banana good.CMPR grapes but apple good.SUP
+banana good-CMPR grapes but apple good-SUP
 "bananas are better than grapes but apples are the best"
 ```
 
@@ -441,7 +417,7 @@ banana good.CMPR grapes but apple good.SUP
 
 ```text
 marusä  i     aryvty
-cat.DIM COORD dog.AUG
+cat-DIM COORD dog-AUG
 "small cat and large dog"
 ```
 
