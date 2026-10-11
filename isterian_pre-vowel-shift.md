@@ -171,7 +171,7 @@ Class VII: Nouns derived from verbs or adjectives
 | VII   | y/r   |
 | VIII  | e/s   |
 
-Affixes are applied to nouns onto verbs. The subject adds a prefix and the object adds a suffix. If the word begins with a consonant, the vowel affix is used, and vice versa. Words derived from verbs use class VIII by default, while words derived from nouns use the noun's original class.
+Affixes are applied to nouns onto verbs. The subject adds a prefix and the object adds a suffix. If the word begins with a consonant, the vowel affix is used, and vice versa. Words derived from verbs use class VIII by default, while words derived from nouns use the noun's original class, or if there are more than two, the main noun.
 
 ### Word Order
 
@@ -467,6 +467,8 @@ If the number ends in a vowel, the bracketed consonant is present.
 
 Large numbers may be hyphenated for legibility.
 
+Alternatively, numbers can be written digit by digit, although the number then must be preceded by `sa`.
+
 | Example                    | Number            |
 |----------------------------|-------------------|
 | has                        | 1                 |
@@ -477,6 +479,7 @@ Large numbers may be hyphenated for legibility.
 | mairitre                   | 400               |
 | kalitre                    | 500               |
 | kapäny-dagitre-regnere-pas | 9876              |
+| sakalreitav                | 5432              |
 | altav                      | 1,000,000,000,000 |
 
 ## Lexicon
@@ -567,6 +570,7 @@ Large numbers may be hyphenated for legibility.
 | noun           | pirip  | IV    | rain             |
 | noun           | lagan  | IV    | mountain         |
 | noun           | ringön | IV    | force            |
+| noun           | vene   | IV    | land             |
 | noun           | tas    | V     | spoon            |
 | noun           | siup   | V     | box              |
 | noun           | silu   | V     | table            |

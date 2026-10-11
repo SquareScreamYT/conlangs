@@ -541,6 +541,7 @@ Large numbers may be hyphenated for legibility.
 | verb           | sierte | -     | write            |
 | verb           | hene   | -     | think            |
 | verb           | gavat  | -     | give             |
+| verb           | lese   | -     | govern           |
 | verb           | dova   | -     | work             |
 | verb           | jaras  | -     | look for, seek   |
 | verb           | diag   | -     | drink            |
@@ -568,6 +569,7 @@ Large numbers may be hyphenated for legibility.
 | noun           | runo   | IV    | moon             |
 | noun           | pirip  | IV    | rain             |
 | noun           | lagan  | IV    | mountain         |
+| noun           | vene  | IV    | land         |
 | noun           | ringon | IV    | force            |
 | noun           | tas    | V     | spoon            |
 | noun           | siup   | V     | box              |
