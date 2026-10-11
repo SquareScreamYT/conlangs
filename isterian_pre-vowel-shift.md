@@ -38,8 +38,9 @@ Istekainen (lit. water settlement) is the Isterian name for Tanisuz̃u, a city i
 * [s] becomes [z] after [d]
 * [ng] and [nk] become [ŋ] and [ŋk]
 * [mb] and [nd] become [mː] and [nː]
+* [r] becomes [ɐ̯] in coda position
+* [l] becomes [ẅ] in coda position
 * [v] becomes [f] word-finally
-* [l] becomes [w] word-finally
 * [i] can be dropped after any palatalised consonant word-finally
 
 ### Phonotactics
@@ -48,6 +49,14 @@ Istekainen (lit. water settlement) is the Isterian name for Tanisuz̃u, a city i
 * **Onset:** any consonant
 * **Nucleus:** any vowel, except [ɔ] only appears in loanwords
 * **Coda:** any consonant except [j]
+
+* Two identical vowels are separated by an epenthetic v:
+
+```text
+maruvu
+maru-v-u
+cat-EPEN-GEN
+```
 
 ## Script
 
@@ -156,7 +165,7 @@ Affixes are applied to nouns onto verbs. The subject adds a prefix and the objec
 Isterian is SVO. Pronouns stack onto the verb.
 
 ```text
-gatyy isianät        pingä
+gaty  isianät        pingä
 mouse II-see-PRS-III apple
 "the mouse sees an apple"
 ```
@@ -187,7 +196,7 @@ see-PRS-1SG 2SG
 |--------------------|--------|
 | "can" ABIL         | m      |
 | "may" PERM         | s      |
-| "might" POSS       | v      |
+| "might" POSS       | n      |
 | "must/need" NEC    | g      |
 | "should/shall" OBL | s      |
 | "want" DES         | b      |
@@ -328,7 +337,7 @@ apple  COORD banana
 ```
 
 ```text
-sianävi     lyy siemäti
+sianävi     ly  siemäti
 see-PRS-1SG SIM run-PRS-2SG
 "I see while you run"
 ```
@@ -536,6 +545,7 @@ Alternatively, numbers can be written digit by digit, although the number then m
 | noun           | maru   | II    | cat              |
 | noun           | aryv   | II    | dog              |
 | noun           | besnö  | II    | fish             |
+| noun           | gaty   | II    | mouse            |
 | noun           | vys    | III   | seaweed          |
 | noun           | pyv    | III   | mushroom         |
 | noun           | puten  | III   | grape            |
