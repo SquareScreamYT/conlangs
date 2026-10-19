@@ -56,7 +56,7 @@ Istekainen (lit. water settlement) is the Isterian name for Tanisuz̃u, a city i
 ```text
 maruvu
 maru-v-u
-cat-EPEN-GEN
+cat-EP-GEN
 ```
 
 ## Script
@@ -183,6 +183,14 @@ see-PRS-1SG 2SG
 "I see you"
 ```
 
+Pronouns and nouns can also be substituted and dropped if there is an affix:
+
+```text
+sianämvinek
+see-PRS-ABIL-1SG-NEG-I
+"I cannot see them"
+```
+
 ### Tense
 
 | Tense   | Suffix |
@@ -242,6 +250,12 @@ Q-see-PRS-2SG-III apple
 lijalak
 Q-reason
 "why?"
+```
+
+```text
+liti?
+Q-2SG
+"who are you?"
 ```
 
 ### Imperative
