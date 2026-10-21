@@ -347,7 +347,8 @@ eat-PRS-2SG-V spoon-INSTR
 | i          | and     COORD |
 | ly         | while   SIM   |
 | sen        | after   SEQ   |
-| gor        | because CAUS  |
+| gor        | because REAS  |
+| jeg        | as such CAUS  |
 | eire       | with    COM   |
 | byr        | but           |
 | söt        | then          |
@@ -403,6 +404,12 @@ market-LOC-ALL
 "towards the market"
 ```
 
+```text
+romanatis
+road-LOC-PROL
+"via the road"
+```
+
 ### Relative Clauses
 
 Relative clauses are surrounded by **te** and **to**, with **nä** taking the place of the noun in the sentence.
@@ -453,6 +460,16 @@ banana good-CMPR grapes but apple good-SUP
 marusä  i     aryvty
 cat-DIM COORD dog-AUG
 "small cat and large dog"
+```
+
+### Vice Versa
+
+The word **rua** means something along the lines of "vice versa". It is placed at the end of a sentence to denote that the sentence is still true with its subject and object swapped.
+
+```text
+rense ovastasym       kalja rua
+wind  VI-fight-PRS-VI sun   RECP
+"the wind and the sun were arguing with each other"
 ```
 
 ### Numbers
@@ -546,6 +563,7 @@ Numbers come before the noun they modify.
 | verb           | pera   | -     | sleep            |
 | verb           | päri   | -     | stand            |
 | verb           | niap   | -     | eat              |
+| verb           | sueki  | -     | travel, explore  |
 | verb           | möra   | -     | sit              |
 | verb           | lera   | -     | read             |
 | verb           | läga   | -     | go               |
@@ -562,6 +580,7 @@ Numbers come before the noun they modify.
 | verb           | iri    | -     | become           |
 | verb           | mimi   | -     | wait             |
 | verb           | toki   | -     | clean            |
+| verb           | vastas | -     | fight            |
 | noun           | väinen | I     | healer           |
 | noun           | säs    | I     | person           |
 | noun           | petän  | I     | teacher          |
@@ -586,8 +605,11 @@ Numbers come before the noun they modify.
 | noun           | lagan  | IV    | mountain         |
 | noun           | ringön | IV    | force            |
 | noun           | vene   | IV    | land             |
+| noun           | rense  | IV    | wind             |
+| noun           | kalja  | IV    | sun              |
 | noun           | tas    | V     | spoon            |
 | noun           | siup   | V     | box              |
+| noun           | roma   | V     | road, path       |
 | noun           | silu   | V     | table            |
 | noun           | pasar  | V     | market           |
 | noun           | padat  | V     | ship             |
@@ -628,5 +650,23 @@ Numbers come before the noun they modify.
 | adj/adv        | gial   | -     | fast             |
 | adj/adv        | erjel  | -     | beautiful        |
 | adj/adv        | bärjän | -     | real             |
+| adj/adv        | lesin  | -     | strong           |
+| adj/adv        | tesa   | -     | north            |
+| adj/adv        | ropa   | -     | south            |
+| adj/adv        | kajan  | -     | east             |
+| adj/adv        | akja   | -     | west             |
+| adj/adv        | kivia  | -     | sudden           |
 
 ## Translations
+
+### The North Wind And The Sun
+
+```text
+tesarense  ovastasym       kalja te   linä lesinut     to   rua.
+north-wind VI-fight-PRS-VI sun   REL- Q.3R strong.CMPR -REL RECP
+"The North Wind and the Sun were arguing with each other about who was stronger."
+
+sianysäs         suekisiäs    romanare     jeg  kalja janysi:
+see-PST-3PL.VIII travel.AGENT road-LOC-LOC CAUS sun   say.PST.3SG
+"Suddenly, they saw a traveller on a road, and the Sun said:"
+```
