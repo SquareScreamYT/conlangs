@@ -59,6 +59,8 @@ maru-v-u
 cat-EP-GEN
 ```
 
+* Stress falls on the penultimate syllable.
+
 ## Script
 
 ## Grammar
@@ -68,7 +70,9 @@ cat-EP-GEN
 |    | 1  | 2  | 3  | NDEF/0 |
 |----|----|----|----|--------|
 | SG | vi | ti | si | ki     |
-| PL | vä | tä | nä | ki     |
+| PL | vä | tä | sä | ki     |
+
+Additionally, ni is used for any reflexive pronoun.
 
 ### Word Classes
 
@@ -181,6 +185,12 @@ see-PRS-1SG-III apple
 sianävi     ti
 see-PRS-1SG 2SG
 "I see you"
+```
+
+```text
+maru isianä     ni
+cat  II-see-PRS 3R
+"the cat sees itself"
 ```
 
 Pronouns and nouns can also be substituted and dropped if there is an affix:
@@ -395,11 +405,11 @@ market-LOC-ALL
 
 ### Relative Clauses
 
-Relative clauses are surrounded by **te** and **to**.
+Relative clauses are surrounded by **te** and **to**, with **nä** taking the place of the noun in the sentence.
 
 ```text
-maru te   diagy     iste  to
-cat  REL- drink-PST water -REL
+maru te   nä diagyl       iste  to
+cat  REL- 3R drink-PST-VI water -REL
 "the cat which drank the water"
 ```
 
@@ -465,7 +475,7 @@ Isterian uses base 10.
 
 If the number ends in a vowel, the bracketed consonant is present.
 
-⅕ is an exception where it is placed at the end of a number to add 0.5.
+½ is an exception where it is placed at the end of a number to add 0.5.
 
 Large numbers may be hyphenated for legibility.
 
@@ -483,6 +493,8 @@ Alternatively, numbers can be written digit by digit, although the number then m
 | kapäny-dagitre-regnere-pas | 9876              |
 | sakalreitav                | 5432              |
 | altav                      | 1,000,000,000,000 |
+
+Numbers come before the noun they modify.
 
 ## Lexicon
 
