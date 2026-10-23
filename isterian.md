@@ -51,15 +51,16 @@ Istekainen (lit. water settlement) is the Isterian name for Tanisuz̃u, a city i
 * **Nucleus:** any vowel, except [ɔ] only appears in loanwords
 * **Coda:** any consonant except [j]
 
-* Two identical vowels are separated by an epenthetic v:
+* Two identical vowels are separated by an epenthetic [s], written as ⟨z⟩:
 
 ```text
-maruvu
-maru-v-u
+maruzu
 cat-EP-GEN
 ```
 
-* Stress falls on the penultimate syllable.
+This also applies to pairs of [i y], [a ɛ], [e ø] and [ø o].
+
+* Stress falls on the penultimate syllable. In texts, this can be marked with an acute or circumflex for umlauted vowels. The diacritic on the last vowel that is not [i] or [u] in a diphthong. If a diphthong consists of only [i] and [u], it is placed on the last vowel.
 
 ## Script
 
@@ -540,6 +541,7 @@ Numbers come before the noun they modify.
 | Affix | Meaning              |
 |-------|----------------------|
 | -ys   | -coloured            |
+| -nöl  | causative `CAUS`     |
 | -räs  | nominaliser `NMZ`    |
 | -ner  | adjectivizer (-able) |
 | -jyk  | n-sided shape        |
@@ -549,124 +551,157 @@ Numbers come before the noun they modify.
 
 ### Roots
 
-| Part of Speech | Root   | Class | Meaning          |
-|----------------|--------|-------|------------------|
-| verb           | yra    | -     | live             |
-| verb           | vele   | -     | love             |
-| verb           | vara   | -     | know             |
-| verb           | tyra   | -     | write            |
-| verb           | söka   | -     | hear             |
-| verb           | siem   | -     | run              |
-| verb           | sian   | -     | see              |
-| verb           | sena   | -     | come             |
-| verb           | sedä   | -     | die              |
-| verb           | pera   | -     | sleep            |
-| verb           | päri   | -     | stand            |
-| verb           | niap   | -     | eat              |
-| verb           | sueki  | -     | travel, explore  |
-| verb           | möra   | -     | sit              |
-| verb           | lera   | -     | read             |
-| verb           | läga   | -     | go               |
-| verb           | riga   | -     | dig, unearth     |
-| verb           | kaup   | -     | buy              |
-| verb           | kale   | -     | make, create     |
-| verb           | jan    | -     | speak, say       |
-| verb           | siertä | -     | write            |
-| verb           | hene   | -     | think            |
-| verb           | gavat  | -     | give             |
-| verb           | dova   | -     | work             |
-| verb           | jaras  | -     | look for, seek   |
-| verb           | diag   | -     | drink            |
-| verb           | iri    | -     | become           |
-| verb           | mimi   | -     | wait             |
-| verb           | toki   | -     | clean            |
-| verb           | vastas | -     | fight            |
-| noun           | väinen | I     | healer           |
-| noun           | säs    | I     | person           |
-| noun           | petän  | I     | teacher          |
-| noun           | kenin  | I     | ruler            |
-| noun           | suomi  | I     | friend           |
-| noun           | sipsi  | II    | bird             |
-| noun           | sehni  | II    | butterfly        |
-| noun           | maru   | II    | cat              |
-| noun           | aryv   | II    | dog              |
-| noun           | besnö  | II    | fish             |
-| noun           | gaty   | II    | mouse            |
-| noun           | vys    | III   | seaweed          |
-| noun           | pyv    | III   | mushroom         |
-| noun           | puten  | III   | grape            |
-| noun           | pisik  | III   | grass            |
-| noun           | pingä  | III   | apple            |
-| noun           | pilsä  | III   | banana           |
-| noun           | kyrik  | III   | tree             |
-| noun           | vasas  | IV    | river            |
-| noun           | runo   | IV    | moon             |
-| noun           | pirip  | IV    | rain             |
-| noun           | lagan  | IV    | mountain         |
-| noun           | ringön | IV    | force            |
-| noun           | vene   | IV    | land             |
-| noun           | rense  | IV    | wind             |
-| noun           | kalja  | IV    | sun              |
-| noun           | tas    | V     | spoon            |
-| noun           | siup   | V     | box              |
-| noun           | roma   | V     | road, path       |
-| noun           | silu   | V     | table            |
-| noun           | pasar  | V     | market           |
-| noun           | padat  | V     | ship             |
-| noun           | naven  | V     | road             |
-| noun           | järsi  | V     | knife            |
-| noun           | iskel  | V     | school           |
-| noun           | irbi   | V     | house            |
-| noun           | kainen | V     | city, settlement |
-| noun           | bök    | V     | book             |
-| noun           | viere  | V     | structure        |
-| noun           | pona   | V     | tool             |
-| noun           | ike    | V     | cloth            |
-| noun           | sisäs  | VI    | sand             |
-| noun           | reno   | VI    | copper           |
-| noun           | örben  | VI    | iron             |
-| noun           | iste   | VI    | water            |
-| noun           | hyrse  | VI    | smoke            |
-| noun           | asten  | VI    | rock, stone      |
-| noun           | kyrkä  | VI    | clay             |
-| noun           | vater  | VII   | truth            |
-| noun           | tida   | VII   | 72 minutes       |
-| noun           | seda   | VII   | death            |
-| noun           | myva   | VII   | love             |
-| noun           | reune  | VII   | language         |
-| noun           | iras   | VII   | past             |
-| noun           | irag   | VII   | present          |
-| noun           | irad   | VII   | future           |
-| noun           | vivir  | VII   | pattern          |
-| noun           | jalak  | VII   | reason           |
-| adj/adv        | tery   | -     | old              |
-| adj/adv        | syvä   | -     | cold             |
-| adj/adv        | pyri   | -     | small            |
-| adj/adv        | görys  | -     | hidden           |
-| adj/adv        | niva   | -     | new              |
-| adj/adv        | kelä   | -     | hot              |
-| adj/adv        | gos    | -     | big              |
-| adj/adv        | ginev  | -     | good             |
-| adj/adv        | gial   | -     | fast             |
-| adj/adv        | erjel  | -     | beautiful        |
-| adj/adv        | bärjän | -     | real             |
-| adj/adv        | lesin  | -     | strong           |
-| adj/adv        | tesa   | -     | north            |
-| adj/adv        | ropa   | -     | south            |
-| adj/adv        | kajan  | -     | east             |
-| adj/adv        | akja   | -     | west             |
-| adj/adv        | kivia  | -     | sudden           |
+| Part of Speech | Root   | Class | Meaning                          |
+|----------------|--------|-------|----------------------------------|
+| verb           | yra    | -     | live                             |
+| verb           | vele   | -     | love                             |
+| verb           | vara   | -     | know                             |
+| verb           | tiste  | -     | know (a person), acquainted with |
+| verb           | tyra   | -     | write                            |
+| verb           | söka   | -     | hear                             |
+| verb           | siem   | -     | run                              |
+| verb           | sian   | -     | see                              |
+| verb           | sena   | -     | come                             |
+| verb           | sedä   | -     | die                              |
+| verb           | sädä   | -     | end                              |
+| verb           | gorsa  | -     | begin, start                     |
+| verb           | jursa  | -     | birth                            |
+| verb           | pera   | -     | sleep                            |
+| verb           | päri   | -     | stand                            |
+| verb           | niap   | -     | eat                              |
+| verb           | sueki  | -     | travel, explore                  |
+| verb           | möra   | -     | sit                              |
+| verb           | lera   | -     | read                             |
+| verb           | läga   | -     | go                               |
+| verb           | riga   | -     | dig, unearth                     |
+| verb           | kaup   | -     | buy                              |
+| verb           | kale   | -     | make, create                     |
+| verb           | leva   | -     | remove                           |
+| verb           | jan    | -     | speak, say                       |
+| verb           | siertä | -     | write                            |
+| verb           | hene   | -     | think                            |
+| verb           | gavat  | -     | give                             |
+| verb           | dova   | -     | work                             |
+| verb           | jaras  | -     | look for, seek                   |
+| verb           | diag   | -     | drink                            |
+| verb           | iri    | -     | become                           |
+| verb           | mimi   | -     | wait                             |
+| verb           | toki   | -     | clean                            |
+| verb           | vastas | -     | fight                            |
+| verb           | höysta | -     | hold                             |
+| verb           | silva  | -     | realise                          |
+| verb           | taira  | -     | solve                            |
+| verb           | pysy   | -     | blow                             |
+| noun           | väinen | I     | healer                           |
+| noun           | säs    | I     | person                           |
+| noun           | petän  | I     | teacher                          |
+| noun           | kenin  | I     | ruler                            |
+| noun           | suomi  | I     | friend                           |
+| noun           | niel   | I     | fool                             |
+| noun           | sipsi  | II    | bird                             |
+| noun           | sehni  | II    | butterfly                        |
+| noun           | maru   | II    | cat                              |
+| noun           | aryv   | II    | dog                              |
+| noun           | besnö  | II    | fish                             |
+| noun           | gaty   | II    | mouse                            |
+| noun           | vys    | III   | seaweed                          |
+| noun           | pyv    | III   | mushroom                         |
+| noun           | puten  | III   | grape                            |
+| noun           | pisik  | III   | grass                            |
+| noun           | pingä  | III   | apple                            |
+| noun           | pilsä  | III   | banana                           |
+| noun           | kyrik  | III   | tree                             |
+| noun           | vasas  | IV    | river                            |
+| noun           | runo   | IV    | moon                             |
+| noun           | pirip  | IV    | rain                             |
+| noun           | lagan  | IV    | mountain                         |
+| noun           | ringön | IV    | force                            |
+| noun           | vene   | IV    | land                             |
+| noun           | rense  | IV    | wind                             |
+| noun           | kalja  | IV    | sun                              |
+| noun           | tas    | V     | spoon                            |
+| noun           | siup   | V     | box                              |
+| noun           | roma   | V     | road, path                       |
+| noun           | silu   | V     | table                            |
+| noun           | pasar  | V     | market                           |
+| noun           | padat  | V     | ship                             |
+| noun           | naven  | V     | road                             |
+| noun           | järsi  | V     | knife                            |
+| noun           | iskel  | V     | school                           |
+| noun           | irbi   | V     | house                            |
+| noun           | kainen | V     | city, settlement                 |
+| noun           | bök    | V     | book                             |
+| noun           | viere  | V     | structure                        |
+| noun           | pona   | V     | tool                             |
+| noun           | ike    | V     | cloth                            |
+| noun           | ikea   | V     | cloak, robe                      |
+| noun           | sisäs  | VI    | sand                             |
+| noun           | reno   | VI    | copper                           |
+| noun           | örben  | VI    | iron                             |
+| noun           | iste   | VI    | water                            |
+| noun           | hyrse  | VI    | smoke                            |
+| noun           | asten  | VI    | rock, stone                      |
+| noun           | kyrkä  | VI    | clay                             |
+| noun           | vater  | VII   | truth                            |
+| noun           | tida   | VII   | 72 minutes                       |
+| noun           | seda   | VII   | death                            |
+| noun           | myva   | VII   | love                             |
+| noun           | reune  | VII   | language                         |
+| noun           | iras   | VII   | past                             |
+| noun           | irag   | VII   | present                          |
+| noun           | irad   | VII   | future                           |
+| noun           | vivir  | VII   | pattern                          |
+| noun           | jalak  | VII   | reason                           |
+| adj/adv        | tery   | -     | old                              |
+| adj/adv        | syvä   | -     | cold                             |
+| adj/adv        | rösta  | -     | more                             |
+| adj/adv        | pyri   | -     | small                            |
+| adj/adv        | görys  | -     | hidden                           |
+| adj/adv        | niva   | -     | new                              |
+| adj/adv        | kelä   | -     | hot                              |
+| adj/adv        | gos    | -     | big                              |
+| adj/adv        | ginev  | -     | good                             |
+| adj/adv        | gial   | -     | fast                             |
+| adj/adv        | erjel  | -     | beautiful                        |
+| adj/adv        | bärjän | -     | real                             |
+| adj/adv        | lesin  | -     | strong                           |
+| adj/adv        | tesa   | -     | north                            |
+| adj/adv        | ropa   | -     | south                            |
+| adj/adv        | kajan  | -     | east                             |
+| adj/adv        | akja   | -     | west                             |
+| adj/adv        | lisem  | -     | tight                            |
+| adj/adv        | kivia  | -     | sudden                           |
 
 ## Translations
 
 ### The North Wind And The Sun
 
 ```text
-tesarense  ovastasym       kalja te   linä lesinut     to   rua.
-north-wind VI-fight-PRS-VI sun   REL- Q.3R strong.CMPR -REL RECP
-"The North Wind and the Sun were arguing with each other about who was stronger."
+tesarénse  ovastásym       kálja te   línä lesínut     to   rua
+north-wind VI-fight-PRS-VI sun   REL- Q-3R strong-CMPR -REL RECP
+"The North Wind and the Sun were arguing with each other about who was stronger,"
 
-sianysäs         suekisiäs    romanare     jeg  kalja janysi:
-see-PST-3PL.VIII travel.AGENT road-LOC-LOC CAUS sun   say.PST.3SG
-"Suddenly, they saw a traveller on a road, and the Sun said:"
+ly  kívia  sianýsäs         suekísiäs    romanáre     jeg  kálja janýsi:
+SIM sudden see-PST-3PL-VIII travel-AGENT road-LOC-LOC CAUS sun   say-PST-3SG
+"when suddenly, they saw a traveller on a road, and the Sun said:"
+
+«varazâvis           tairaräsdiasilvarâsu.»
+know-EP-PRS-1SG-VIII solve-NMZ-PRX-fight-NMZ-GEN
+"I know the solution to this dispute."
+
+«lesinútsiäs      elevanölôme                    suekísiäs    ikeasiúzus.»
+strong-CMPR-AGENT VIII-remove-CAUS-FUT-ABIL-VIII travel-AGENT cloak-3SG-GEN-EP-DAT
+"The stronger one can cause that traveller to remove his cloak."
+
+«dagorsazâti.»
+IMP-start-EP-PRS-2SG
+"You begin."
+
+tesarénse  pysýzy      gósun   lesinrässiúzun
+north-wind blow-EP-PST big-SUP strong-NMZ-3SG-GEN-EP-INSTR
+"The North Wind blew with his greatest strength,"
+
+byr pysyzýsi       rôsta ly  suekísiäs    lísem ehôystay      rôsta.
+but blow-EP-PST-SG more  SIM travel-AGENT tight VIII-hold-PST more
+"but the more he blew, the more tightly the traveller held the cloak."
 ```
