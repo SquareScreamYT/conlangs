@@ -1,4 +1,6 @@
-# Rose Elder
+# Flora
+
+## Rose Elder
 
 **Sambucus rosea** (Isterian: *rystek*), also known as rose elder,
 is a species of shrub in the moschatel family Viburnaceae.
@@ -9,7 +11,7 @@ It is widely grown as an ornamental shrub or small tree.
 Both the flowers and the berries have a long tradition of culinary use, primarily for syrups, jams and tea.
 It is culturally significant to the Isterians, where it is the national flower.
 
-## Description
+### Description
 
 The rose elder is a deciduous shrub or small tree often growing to 2-4 meters tall; in some cases, trees can reach up to 6m tall.
 They typically live for up to 120 years, taking approximately 10 years to reach maturity.
@@ -27,7 +29,7 @@ It is eaten by birds, which disperse the seeds in their droppings.
 The rich colour results from their anthocyanin content.
 The fruit and flowers contain a low amount of cyanogenic glycosides and sambunigrin compared to the leaves, seeds, branches and sap.
 
-## Use
+### Use
 
 The bright red berries are edible though with an mild, sweet flavour when fully ripe, but are tart when immature.
 They are traditionally used to make jam, syrups, jelly and wine.
@@ -37,3 +39,20 @@ Commonly, the flowerheads are used to make syrups and tea. Branches of flowers a
 The rose elder is the national flower of Chielbary. In Isterian culture, a single sprig, often accompanied by lilies of the valley,
 left on an enemy's doorstep is a death threat,
 however, when paired with other flowers such as lilacs, lavenders, violets and roses, are a symbol of spring and love.
+
+## Indigo Crocus
+
+**Crocus indica** (Isterian: *karav*), also known as the indigo crocus or northern saffron,
+is a low-growing perennial geophyte that blankets the subarctic alpine meadows and boreal forest floors at the very start of the year.
+Unlike delicate, ornamental crocuses, Crocus indica produces a large corm that is commonly consumed.
+
+### Use
+
+The corm measures 4–7 cm in diameter and is wrapped in a papery, shallot-like tunic.
+When raw, they contain bitter, toxic defensive compounds that deter rodents.
+They are commonly roasted, baked or boiled and are nutrient-dense, and has nutty flavor reminiscent of roasted chestnuts or hazelnuts.
+The roasted corms are frequently ground into a heavy flour for winter flatbreads.
+
+The indigo-violet leaves of the crocus flower can also be brewed into tea.
+Like the saffron crocus, the stigmas of the indigo crocus can be plucked and made into saffron, although the color is noticeably darker.
+The stems can also be prepared and used in salads.
