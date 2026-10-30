@@ -611,6 +611,7 @@ Numbers come before the noun they modify.
 | noun           | pingä  | III   | apple                            |
 | noun           | pilsä  | III   | banana                           |
 | noun           | kyrik  | III   | tree                             |
+| noun           | rystek | III   | [rose elder](/rose_elder)        |
 | noun           | vasas  | IV    | river                            |
 | noun           | runo   | IV    | moon                             |
 | noun           | pirip  | IV    | rain                             |
