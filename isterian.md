@@ -562,6 +562,7 @@ Numbers come before the noun they modify.
 | verb           | siem   | -     | run                              |
 | verb           | sian   | -     | see                              |
 | verb           | sena   | -     | come                             |
+| verb           | sevai  | -     | govern                           |
 | verb           | sedä   | -     | die                              |
 | verb           | sädä   | -     | end                              |
 | verb           | gorsa  | -     | begin, start                     |
@@ -607,11 +608,15 @@ Numbers come before the noun they modify.
 | noun           | vys    | III   | seaweed                          |
 | noun           | pyv    | III   | mushroom                         |
 | noun           | puten  | III   | grape                            |
+| noun           | kaunis | III   | leaf                             |
+| noun           | rysin  | III   | flower                           |
+| noun           | tuntu  | III   | root                             |
 | noun           | pisik  | III   | grass                            |
 | noun           | pingä  | III   | apple                            |
 | noun           | pilsä  | III   | banana                           |
 | noun           | kyrik  | III   | tree                             |
 | noun           | rystek | III   | [rose elder](/flora)             |
+| noun           | karav  | III   | [indigo crocus](/flora)          |
 | noun           | vasas  | IV    | river                            |
 | noun           | runo   | IV    | moon                             |
 | noun           | pirip  | IV    | rain                             |
@@ -638,6 +643,7 @@ Numbers come before the noun they modify.
 | noun           | ikea   | V     | cloak, robe                      |
 | noun           | sisäs  | VI    | sand                             |
 | noun           | reno   | VI    | copper                           |
+| noun           | turi   | VI    | glass                            |
 | noun           | örben  | VI    | iron                             |
 | noun           | iste   | VI    | water                            |
 | noun           | hyrse  | VI    | smoke                            |
@@ -646,6 +652,7 @@ Numbers come before the noun they modify.
 | noun           | vater  | VII   | truth                            |
 | noun           | tida   | VII   | 72 minutes                       |
 | noun           | seda   | VII   | death                            |
+| noun           | akal   | VII   | symbol                           |
 | noun           | myva   | VII   | love                             |
 | noun           | reune  | VII   | language                         |
 | noun           | iras   | VII   | past                             |
